@@ -144,7 +144,7 @@
                                ,"English:")
                             (p ,(english a-word))))
                    (td (@ (class "hiding-cell hanci-cell") (rowspan 3))
-                       ,(render-hanci (simplified a-word))))
+                       ,@(render-hanci (simplified a-word))))
                (tr)
                (tr (td (@ (class "latinletters-cell") (rowspan 2))
                        (div (p (@ (class "word-attribute-label"))
@@ -152,12 +152,21 @@
                             (p ,(pinyin a-word)))))
 
                (tr (td (@ (class "hiding-cell hanci-cell") (rowspan 3))
-                       ,(render-hanci (traditional a-word))))
+                       ,@(render-hanci (traditional a-word))))
                (tr (td (@ (class "latinletters-cell") (rowspan 2))
                        (div (p (@ (class "hiding-cell word-attribute-label"))
                                ,"Pīnyīn #:")
                             (p ,(pinyin-numbered a-word)))))
                (tr))))
+
+(define (render-words-list words-list)
+  `(div (@ (class "content-container"))
+        (div (@ (class "words-container"))#;,(map render-word (get-words-list HSK-1))
+             ,(map render-word-table words-list))))
+
+(define render-hsk-1
+  (lambda ()
+    (render-words-list (get-words-list HSK-1))))
 
 ;; ====== ;;
 ;; ROUTES ;;
@@ -174,9 +183,18 @@
 
 (define-page (main-page-path)
   (lambda ()
-    `(div (@ (class "content-container"))
-          (div (@ (class "words-container"))#;,(map render-word (get-words-list HSK-1))
-               ,(map render-word-table (get-words-list HSK-1)))))
+    `(ul (li (a (@ (href "/hsk-1")) "HSK-1"))
+         (li (a (@ (href "/hsk-2")) "HSK-2"))
+         (li (a (@ (href "/hsk-3")) "HSK-3"))
+         (li (a (@ (href "/hsk-4")) "HSK-4"))
+         (li (a (@ (href "/hsk-5")) "HSK-5"))
+         (li (a (@ (href "/hsk-6")) "HSK-6"))))
+  doctype: doctype-html
+  charset: "utf-8"
+  use-ajax: #t)
+
+(define-page "/hsk-1"
+  render-hsk-1
   doctype: doctype-html
   charset: "utf-8"
   use-ajax: #t)
