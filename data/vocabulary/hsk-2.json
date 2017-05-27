@@ -1,0 +1,1218 @@
+{
+  "metadata": {
+    "identifier": "HSK2",
+    "learned-percentage": 0,
+    "count": 151,
+    "source-note": "vocabulary taken from http://data.hskhsk.com/lists/ created by Alan Davies, alan@hskhsk.com 2013-2017"
+  },
+  "words": [
+    {
+      "english": "particle indicating polite suggestion; | onomatopoeia | bar (serving drinks, providing internet access, etc.)",
+      "pinyin-numbered": "ba5",
+      "simplified": "吧",
+      "pinyin": "ba",
+      "traditional": "吧",
+      "learned": false
+    },
+    {
+      "english": "white; snowy; pure; bright; empty (Kangxi radical 106)",
+      "pinyin-numbered": "bai2",
+      "simplified": "白",
+      "pinyin": "bái",
+      "traditional": "白",
+      "learned": false
+    },
+    {
+      "english": "hundred",
+      "pinyin-numbered": "bai3",
+      "simplified": "百",
+      "pinyin": "bǎi",
+      "traditional": "百",
+      "learned": false
+    },
+    {
+      "english": "help; assist; aid",
+      "pinyin-numbered": "bang1zhu4",
+      "simplified": "帮助",
+      "pinyin": "bāngzhù",
+      "traditional": "幫助",
+      "learned": false
+    },
+    {
+      "english": "newspaper",
+      "pinyin-numbered": "bao4zhi3",
+      "simplified": "报纸",
+      "pinyin": "bàozhǐ",
+      "traditional": "報紙",
+      "learned": false
+    },
+    {
+      "english": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks",
+      "pinyin-numbered": "bi3",
+      "simplified": "比",
+      "pinyin": "bǐ",
+      "traditional": "比",
+      "learned": false
+    },
+    {
+      "english": "don't do something; don't | depart; | other; difference; distinguish",
+      "pinyin-numbered": "bie2",
+      "simplified": "别",
+      "pinyin": "bié",
+      "traditional": "別",
+      "learned": false
+    },
+    {
+      "english": "guesthouse; hotel",
+      "pinyin-numbered": "bin1guan3",
+      "simplified": "宾馆",
+      "pinyin": "bīnguǎn",
+      "traditional": "賓館",
+      "learned": false
+    },
+    {
+      "english": "long; length | grow; chief (Kangxi radical 168)",
+      "pinyin-numbered": "chang2, zhang3",
+      "simplified": "长",
+      "pinyin": "cháng, zhǎng",
+      "traditional": "長",
+      "learned": false
+    },
+    {
+      "english": "sing (a song)",
+      "pinyin-numbered": "chang4ge1",
+      "simplified": "唱歌",
+      "pinyin": "chànggē",
+      "traditional": "唱歌",
+      "learned": false
+    },
+    {
+      "english": "go out; occur",
+      "pinyin-numbered": "chu1",
+      "simplified": "出",
+      "pinyin": "chū",
+      "traditional": "出",
+      "learned": false
+    },
+    {
+      "english": "to wear; put on; penetrate",
+      "pinyin-numbered": "chuan1",
+      "simplified": "穿",
+      "pinyin": "chuān",
+      "traditional": "穿",
+      "learned": false
+    },
+    {
+      "english": "(mw for number of times of occurrence); nth; order",
+      "pinyin-numbered": "ci4",
+      "simplified": "次",
+      "pinyin": "cì",
+      "traditional": "次",
+      "learned": false
+    },
+    {
+      "english": "from; obey; observe",
+      "pinyin-numbered": "cong2",
+      "simplified": "从",
+      "pinyin": "cóng",
+      "traditional": "從",
+      "learned": false
+    },
+    {
+      "english": "mistake; error; blunder; miss an opportunity",
+      "pinyin-numbered": "cuo4",
+      "simplified": "错",
+      "pinyin": "cuò",
+      "traditional": "錯",
+      "learned": false
+    },
+    {
+      "english": "play basketball",
+      "pinyin-numbered": "da3 lan2qiu2",
+      "simplified": "打篮球",
+      "pinyin": "dǎ lánqiú",
+      "traditional": "打籃球",
+      "learned": false
+    },
+    {
+      "english": "everyone",
+      "pinyin-numbered": "da4jia1",
+      "simplified": "大家",
+      "pinyin": "dàjiā",
+      "traditional": "大家",
+      "learned": false
+    },
+    {
+      "english": "arrive (at a place); until (a time)",
+      "pinyin-numbered": "dao4",
+      "simplified": "到",
+      "pinyin": "dào",
+      "traditional": "到",
+      "learned": false
+    },
+    {
+      "english": "(complement particle)",
+      "pinyin-numbered": "de5",
+      "simplified": "得",
+      "pinyin": "de",
+      "traditional": "得",
+      "learned": false
+    },
+    {
+      "english": "to wait; rank; equal; etc.",
+      "pinyin-numbered": "deng3",
+      "simplified": "等",
+      "pinyin": "děng",
+      "traditional": "等",
+      "learned": false
+    },
+    {
+      "english": "younger brother",
+      "pinyin-numbered": "di4di5",
+      "simplified": "弟弟",
+      "pinyin": "dìdi",
+      "traditional": "弟弟",
+      "learned": false
+    },
+    {
+      "english": "first; number 1",
+      "pinyin-numbered": "di4yi1",
+      "simplified": "第一",
+      "pinyin": "dìyī",
+      "traditional": "第一",
+      "learned": false
+    },
+    {
+      "english": "understand; know",
+      "pinyin-numbered": "dong3",
+      "simplified": "懂",
+      "pinyin": "dǒng",
+      "traditional": "懂",
+      "learned": false
+    },
+    {
+      "english": "correct; a pair; to face; be opposite; to; towards",
+      "pinyin-numbered": "dui4",
+      "simplified": "对",
+      "pinyin": "duì",
+      "traditional": "對",
+      "learned": false
+    },
+    {
+      "english": "room",
+      "pinyin-numbered": "fang2jian1",
+      "simplified": "房间",
+      "pinyin": "fángjiān",
+      "traditional": "房間",
+      "learned": false
+    },
+    {
+      "english": "extremely; extraordinary; very",
+      "pinyin-numbered": "fei1chang2",
+      "simplified": "非常",
+      "pinyin": "fēicháng",
+      "traditional": "非常",
+      "learned": false
+    },
+    {
+      "english": "waiter/waitress; server; attendant",
+      "pinyin-numbered": "fu2wu4yuan2",
+      "simplified": "服务员",
+      "pinyin": "fúwùyuán",
+      "traditional": "服務員",
+      "learned": false
+    },
+    {
+      "english": "high; tall (Kangxi radical 189)",
+      "pinyin-numbered": "gao1",
+      "simplified": "高",
+      "pinyin": "gāo",
+      "traditional": "高",
+      "learned": false
+    },
+    {
+      "english": "to tell; inform",
+      "pinyin-numbered": "gao4su5",
+      "simplified": "告诉",
+      "pinyin": "gàosu",
+      "traditional": "告訴",
+      "learned": false
+    },
+    {
+      "english": "older brother",
+      "pinyin-numbered": "ge1ge5",
+      "simplified": "哥哥",
+      "pinyin": "gēge",
+      "traditional": "哥哥",
+      "learned": false
+    },
+    {
+      "english": "to give; to grant; (passive particle)",
+      "pinyin-numbered": "gei3",
+      "simplified": "给",
+      "pinyin": "gěi",
+      "traditional": "給",
+      "learned": false
+    },
+    {
+      "english": "(public) bus",
+      "pinyin-numbered": "gong1gong4 qi4che1",
+      "simplified": "公共汽车",
+      "pinyin": "gōnggòng qìchē",
+      "traditional": "公共汽車",
+      "learned": false
+    },
+    {
+      "english": "company; corporation",
+      "pinyin-numbered": "gong1si1",
+      "simplified": "公司",
+      "pinyin": "gōngsī",
+      "traditional": "公司",
+      "learned": false
+    },
+    {
+      "english": "expensive; noble; honorable; Guizhou province (abbreviation)",
+      "pinyin-numbered": "gui4",
+      "simplified": "贵",
+      "pinyin": "guì",
+      "traditional": "貴",
+      "learned": false
+    },
+    {
+      "english": "to pass; to cross; go over; (indicates a past experience)",
+      "pinyin-numbered": "guo4",
+      "simplified": "过",
+      "pinyin": "guò",
+      "traditional": "過",
+      "learned": false
+    },
+    {
+      "english": "still; yet; in addition; even",
+      "pinyin-numbered": "hai2",
+      "simplified": "还",
+      "pinyin": "hái",
+      "traditional": "還",
+      "learned": false
+    },
+    {
+      "english": "child; children; son or daughter",
+      "pinyin-numbered": "hai2zi5",
+      "simplified": "孩子",
+      "pinyin": "háizi",
+      "traditional": "孩子",
+      "learned": false
+    },
+    {
+      "english": "tasty",
+      "pinyin-numbered": "hao3chi1",
+      "simplified": "好吃",
+      "pinyin": "hǎochī",
+      "traditional": "好吃",
+      "learned": false
+    },
+    {
+      "english": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)",
+      "pinyin-numbered": "hei1",
+      "simplified": "黑",
+      "pinyin": "hēi",
+      "traditional": "黑",
+      "learned": false
+    },
+    {
+      "english": "red; symbol of success; bonus; popular",
+      "pinyin-numbered": "hong2",
+      "simplified": "红",
+      "pinyin": "hóng",
+      "traditional": "紅",
+      "learned": false
+    },
+    {
+      "english": "train station",
+      "pinyin-numbered": "huo3che1zhan4",
+      "simplified": "火车站",
+      "pinyin": "huǒchēzhàn",
+      "traditional": "火車站",
+      "learned": false
+    },
+    {
+      "english": "airport; airfield",
+      "pinyin-numbered": "ji1chang3",
+      "simplified": "机场",
+      "pinyin": "jīchǎng",
+      "traditional": "機場",
+      "learned": false
+    },
+    {
+      "english": "(chicken) egg",
+      "pinyin-numbered": "ji1dan4",
+      "simplified": "鸡蛋",
+      "pinyin": "jīdàn",
+      "traditional": "雞蛋",
+      "learned": false
+    },
+    {
+      "english": "(mw for things, clothes, and items)",
+      "pinyin-numbered": "jian4",
+      "simplified": "件",
+      "pinyin": "jiàn",
+      "traditional": "件",
+      "learned": false
+    },
+    {
+      "english": "classroom",
+      "pinyin-numbered": "jiao4shi4",
+      "simplified": "教室",
+      "pinyin": "jiàoshì",
+      "traditional": "教室",
+      "learned": false
+    },
+    {
+      "english": "older sister",
+      "pinyin-numbered": "jie3jie5",
+      "simplified": "姐姐",
+      "pinyin": "jiějie",
+      "traditional": "姐姐",
+      "learned": false
+    },
+    {
+      "english": "to introduce; recommend; introduction",
+      "pinyin-numbered": "jie4shao4",
+      "simplified": "介绍",
+      "pinyin": "jièshào",
+      "traditional": "介紹",
+      "learned": false
+    },
+    {
+      "english": "enter; come in",
+      "pinyin-numbered": "jin4",
+      "simplified": "进",
+      "pinyin": "jìn",
+      "traditional": "進",
+      "learned": false
+    },
+    {
+      "english": "near; close (to)",
+      "pinyin-numbered": "jin4",
+      "simplified": "近",
+      "pinyin": "jìn",
+      "traditional": "近",
+      "learned": false
+    },
+    {
+      "english": "then; at once; just; only; with regard to",
+      "pinyin-numbered": "jiu4",
+      "simplified": "就",
+      "pinyin": "jiù",
+      "traditional": "就",
+      "learned": false
+    },
+    {
+      "english": "feel; think",
+      "pinyin-numbered": "jue2de5",
+      "simplified": "觉得",
+      "pinyin": "juéde",
+      "traditional": "覺得",
+      "learned": false
+    },
+    {
+      "english": "coffee",
+      "pinyin-numbered": "ka1fei1",
+      "simplified": "咖啡",
+      "pinyin": "kāfēi",
+      "traditional": "咖啡",
+      "learned": false
+    },
+    {
+      "english": "begin; to start; beginning",
+      "pinyin-numbered": "kai1shi3",
+      "simplified": "开始",
+      "pinyin": "kāishǐ",
+      "traditional": "開始",
+      "learned": false
+    },
+    {
+      "english": "test; exam; to give or take a test",
+      "pinyin-numbered": "kao3shi4",
+      "simplified": "考试",
+      "pinyin": "kǎoshì",
+      "traditional": "考試",
+      "learned": false
+    },
+    {
+      "english": "possible; maybe",
+      "pinyin-numbered": "ke3neng2",
+      "simplified": "可能",
+      "pinyin": "kěnéng",
+      "traditional": "可能",
+      "learned": false
+    },
+    {
+      "english": "can; may; possible; okay",
+      "pinyin-numbered": "ke3yi3",
+      "simplified": "可以",
+      "pinyin": "kěyǐ",
+      "traditional": "可以",
+      "learned": false
+    },
+    {
+      "english": "class; subject; lesson; course",
+      "pinyin-numbered": "ke4",
+      "simplified": "课",
+      "pinyin": "kè",
+      "traditional": "課",
+      "learned": false
+    },
+    {
+      "english": "fast; quick; swift",
+      "pinyin-numbered": "kuai4",
+      "simplified": "快",
+      "pinyin": "kuài",
+      "traditional": "快",
+      "learned": false
+    },
+    {
+      "english": "happy",
+      "pinyin-numbered": "kuai4le4",
+      "simplified": "快乐",
+      "pinyin": "kuàilè",
+      "traditional": "快樂",
+      "learned": false
+    },
+    {
+      "english": "tired",
+      "pinyin-numbered": "lei4",
+      "simplified": "累",
+      "pinyin": "lèi",
+      "traditional": "累",
+      "learned": false
+    },
+    {
+      "english": "leave; depart; go away; apart from",
+      "pinyin-numbered": "li2",
+      "simplified": "离",
+      "pinyin": "lí",
+      "traditional": "離",
+      "learned": false
+    },
+    {
+      "english": "two; 2; both; (unit of weight equal to 50 grams)",
+      "pinyin-numbered": "liang3",
+      "simplified": "两",
+      "pinyin": "liǎng",
+      "traditional": "兩",
+      "learned": false
+    },
+    {
+      "english": "zero; remnant",
+      "pinyin-numbered": "ling2",
+      "simplified": "零",
+      "pinyin": "líng",
+      "traditional": "零",
+      "learned": false
+    },
+    {
+      "english": "road; path; journey; route",
+      "pinyin-numbered": "lu4",
+      "simplified": "路",
+      "pinyin": "lù",
+      "traditional": "路",
+      "learned": false
+    },
+    {
+      "english": "trip; journey; tour",
+      "pinyin-numbered": "lv3you2",
+      "simplified": "旅游",
+      "pinyin": "lǚyóu",
+      "traditional": "旅游",
+      "learned": false
+    },
+    {
+      "english": "to sell",
+      "pinyin-numbered": "mai4",
+      "simplified": "卖",
+      "pinyin": "mài",
+      "traditional": "賣",
+      "learned": false
+    },
+    {
+      "english": "slow",
+      "pinyin-numbered": "man4",
+      "simplified": "慢",
+      "pinyin": "màn",
+      "traditional": "慢",
+      "learned": false
+    },
+    {
+      "english": "busy",
+      "pinyin-numbered": "mang2",
+      "simplified": "忙",
+      "pinyin": "máng",
+      "traditional": "忙",
+      "learned": false
+    },
+    {
+      "english": "each; every",
+      "pinyin-numbered": "mei3",
+      "simplified": "每",
+      "pinyin": "měi",
+      "traditional": "每",
+      "learned": false
+    },
+    {
+      "english": "younger sister",
+      "pinyin-numbered": "mei4mei5",
+      "simplified": "妹妹",
+      "pinyin": "mèimei",
+      "traditional": "妹妹",
+      "learned": false
+    },
+    {
+      "english": "door; opening; gate (Kangxi radical 169)",
+      "pinyin-numbered": "men2",
+      "simplified": "门",
+      "pinyin": "mén",
+      "traditional": "門",
+      "learned": false
+    },
+    {
+      "english": "noodles",
+      "pinyin-numbered": "mian4tiao2",
+      "simplified": "面条",
+      "pinyin": "miàntiáo",
+      "traditional": "面條",
+      "learned": false
+    },
+    {
+      "english": "male",
+      "pinyin-numbered": "nan2",
+      "simplified": "男",
+      "pinyin": "nán",
+      "traditional": "男",
+      "learned": false
+    },
+    {
+      "english": "you (polite)",
+      "pinyin-numbered": "nin2",
+      "simplified": "您",
+      "pinyin": "nín",
+      "traditional": "您",
+      "learned": false
+    },
+    {
+      "english": "cow's milk",
+      "pinyin-numbered": "niu2nai3",
+      "simplified": "牛奶",
+      "pinyin": "niúnǎi",
+      "traditional": "牛奶",
+      "learned": false
+    },
+    {
+      "english": "woman; female (Kangxi radical 38)",
+      "pinyin-numbered": "nv3",
+      "simplified": "女",
+      "pinyin": "nǚ",
+      "traditional": "女",
+      "learned": false
+    },
+    {
+      "english": "side, beside",
+      "pinyin-numbered": "pang2bian1",
+      "simplified": "旁边",
+      "pinyin": "pángbiān",
+      "traditional": "旁邊",
+      "learned": false
+    },
+    {
+      "english": "to run; to jog",
+      "pinyin-numbered": "pao3bu4",
+      "simplified": "跑步",
+      "pinyin": "pǎobù",
+      "traditional": "跑步",
+      "learned": false
+    },
+    {
+      "english": "cheap",
+      "pinyin-numbered": "pian2yi5",
+      "simplified": "便宜",
+      "pinyin": "piányi",
+      "traditional": "便宜",
+      "learned": false
+    },
+    {
+      "english": "ticket; bank note; a vote",
+      "pinyin-numbered": "piao4",
+      "simplified": "票",
+      "pinyin": "piào",
+      "traditional": "票",
+      "learned": false
+    },
+    {
+      "english": "wife",
+      "pinyin-numbered": "qi1zi5",
+      "simplified": "妻子",
+      "pinyin": "qīzi",
+      "traditional": "妻子",
+      "learned": false
+    },
+    {
+      "english": "get out of bed",
+      "pinyin-numbered": "qi3chuang2",
+      "simplified": "起床",
+      "pinyin": "qǐ chuáng",
+      "traditional": "起床",
+      "learned": false
+    },
+    {
+      "english": "one thousand",
+      "pinyin-numbered": "qian1",
+      "simplified": "千",
+      "pinyin": "qiān",
+      "traditional": "千",
+      "learned": false
+    },
+    {
+      "english": "pencil",
+      "pinyin-numbered": "qian1bi3",
+      "simplified": "铅笔",
+      "pinyin": "qiānbǐ",
+      "traditional": "鉛筆",
+      "learned": false
+    },
+    {
+      "english": "clear; fine (as of weather)",
+      "pinyin-numbered": "qing2",
+      "simplified": "晴",
+      "pinyin": "qíng",
+      "traditional": "晴",
+      "learned": false
+    },
+    {
+      "english": "last year",
+      "pinyin-numbered": "qu4nian2",
+      "simplified": "去年",
+      "pinyin": "qùnián",
+      "traditional": "去年",
+      "learned": false
+    },
+    {
+      "english": "ask; let; yield",
+      "pinyin-numbered": "rang4",
+      "simplified": "让",
+      "pinyin": "ràng",
+      "traditional": "讓",
+      "learned": false
+    },
+    {
+      "english": "sun; day; date; time (Kangxi radical 72)",
+      "pinyin-numbered": "ri4",
+      "simplified": "日",
+      "pinyin": "rì",
+      "traditional": "日",
+      "learned": false
+    },
+    {
+      "english": "go to work; be on duty",
+      "pinyin-numbered": "shang4ban1",
+      "simplified": "上班",
+      "pinyin": "shàngbān",
+      "traditional": "上班",
+      "learned": false
+    },
+    {
+      "english": "health; (human) body",
+      "pinyin-numbered": "shen1ti3",
+      "simplified": "身体",
+      "pinyin": "shēntǐ",
+      "traditional": "身體",
+      "learned": false
+    },
+    {
+      "english": "get sick; fall ill",
+      "pinyin-numbered": "sheng1bing4",
+      "simplified": "生病",
+      "pinyin": "shēngbìng",
+      "traditional": "生病",
+      "learned": false
+    },
+    {
+      "english": "birthday",
+      "pinyin-numbered": "sheng1ri4",
+      "simplified": "生日",
+      "pinyin": "shēngrì",
+      "traditional": "生日",
+      "learned": false
+    },
+    {
+      "english": "time; period",
+      "pinyin-numbered": "shi2jian1",
+      "simplified": "时间",
+      "pinyin": "shíjiān",
+      "traditional": "時間",
+      "learned": false
+    },
+    {
+      "english": "matter; affair; thing; business",
+      "pinyin-numbered": "shi4qing5",
+      "simplified": "事情",
+      "pinyin": "shìqing",
+      "traditional": "事情",
+      "learned": false
+    },
+    {
+      "english": "wristwatch",
+      "pinyin-numbered": "shou3biao3",
+      "simplified": "手表",
+      "pinyin": "shǒubiǎo",
+      "traditional": "手表",
+      "learned": false
+    },
+    {
+      "english": "mobile (cell) phone",
+      "pinyin-numbered": "shou3ji1",
+      "simplified": "手机",
+      "pinyin": "shǒujī",
+      "traditional": "手機",
+      "learned": false
+    },
+    {
+      "english": "to talk; speak",
+      "pinyin-numbered": "shuo1hua4",
+      "simplified": "说话",
+      "pinyin": "shuōhuà",
+      "traditional": "說話",
+      "learned": false
+    },
+    {
+      "english": "deliver; to carry; to give; send",
+      "pinyin-numbered": "song4",
+      "simplified": "送",
+      "pinyin": "sòng",
+      "traditional": "送",
+      "learned": false
+    },
+    {
+      "english": "although; even though",
+      "pinyin-numbered": "sui1ran2",
+      "simplified": "虽然",
+      "pinyin": "suīrán",
+      "traditional": "雖然",
+      "learned": false
+    },
+    {
+      "english": "but; however",
+      "pinyin-numbered": "dan4shi4",
+      "simplified": "但是",
+      "pinyin": "dànshì",
+      "traditional": "但是",
+      "learned": false
+    },
+    {
+      "english": "it",
+      "pinyin-numbered": "ta1",
+      "simplified": "它",
+      "pinyin": "tā",
+      "traditional": "它",
+      "learned": false
+    },
+    {
+      "english": "to play football/soccer",
+      "pinyin-numbered": "ti1zu2qiu2",
+      "simplified": "踢足球",
+      "pinyin": "tīzúqiú",
+      "traditional": "踢足球",
+      "learned": false
+    },
+    {
+      "english": "topic; subject; question on a test or assignment",
+      "pinyin-numbered": "ti2",
+      "simplified": "题",
+      "pinyin": "tí",
+      "traditional": "題",
+      "learned": false
+    },
+    {
+      "english": "to dance",
+      "pinyin-numbered": "tiao4wu3",
+      "simplified": "跳舞",
+      "pinyin": "tiàowǔ",
+      "traditional": "跳舞",
+      "learned": false
+    },
+    {
+      "english": "outer; outside; in addition; foreign",
+      "pinyin-numbered": "wai4",
+      "simplified": "外",
+      "pinyin": "wài",
+      "traditional": "外",
+      "learned": false
+    },
+    {
+      "english": "to finish; be over; complete",
+      "pinyin-numbered": "wan2",
+      "simplified": "完",
+      "pinyin": "wán",
+      "traditional": "完",
+      "learned": false
+    },
+    {
+      "english": "to play; have a good time; visit; enjoy",
+      "pinyin-numbered": "wan2",
+      "simplified": "玩",
+      "pinyin": "wán",
+      "traditional": "玩",
+      "learned": false
+    },
+    {
+      "english": "evening; night",
+      "pinyin-numbered": "wan3shang5",
+      "simplified": "晚上",
+      "pinyin": "wǎnshang",
+      "traditional": "晚上",
+      "learned": false
+    },
+    {
+      "english": "to go (in a direction); towards; in the past",
+      "pinyin-numbered": "wang3",
+      "simplified": "往",
+      "pinyin": "wǎng",
+      "traditional": "往",
+      "learned": false
+    },
+    {
+      "english": "why?; for what reason?",
+      "pinyin-numbered": "wei4shen2me5",
+      "simplified": "为什么",
+      "pinyin": "wèishénme",
+      "traditional": "為什麼",
+      "learned": false
+    },
+    {
+      "english": "ask; inquire",
+      "pinyin-numbered": "wen4",
+      "simplified": "问",
+      "pinyin": "wèn",
+      "traditional": "問",
+      "learned": false
+    },
+    {
+      "english": "question; problem",
+      "pinyin-numbered": "wen4ti2",
+      "simplified": "问题",
+      "pinyin": "wèntí",
+      "traditional": "問題",
+      "learned": false
+    },
+    {
+      "english": "watermelon",
+      "pinyin-numbered": "xi1gua1",
+      "simplified": "西瓜",
+      "pinyin": "xīguā",
+      "traditional": "西瓜",
+      "learned": false
+    },
+    {
+      "english": "to hope; wish for; to desire",
+      "pinyin-numbered": "xi1wang4",
+      "simplified": "希望",
+      "pinyin": "xīwàng",
+      "traditional": "希望",
+      "learned": false
+    },
+    {
+      "english": "to wash; bathe",
+      "pinyin-numbered": "xi3",
+      "simplified": "洗",
+      "pinyin": "xǐ",
+      "traditional": "洗",
+      "learned": false
+    },
+    {
+      "english": "hour",
+      "pinyin-numbered": "xiao3shi2",
+      "simplified": "小时",
+      "pinyin": "xiǎoshí",
+      "traditional": "小時",
+      "learned": false
+    },
+    {
+      "english": "to laugh; to smile",
+      "pinyin-numbered": "xiao4",
+      "simplified": "笑",
+      "pinyin": "xiào",
+      "traditional": "笑",
+      "learned": false
+    },
+    {
+      "english": "new; Xinjiang autonomous region (abbreviation)",
+      "pinyin-numbered": "xin1",
+      "simplified": "新",
+      "pinyin": "xīn",
+      "traditional": "新",
+      "learned": false
+    },
+    {
+      "english": "surname; family name",
+      "pinyin-numbered": "xing4",
+      "simplified": "姓",
+      "pinyin": "xìng",
+      "traditional": "姓",
+      "learned": false
+    },
+    {
+      "english": "to rest; take a break",
+      "pinyin-numbered": "xiu1xi5",
+      "simplified": "休息",
+      "pinyin": "xiūxi",
+      "traditional": "休息",
+      "learned": false
+    },
+    {
+      "english": "snow",
+      "pinyin-numbered": "xue3",
+      "simplified": "雪",
+      "pinyin": "xuě",
+      "traditional": "雪",
+      "learned": false
+    },
+    {
+      "english": "color",
+      "pinyin-numbered": "yan2se4",
+      "simplified": "颜色",
+      "pinyin": "yánsè",
+      "traditional": "顏色",
+      "learned": false
+    },
+    {
+      "english": "eye",
+      "pinyin-numbered": "yan3jing5",
+      "simplified": "眼睛",
+      "pinyin": "yǎnjing",
+      "traditional": "眼睛",
+      "learned": false
+    },
+    {
+      "english": "mutton; lamb",
+      "pinyin-numbered": "yang2rou4",
+      "simplified": "羊肉",
+      "pinyin": "yángròu",
+      "traditional": "羊肉",
+      "learned": false
+    },
+    {
+      "english": "medicine; drug; cure; chemical",
+      "pinyin-numbered": "yao4",
+      "simplified": "药",
+      "pinyin": "yào",
+      "traditional": "藥",
+      "learned": false
+    },
+    {
+      "english": "to want; to need; will/shall; important",
+      "pinyin-numbered": "yao4",
+      "simplified": "要",
+      "pinyin": "yào",
+      "traditional": "要",
+      "learned": false
+    },
+    {
+      "english": "also; too",
+      "pinyin-numbered": "ye3",
+      "simplified": "也",
+      "pinyin": "yě",
+      "traditional": "也",
+      "learned": false
+    },
+    {
+      "english": "together; in the same place",
+      "pinyin-numbered": "yi4qi3",
+      "simplified": "一起",
+      "pinyin": "yìqǐ",
+      "traditional": "一起",
+      "learned": false
+    },
+    {
+      "english": "a little bit/while; one time; once",
+      "pinyin-numbered": "yi2xia4",
+      "simplified": "一下",
+      "pinyin": "yíxià",
+      "traditional": "一下",
+      "learned": false
+    },
+    {
+      "english": "already",
+      "pinyin-numbered": "yi3jing5",
+      "simplified": "已经",
+      "pinyin": "yǐjing",
+      "traditional": "已經",
+      "learned": false
+    },
+    {
+      "english": "meaning; idea; opinion",
+      "pinyin-numbered": "yi4si5",
+      "simplified": "意思",
+      "pinyin": "yìsi",
+      "traditional": "意思",
+      "learned": false
+    },
+    {
+      "english": "because",
+      "pinyin-numbered": "yin1wei4",
+      "simplified": "因为",
+      "pinyin": "yīnwèi",
+      "traditional": "因為",
+      "learned": false
+    },
+    {
+      "english": "so; therefore; as a result",
+      "pinyin-numbered": "suo3yi3",
+      "simplified": "所以",
+      "pinyin": "suǒyǐ",
+      "traditional": "所以",
+      "learned": false
+    },
+    {
+      "english": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade",
+      "pinyin-numbered": "yin1",
+      "simplified": "阴",
+      "pinyin": "yīn",
+      "traditional": "陰",
+      "learned": false
+    },
+    {
+      "english": "to swim",
+      "pinyin-numbered": "you2yong3",
+      "simplified": "游泳",
+      "pinyin": "yóuyǒng",
+      "traditional": "游泳",
+      "learned": false
+    },
+    {
+      "english": "the right (as opposed to left) side",
+      "pinyin-numbered": "you4bian5",
+      "simplified": "右边",
+      "pinyin": "yòubian",
+      "traditional": "右邊",
+      "learned": false
+    },
+    {
+      "english": "fish (Kangxi radical 195)",
+      "pinyin-numbered": "yu2",
+      "simplified": "鱼",
+      "pinyin": "yú",
+      "traditional": "魚",
+      "learned": false
+    },
+    {
+      "english": "far; distant; remote",
+      "pinyin-numbered": "yuan3",
+      "simplified": "远",
+      "pinyin": "yuǎn",
+      "traditional": "遠",
+      "learned": false
+    },
+    {
+      "english": "(physical) exercise; movement; sports; campaign",
+      "pinyin-numbered": "yun4dong4",
+      "simplified": "运动",
+      "pinyin": "yùndòng",
+      "traditional": "運動",
+      "learned": false
+    },
+    {
+      "english": "again; once more",
+      "pinyin-numbered": "zai4",
+      "simplified": "再",
+      "pinyin": "zài",
+      "traditional": "再",
+      "learned": false
+    },
+    {
+      "english": "(early) morning",
+      "pinyin-numbered": "zao3shang5",
+      "simplified": "早上",
+      "pinyin": "zǎoshang",
+      "traditional": "早上",
+      "learned": false
+    },
+    {
+      "english": "husband; man",
+      "pinyin-numbered": "zhang4fu5",
+      "simplified": "丈夫",
+      "pinyin": "zhàngfu",
+      "traditional": "丈夫",
+      "learned": false
+    },
+    {
+      "english": "try to find; look for; seek; to give change",
+      "pinyin-numbered": "zhao3",
+      "simplified": "找",
+      "pinyin": "zhǎo",
+      "traditional": "找",
+      "learned": false
+    },
+    {
+      "english": "-ing (indicating action in progress)",
+      "pinyin-numbered": "zhe5",
+      "simplified": "着",
+      "pinyin": "zhe",
+      "traditional": "著",
+      "learned": false
+    },
+    {
+      "english": "real; true; genuine",
+      "pinyin-numbered": "zhen1",
+      "simplified": "真",
+      "pinyin": "zhēn",
+      "traditional": "真",
+      "learned": false
+    },
+    {
+      "english": "in the process of (doing something); currently",
+      "pinyin-numbered": "zheng4zai4",
+      "simplified": "正在",
+      "pinyin": "zhèngzài",
+      "traditional": "正在",
+      "learned": false
+    },
+    {
+      "english": "know; be aware of",
+      "pinyin-numbered": "zhi1dao5",
+      "simplified": "知道",
+      "pinyin": "zhīdao",
+      "traditional": "知道",
+      "learned": false
+    },
+    {
+      "english": "prepare; get ready",
+      "pinyin-numbered": "zhun3bei4",
+      "simplified": "准备",
+      "pinyin": "zhǔnbèi",
+      "traditional": "准備",
+      "learned": false
+    },
+    {
+      "english": "to walk; to go; to move (Kangxi radical 156)",
+      "pinyin-numbered": "zou3",
+      "simplified": "走",
+      "pinyin": "zǒu",
+      "traditional": "走",
+      "learned": false
+    },
+    {
+      "english": "the most; -est; (indicator for superlative)",
+      "pinyin-numbered": "zui4",
+      "simplified": "最",
+      "pinyin": "zuì",
+      "traditional": "最",
+      "learned": false
+    },
+    {
+      "english": "the left side; the left",
+      "pinyin-numbered": "zuo3bian5",
+      "simplified": "左边",
+      "pinyin": "zuǒbian",
+      "traditional": "左邊",
+      "learned": false
+    }
+  ]
+}

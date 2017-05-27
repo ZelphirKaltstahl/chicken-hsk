@@ -1,0 +1,2616 @@
+metadata: {count: 1300, identifier: HSK5, learned-percentage: 0, source-note: 'vocabulary
+    taken from http://data.hskhsk.com/lists/ created by Alan Davies, alan@hskhsk.com
+    2013-2017'}
+words:
+- {english: hey!; (interjection of surprise or dissatisfaction), learned: false, pinyin: āi,
+  pinyin-numbered: ai1, simplified: 哎, traditional: 哎}
+- {english: (an exclamation indicating resignation); oh well; oh; mm, learned: false,
+  pinyin: ài, pinyin-numbered: ai4, simplified: 唉, traditional: 唉}
+- {english: cherish; reassure; take good care of, learned: false, pinyin: àihù, pinyin-numbered: ai4hu4,
+  simplified: 爱护, traditional: 愛護}
+- {english: cherish; treasure; use sparingly, learned: false, pinyin: àixī, pinyin-numbered: ai4xi1,
+  simplified: 爱惜, traditional: 愛惜}
+- {english: compassion, learned: false, pinyin: àixīn, pinyin-numbered: ai4xin1, simplified: 爱心,
+  traditional: 愛心}
+- {english: to comfort; to console, learned: false, pinyin: ānwèi, pinyin-numbered: an1wei4,
+  simplified: 安慰, traditional: 安慰}
+- {english: install; erect; to fix; to mount, learned: false, pinyin: ānzhuāng, pinyin-numbered: an1zhuang1,
+  simplified: 安装, traditional: 安裝}
+- {english: bank; shore; beach; coast, learned: false, pinyin: àn, pinyin-numbered: an4,
+  simplified: 岸, traditional: 岸}
+- {english: dark; gloomy; hidden; secret, learned: false, pinyin: àn, pinyin-numbered: an4,
+  simplified: 暗, traditional: 暗}
+- {english: stay up very late or all night, learned: false, pinyin: áoyè, pinyin-numbered: ao2ye4,
+  simplified: 熬夜, traditional: 熬夜}
+- {english: grasp; hold; certainty; assurance, learned: false, pinyin: bǎwò, pinyin-numbered: ba3wo4,
+  simplified: 把握, traditional: 把握}
+- {english: to put (on); arrange; to sway; pendulum, learned: false, pinyin: bǎi,
+  pinyin-numbered: bai3, simplified: 摆, traditional: 擺}
+- {english: to handle; to transact; to conduct, learned: false, pinyin: bànlǐ, pinyin-numbered: ban4li3,
+  simplified: 办理, traditional: 辦理}
+- {english: in the evening; when night falls, learned: false, pinyin: bàngwǎn, pinyin-numbered: bang4wan3,
+  simplified: 傍晚, traditional: 傍晚}
+- {english: wrap up; bind up; package, learned: false, pinyin: bāoguǒ, pinyin-numbered: bao1guo3,
+  simplified: 包裹, traditional: 包裹}
+- {english: contain; embody; include, learned: false, pinyin: bāohán, pinyin-numbered: bao1han2,
+  simplified: 包含, traditional: 包含}
+- {english: comprise; include; consist of, learned: false, pinyin: bāokuò, pinyin-numbered: bao1kuo4,
+  simplified: 包括, traditional: 包括}
+- {english: thin; flimsy; weak (first two pronunciations), learned: false, pinyin: báo,
+  pinyin-numbered: bao2, simplified: 薄, traditional: 薄}
+- {english: treasure; precious things; darling; baby, learned: false, pinyin: bǎobèi,
+  pinyin-numbered: bao3bei4, simplified: 宝贝, traditional: 寶貝}
+- {english: valuable; precious; value, learned: false, pinyin: bǎoguì, pinyin-numbered: bao3gui4,
+  simplified: 宝贵, traditional: 寶貴}
+- {english: to keep; maintain; to hold, learned: false, pinyin: bǎochí, pinyin-numbered: bao3chi2,
+  simplified: 保持, traditional: 保持}
+- {english: 'conserve; preserve; to keep, to save a file in a computer', learned: false,
+  pinyin: bǎocún, pinyin-numbered: bao3cun2, simplified: 保存, traditional: 保存}
+- {english: to reserve; hold back; retain, learned: false, pinyin: bǎoliú, pinyin-numbered: bao3liu2,
+  simplified: 保留, traditional: 保留}
+- {english: insurance; insure; safe, learned: false, pinyin: bǎoxiǎn, pinyin-numbered: bao3xian3,
+  simplified: 保险, traditional: 保險}
+- {english: report for duty; to check in; register, learned: false, pinyin: bàodào,
+  pinyin-numbered: bao4dao4, simplified: 报到, traditional: 報到}
+- {english: to report; news report, learned: false, pinyin: bàodào, pinyin-numbered: bao4dao4,
+  simplified: 报道, traditional: 報道}
+- {english: to report; make known; inform; speech; lecture, learned: false, pinyin: bàogào,
+  pinyin-numbered: bao4gao4, simplified: 报告, traditional: 報告}
+- {english: newspaper office, learned: false, pinyin: bàoshè, pinyin-numbered: bao4she4,
+  simplified: 报社, traditional: 報社}
+- {english: complain; grumble, learned: false, pinyin: bàoyuàn, pinyin-numbered: bao4yuan4,
+  simplified: 抱怨, traditional: 抱怨}
+- {english: carry on one's back; to bear, learned: false, pinyin: bēi, pinyin-numbered: bei1,
+  simplified: 背, traditional: 背}
+- {english: pessimistic, learned: false, pinyin: bēiguān, pinyin-numbered: bei1guan1,
+  simplified: 悲观, traditional: 悲觀}
+- {english: background, learned: false, pinyin: bèijǐng, pinyin-numbered: bei4jing3,
+  simplified: 背景, traditional: 背景}
+- {english: quilt; blanket, learned: false, pinyin: bèizi, pinyin-numbered: bei4zi,
+  simplified: 被子, traditional: 被子}
+- {english: undergraduate, learned: false, pinyin: běnkē, pinyin-numbered: ben3ke1,
+  simplified: 本科, traditional: 本科}
+- {english: skill; ability; capability, learned: false, pinyin: běnlǐng, pinyin-numbered: ben3ling3,
+  simplified: 本领, traditional: 本領}
+- {english: essence; nature; innate character, learned: false, pinyin: běnzhì, pinyin-numbered: ben3zhi4,
+  simplified: 本质, traditional: 本質}
+- {english: proportion; scale, learned: false, pinyin: bǐlì, pinyin-numbered: bi3li4,
+  simplified: 比例, traditional: 比例}
+- {english: each other; one another, learned: false, pinyin: bǐcǐ, pinyin-numbered: bi3ci3,
+  simplified: 彼此, traditional: 彼此}
+- {english: inevitable; certain; necessary, learned: false, pinyin: bìrán, pinyin-numbered: bi4ran2,
+  simplified: 必然, traditional: 必然}
+- {english: necessary; essential; indispensable, learned: false, pinyin: bìyào, pinyin-numbered: bi4yao4,
+  simplified: 必要, traditional: 必要}
+- {english: after all; overall; when all is said and done, learned: false, pinyin: bìjìng,
+  pinyin-numbered: bi4jing4, simplified: 毕竟, traditional: 畢竟}
+- {english: avoid; avert; prevent, learned: false, pinyin: bìmiǎn, pinyin-numbered: bi4mian3,
+  simplified: 避免, traditional: 避免}
+- {english: to edit; compile; editor, learned: false, pinyin: biānjí, pinyin-numbered: bian1ji2,
+  simplified: 编辑, traditional: 編輯}
+- {english: firecracker; a long string of small firecrackers, learned: false, pinyin: biānpào,
+  pinyin-numbered: bian1pao4, simplified: 鞭炮, traditional: 鞭炮}
+- {english: plain; convenient; excretion; formal equivalent to 就 | cheap, learned: false,
+  pinyin: 'biàn, pián', pinyin-numbered: 'bian4, pian2', simplified: 便, traditional: 便}
+- {english: argue; debate; argue over, learned: false, pinyin: biànlùn, pinyin-numbered: bian4lun4,
+  simplified: 辩论, traditional: 辯論}
+- {english: punctuation; punctuation mark; punctuate, learned: false, pinyin: biāodiǎn,
+  pinyin-numbered: biao1dian3, simplified: 标点, traditional: 標點}
+- {english: sign; mark; signal; symbol, learned: false, pinyin: biāozhì, pinyin-numbered: biao1zhi4,
+  simplified: 标志, traditional: 標志}
+- {english: to express; to voice; convey, learned: false, pinyin: biǎodá, pinyin-numbered: biao3da2,
+  simplified: 表达, traditional: 表達}
+- {english: surface; outside; face, learned: false, pinyin: biǎomiàn, pinyin-numbered: biao3mian4,
+  simplified: 表面, traditional: 表面}
+- {english: make clear; make known, learned: false, pinyin: biǎomíng, pinyin-numbered: biao3ming2,
+  simplified: 表明, traditional: 表明}
+- {english: (facial) expression; express one's feelings, learned: false, pinyin: biǎoqíng,
+  pinyin-numbered: biao3qing2, simplified: 表情, traditional: 表情}
+- {english: to show; to show off; display; performance, learned: false, pinyin: biǎoxiàn,
+  pinyin-numbered: biao3xian4, simplified: 表现, traditional: 表現}
+- {english: ice cream, learned: false, pinyin: bīngjīlíng, pinyin-numbered: bing1ji1ling2,
+  simplified: 冰激凌, traditional: 冰激淩}
+- {english: virus, learned: false, pinyin: bìngdú, pinyin-numbered: bing4du2, simplified: 病毒,
+  traditional: 病毒}
+- {english: glass; nylon; plastic, learned: false, pinyin: bōli, pinyin-numbered: bo1li,
+  simplified: 玻璃, traditional: 玻璃}
+- {english: broadcast; transmit, learned: false, pinyin: bōfàng, pinyin-numbered: bo1fang4,
+  simplified: 播放, traditional: 播放}
+- {english: neck, learned: false, pinyin: bózi, pinyin-numbered: bo2zi, simplified: 脖子,
+  traditional: 脖子}
+- {english: museum, learned: false, pinyin: bówùguǎn, pinyin-numbered: bo2wu4guan3,
+  simplified: 博物馆, traditional: 博物館}
+- {english: replenish; to supplement; to complement, learned: false, pinyin: bǔchōng,
+  pinyin-numbered: bu3chong1, simplified: 补充, traditional: 補充}
+- {english: uneasy; unstable; disturbed, learned: false, pinyin: bù'ān, pinyin-numbered: bu4'an1,
+  simplified: 不安, traditional: 不安}
+- {english: extremely; very; terribly; my god! (expression of surprise), learned: false,
+  pinyin: bùdéliǎo, pinyin-numbered: bu4de2liao3, simplified: 不得了, traditional: 不得了}
+- {english: unceasing; uninterrupted; continuously, learned: false, pinyin: búduàn,
+  pinyin-numbered: bu2duan4, simplified: 不断, traditional: 不斷}
+- {english: not necessarily; not likely, learned: false, pinyin: bújiàndé, pinyin-numbered: bu2jian4de2,
+  simplified: 不见得, traditional: 不見得}
+- {english: impatience; impatient, learned: false, pinyin: búnàifán, pinyin-numbered: bun2ai4fan2,
+  simplified: 不耐烦, traditional: 不耐煩}
+- {english: otherwise; not so, learned: false, pinyin: bùrán, pinyin-numbered: bu4ran2,
+  simplified: 不然, traditional: 不然}
+- {english: not as good as; inferior to, learned: false, pinyin: bùrú, pinyin-numbered: bu4ru2,
+  simplified: 不如, traditional: 不如}
+- {english: unimportant; not serious; it doesn't matter, learned: false, pinyin: bú
+    yàojǐn, pinyin-numbered: bu2 yao4jin3, simplified: 不要紧, traditional: 不要緊}
+- {english: insufficient; not enough, learned: false, pinyin: bùzú, pinyin-numbered: bu4zu2,
+  simplified: 不足, traditional: 不足}
+- {english: cloth; announce; to spread, learned: false, pinyin: bù, pinyin-numbered: bu4,
+  simplified: 布, traditional: 布}
+- {english: step; move; measure; procedure, learned: false, pinyin: bùzhòu, pinyin-numbered: bu4zhou4,
+  simplified: 步骤, traditional: 步驟}
+- {english: department; branch; section, learned: false, pinyin: bùmén, pinyin-numbered: bu4men2,
+  simplified: 部门, traditional: 部門}
+- {english: property; fortune, learned: false, pinyin: cáichǎn, pinyin-numbered: cai2chan3,
+  simplified: 财产, traditional: 財産}
+- {english: interview; gather news; hunt for and collect, learned: false, pinyin: cǎifǎng,
+  pinyin-numbered: cai3fang3, simplified: 采访, traditional: 采訪}
+- {english: 'carry out or adopt; take(measures, policies, attitudes, etc.)', learned: false,
+  pinyin: cǎiqǔ, pinyin-numbered: cai3qu3, simplified: 采取, traditional: 采取}
+- {english: rainbow, learned: false, pinyin: cǎihóng, pinyin-numbered: cai3hong2,
+  simplified: 彩虹, traditional: 彩虹}
+- {english: step upon; to tread; to stamp, learned: false, pinyin: cǎi, pinyin-numbered: cai3,
+  simplified: 踩, traditional: 踩}
+- {english: reference; consult, learned: false, pinyin: cānkǎo, pinyin-numbered: can1kao3,
+  simplified: 参考, traditional: 參考}
+- {english: participate (in sth.); attach oneself to, learned: false, pinyin: cānyù,
+  pinyin-numbered: can1yu4, simplified: 参与, traditional: 參與}
+- {english: ashamed, learned: false, pinyin: cánkuì, pinyin-numbered: can2kui4, simplified: 惭愧,
+  traditional: 慚愧}
+- {english: playground; sports field, learned: false, pinyin: cāochǎng, pinyin-numbered: cao1chang3,
+  simplified: 操场, traditional: 操場}
+- {english: worry about, learned: false, pinyin: cāo xīn, pinyin-numbered: cao1 xin1,
+  simplified: 操心, traditional: 操心}
+- {english: book; (mw for books), learned: false, pinyin: cè, pinyin-numbered: ce4,
+  simplified: 册, traditional: 冊}
+- {english: test; exam; to test, learned: false, pinyin: cèyàn, pinyin-numbered: ce4yan4,
+  simplified: 测验, traditional: 測驗}
+- {english: once; (refers to something that happened previously), learned: false,
+  pinyin: céngjīng, pinyin-numbered: ceng2jing1, simplified: 曾经, traditional: 曾經}
+- {english: fork; cross, learned: false, pinyin: chāzi, pinyin-numbered: cha1zi, simplified: 叉子,
+  traditional: 叉子}
+- {english: disparity; gap; the difference (in distance; amount; progress; etc.),
+  learned: false, pinyin: chājù, pinyin-numbered: cha1ju4, simplified: 差距, traditional: 差距}
+- {english: to insert; stick in; pierce, learned: false, pinyin: chā, pinyin-numbered: cha1,
+  simplified: 插, traditional: 插}
+- {english: unravel; to tear; demolish, learned: false, pinyin: chāi, pinyin-numbered: chai1,
+  simplified: 拆, traditional: 拆}
+- {english: product; goods; merchandise, learned: false, pinyin: chǎnpǐn, pinyin-numbered: chan3pin3,
+  simplified: 产品, traditional: 産品}
+- {english: to produce; emerge; to cause, learned: false, pinyin: chǎnshēng, pinyin-numbered: chan3sheng1,
+  simplified: 产生, traditional: 産生}
+- {english: long distance, learned: false, pinyin: chángtú, pinyin-numbered: chang2tu2,
+  simplified: 长途, traditional: 長途}
+- {english: common sense; general knowledge, learned: false, pinyin: chángshí, pinyin-numbered: chang2shi2,
+  simplified: 常识, traditional: 常識}
+- {english: to copy; plagiarize; search and confiscate, learned: false, pinyin: chāo,
+  pinyin-numbered: chao1, simplified: 抄, traditional: 抄}
+- {english: super; transcending; high grade, learned: false, pinyin: chāojí, pinyin-numbered: chao1ji2,
+  simplified: 超级, traditional: 超級}
+- {english: to face; towards; dynasty, learned: false, pinyin: cháo, pinyin-numbered: chao2,
+  simplified: 朝, traditional: 朝}
+- {english: damp; moist; humid, learned: false, pinyin: cháoshī, pinyin-numbered: chao2shi1,
+  simplified: 潮湿, traditional: 潮濕}
+- {english: to quarrel; make noise, learned: false, pinyin: chǎo, pinyin-numbered: chao3,
+  simplified: 吵, traditional: 吵}
+- {english: to quarrel; to squabble; bicker, learned: false, pinyin: chǎo jià, pinyin-numbered: chao3
+    jia4, simplified: 吵架, traditional: 吵架}
+- {english: to stir-fry; saute, learned: false, pinyin: chǎo, pinyin-numbered: chao3,
+  simplified: 炒, traditional: 炒}
+- {english: garage, learned: false, pinyin: chēkù, pinyin-numbered: che1ku4, simplified: 车库,
+  traditional: 車庫}
+- {english: carriage; railroad car, learned: false, pinyin: chēxiāng, pinyin-numbered: che1xiang1,
+  simplified: 车厢, traditional: 車廂}
+- {english: thorough; complete; completely, learned: false, pinyin: chèdǐ, pinyin-numbered: che4di3,
+  simplified: 彻底, traditional: 徹底}
+- {english: silent; uncommunicative, learned: false, pinyin: chénmò, pinyin-numbered: chen2mo4,
+  simplified: 沉默, traditional: 沈默}
+- {english: avail oneself of; take advantage of (an opportunity or situation), learned: false,
+  pinyin: chèn, pinyin-numbered: chen4, simplified: 趁, traditional: 趁}
+- {english: weigh; to call; be called, learned: false, pinyin: chēng, pinyin-numbered: cheng1,
+  simplified: 称, traditional: 稱}
+- {english: to call; address as; name, learned: false, pinyin: chēnghu, pinyin-numbered: cheng1hu,
+  simplified: 称呼, traditional: 稱呼}
+- {english: to praise; to acclaim, learned: false, pinyin: chēngzàn, pinyin-numbered: cheng1zan4,
+  simplified: 称赞, traditional: 稱贊}
+- {english: ingredient; composition, learned: false, pinyin: chéngfèn, pinyin-numbered: cheng2fen4,
+  simplified: 成分, traditional: 成分}
+- {english: result; achievement; gain, learned: false, pinyin: chéngguǒ, pinyin-numbered: cheng2guo3,
+  simplified: 成果, traditional: 成果}
+- {english: accomplishment; achievement; success, learned: false, pinyin: chéngjiù,
+  pinyin-numbered: cheng2jiu4, simplified: 成就, traditional: 成就}
+- {english: establish; to set up, learned: false, pinyin: chénglì, pinyin-numbered: cheng2li4,
+  simplified: 成立, traditional: 成立}
+- {english: adult; to grow up; become full-grown, learned: false, pinyin: chéngrén,
+  pinyin-numbered: cheng2ren2, simplified: 成人, traditional: 成人}
+- {english: mature; ripe, learned: false, pinyin: chéngshú, pinyin-numbered: cheng2shu2,
+  simplified: 成熟, traditional: 成熟}
+- {english: idiom; proverb, learned: false, pinyin: chéngyǔ, pinyin-numbered: cheng2yu3,
+  simplified: 成语, traditional: 成語}
+- {english: to mature; grow up, learned: false, pinyin: chéngzhǎng, pinyin-numbered: cheng2zhang3,
+  simplified: 成长, traditional: 成長}
+- {english: honest; sincere, learned: false, pinyin: chéngkěn, pinyin-numbered: cheng2ken3,
+  simplified: 诚恳, traditional: 誠懇}
+- {english: undertake; assume (responsibility), learned: false, pinyin: chéngdān,
+  pinyin-numbered: cheng2dan1, simplified: 承担, traditional: 承擔}
+- {english: to admit; concede; acknowledge, learned: false, pinyin: chéngrèn, pinyin-numbered: cheng2ren4,
+  simplified: 承认, traditional: 承認}
+- {english: to bear; support; endure; sustain, learned: false, pinyin: chéngshòu,
+  pinyin-numbered: cheng2shou4, simplified: 承受, traditional: 承受}
+- {english: degree; extent; level, learned: false, pinyin: chéngdù, pinyin-numbered: cheng2du4,
+  simplified: 程度, traditional: 程度}
+- {english: procedure; sequence; program, learned: false, pinyin: chéngxù, pinyin-numbered: cheng2xu4,
+  simplified: 程序, traditional: 程序}
+- {english: suffer losses; get the worst of, learned: false, pinyin: chīkuī, pinyin-numbered: chi1kui1,
+  simplified: 吃亏, traditional: 吃虧}
+- {english: pool; pond, learned: false, pinyin: chítáng, pinyin-numbered: chi2tang2,
+  simplified: 池塘, traditional: 池塘}
+- {english: sooner or later, learned: false, pinyin: chízǎo, pinyin-numbered: chi2zao3,
+  simplified: 迟早, traditional: 遲早}
+- {english: continue; persist, learned: false, pinyin: chíxù, pinyin-numbered: chi2xu4,
+  simplified: 持续, traditional: 持續}
+- {english: ruler (measuring instrument), learned: false, pinyin: chǐzi, pinyin-numbered: chi3zi,
+  simplified: 尺子, traditional: 尺子}
+- {english: wing, learned: false, pinyin: chìbǎng, pinyin-numbered: chi4bang3, simplified: 翅膀,
+  traditional: 翅膀}
+- {english: to rush; to clash; to rinse; thoroughfare, learned: false, pinyin: chōng,
+  pinyin-numbered: chong1, simplified: 冲, traditional: 沖}
+- {english: battery charger, learned: false, pinyin: chōngdiànqì, pinyin-numbered: chong1dian4qi4,
+  simplified: 充电器, traditional: 充電器}
+- {english: full; abundant; ample, learned: false, pinyin: chōngfèn, pinyin-numbered: chong1fen4,
+  simplified: 充分, traditional: 充分}
+- {english: brimming with; very full, learned: false, pinyin: chōngmǎn, pinyin-numbered: chong1man3,
+  simplified: 充满, traditional: 充滿}
+- {english: to repeat; to duplicate, learned: false, pinyin: chóngfù, pinyin-numbered: chong2fu4,
+  simplified: 重复, traditional: 重複}
+- {english: a pet, learned: false, pinyin: chǒngwù, pinyin-numbered: chong3wu4, simplified: 宠物,
+  traditional: 寵物}
+- {english: drawer, learned: false, pinyin: chōuti, pinyin-numbered: chou1ti, simplified: 抽屉,
+  traditional: 抽屜}
+- {english: abstract; abstraction, learned: false, pinyin: chōuxiàng, pinyin-numbered: chou1xiang4,
+  simplified: 抽象, traditional: 抽象}
+- {english: ugly; disgraceful (2nd Earthly Branch), learned: false, pinyin: chǒu,
+  pinyin-numbered: chou3, simplified: 丑, traditional: 醜}
+- {english: stench; stink, learned: false, pinyin: chòu, pinyin-numbered: chou4, simplified: 臭,
+  traditional: 臭}
+- {english: publish, learned: false, pinyin: chūbǎn, pinyin-numbered: chu1ban3, simplified: 出版,
+  traditional: 出版}
+- {english: exit; speak; export, learned: false, pinyin: chūkǒu, pinyin-numbered: chu1kou3,
+  simplified: 出口, traditional: 出口}
+- {english: remarkable; outstanding; excellent, learned: false, pinyin: chūsè, pinyin-numbered: chu1se4,
+  simplified: 出色, traditional: 出色}
+- {english: to show, learned: false, pinyin: chūshì, pinyin-numbered: chu1shi4, simplified: 出示,
+  traditional: 出示}
+- {english: attend; be present; participate, learned: false, pinyin: chūxí, pinyin-numbered: chu1xi2,
+  simplified: 出席, traditional: 出席}
+- {english: junior; primary, learned: false, pinyin: chūjí, pinyin-numbered: chu1ji2,
+  simplified: 初级, traditional: 初級}
+- {english: only if; unless, learned: false, pinyin: chúfēi, pinyin-numbered: chu2fei1,
+  simplified: 除非, traditional: 除非}
+- {english: Lunar New Year's Eve, learned: false, pinyin: chúxī, pinyin-numbered: chu2xi1,
+  simplified: 除夕, traditional: 除夕}
+- {english: deal with; to process; sell at a discount; to treat (by a special process),
+  learned: false, pinyin: chǔlǐ, pinyin-numbered: chu3li3, simplified: 处理, traditional: 處理}
+- {english: propagate; to spread, learned: false, pinyin: chuánbō, pinyin-numbered: chuan2bo1,
+  simplified: 传播, traditional: 傳播}
+- {english: infect; be contagious, learned: false, pinyin: chuánrǎn, pinyin-numbered: chuan2ran3,
+  simplified: 传染, traditional: 傳染}
+- {english: it is said; legend; pass on (a story), learned: false, pinyin: chuánshuō,
+  pinyin-numbered: chuan2shuo1, simplified: 传说, traditional: 傳說}
+- {english: tradition; traditional, learned: false, pinyin: chuántǒng, pinyin-numbered: chuan2tong3,
+  simplified: 传统, traditional: 傳統}
+- {english: window curtain, learned: false, pinyin: chuānglián, pinyin-numbered: chuang1lian2,
+  simplified: 窗帘, traditional: 窗簾}
+- {english: rush; break through; to temper oneself (by battling difficulties), learned: false,
+  pinyin: chuǎng, pinyin-numbered: chuang3, simplified: 闯, traditional: 闖}
+- {english: create; bring about; creativity, learned: false, pinyin: chuàngzào, pinyin-numbered: chuang4zao4,
+  simplified: 创造, traditional: 創造}
+- {english: to blow; to blast; to puff, learned: false, pinyin: chuī, pinyin-numbered: chui1,
+  simplified: 吹, traditional: 吹}
+- {english: vocabulary, learned: false, pinyin: cíhuì, pinyin-numbered: ci2hui4, simplified: 词汇,
+  traditional: 詞彙}
+- {english: resign from a position, learned: false, pinyin: cízhí, pinyin-numbered: ci2zhi2,
+  simplified: 辞职, traditional: 辭職}
+- {english: besides; in addition; moreover, learned: false, pinyin: cǐwài, pinyin-numbered: ci3wai4,
+  simplified: 此外, traditional: 此外}
+- {english: secondary; less important, learned: false, pinyin: cìyào, pinyin-numbered: ci4yao4,
+  simplified: 次要, traditional: 次要}
+- {english: exciting; provoke; irritate, learned: false, pinyin: cìjī, pinyin-numbered: ci4ji1,
+  simplified: 刺激, traditional: 刺激}
+- {english: hasty; hurried, learned: false, pinyin: cōngmáng, pinyin-numbered: cong1mang2,
+  simplified: 匆忙, traditional: 匆忙}
+- {english: from now on; since then, learned: false, pinyin: cóngcǐ, pinyin-numbered: cong2ci3,
+  simplified: 从此, traditional: 從此}
+- {english: thus; thereby; as a result, learned: false, pinyin: cóng'ér, pinyin-numbered: cong2'er2,
+  simplified: 从而, traditional: 從而}
+- {english: previously; formerly; in the past, learned: false, pinyin: cóngqián, pinyin-numbered: cong2qian2,
+  simplified: 从前, traditional: 從前}
+- {english: go for; engage in; deal with, learned: false, pinyin: cóngshì, pinyin-numbered: cong2shi4,
+  simplified: 从事, traditional: 從事}
+- {english: coarse, learned: false, pinyin: cūcāo, pinyin-numbered: cu1cao1, simplified: 粗糙,
+  traditional: 粗糙}
+- {english: promote (an idea or cause); to advance, learned: false, pinyin: cùjìn,
+  pinyin-numbered: cu4jin4, simplified: 促进, traditional: 促進}
+- {english: to urge; impel; to cause; to push, learned: false, pinyin: cùshǐ, pinyin-numbered: cu4shi3,
+  simplified: 促使, traditional: 促使}
+- {english: vinegar, learned: false, pinyin: cù, pinyin-numbered: cu4, simplified: 醋,
+  traditional: 醋}
+- {english: to press; to urge; to hurry, learned: false, pinyin: cuī, pinyin-numbered: cui1,
+  simplified: 催, traditional: 催}
+- {english: to exist; to be, learned: false, pinyin: cúnzài, pinyin-numbered: cun2zai4,
+  simplified: 存在, traditional: 存在}
+- {english: measure; step (to be taken), learned: false, pinyin: cuòshī, pinyin-numbered: cuo4shi1,
+  simplified: 措施, traditional: 措施}
+- {english: to respond; to promise; to answer; agree, learned: false, pinyin: dāying,
+  pinyin-numbered: da1ying, simplified: 答应, traditional: 答應}
+- {english: achieve; attain; to reach, learned: false, pinyin: dá dào, pinyin-numbered: da2
+    dao4, simplified: 达到, traditional: 達到}
+- {english: work a part time job; (regional) do manual labor; do odd jobs, learned: false,
+  pinyin: dǎgōng, pinyin-numbered: da3gong1, simplified: 打工, traditional: 打工}
+- {english: come into contact with; to deal with, learned: false, pinyin: dǎ jiāodao,
+  pinyin-numbered: da3 jiao1dao, simplified: 打交道, traditional: 打交道}
+- {english: to sneeze, learned: false, pinyin: dǎpēntì, pinyin-numbered: da3pen1ti4,
+  simplified: 打喷嚏, traditional: 打噴嚏}
+- {english: ask about; inquire about, learned: false, pinyin: dǎting, pinyin-numbered: da3ting,
+  simplified: 打听, traditional: 打聽}
+- {english: 'generous; poise; (-fang1: expert; scholar)', learned: false, pinyin: dàfang,
+  pinyin-numbered: da4fang, simplified: 大方, traditional: 大方}
+- {english: large building; edifice; mansion, learned: false, pinyin: dàshà, pinyin-numbered: da4sha4,
+  simplified: 大厦, traditional: 大廈}
+- {english: elephant, learned: false, pinyin: dàxiàng, pinyin-numbered: da4xiang4,
+  simplified: 大象, traditional: 大象}
+- {english: large-scale; wide-scale, learned: false, pinyin: dàxíng, pinyin-numbered: da4xing2,
+  simplified: 大型, traditional: 大型}
+- {english: stupid; foolish; blank; dumbstruck; to stay, learned: false, pinyin: dāi,
+  pinyin-numbered: dai1, simplified: 呆, traditional: 呆}
+- {english: represent; to delegate, learned: false, pinyin: dàibiǎo, pinyin-numbered: dai4biao3,
+  simplified: 代表, traditional: 代表}
+- {english: to replace, learned: false, pinyin: dàitì, pinyin-numbered: dai4ti4, simplified: 代替,
+  traditional: 代替}
+- {english: (bank) loan; provide a loan, learned: false, pinyin: dài kuǎn, pinyin-numbered: dai4
+    kuan3, simplified: 贷款, traditional: 貸款}
+- {english: treatment; pay; wage; salary, learned: false, pinyin: dàiyù, pinyin-numbered: dai4yu4,
+  simplified: 待遇, traditional: 待遇}
+- {english: hold the post of; serve as, learned: false, pinyin: dānrèn, pinyin-numbered: dan1ren4,
+  simplified: 担任, traditional: 擔任}
+- {english: simple; pure; merely, learned: false, pinyin: dānchún, pinyin-numbered: dan1chun2,
+  simplified: 单纯, traditional: 單純}
+- {english: monotonous; dull, learned: false, pinyin: dāndiào, pinyin-numbered: dan1diao4,
+  simplified: 单调, traditional: 單調}
+- {english: alone, learned: false, pinyin: dāndú, pinyin-numbered: dan1du2, simplified: 单独,
+  traditional: 單獨}
+- {english: unit; work unit, learned: false, pinyin: dānwèi, pinyin-numbered: dan1wei4,
+  simplified: 单位, traditional: 單位}
+- {english: unit; entrance number; staircase (for residential buildings), learned: false,
+  pinyin: dānyuán, pinyin-numbered: dan1yuan2, simplified: 单元, traditional: 單元}
+- {english: to delay; waste time, learned: false, pinyin: dānwu, pinyin-numbered: dan1wu,
+  simplified: 耽误, traditional: 耽誤}
+- {english: coward, learned: false, pinyin: dǎnxiǎoguǐ, pinyin-numbered: dan3xiao3gui3,
+  simplified: 胆小鬼, traditional: 膽小鬼}
+- {english: diluted; weak; thin, learned: false, pinyin: dàn, pinyin-numbered: dan4,
+  simplified: 淡, traditional: 淡}
+- {english: local, learned: false, pinyin: dāngdì, pinyin-numbered: dang1di4, simplified: 当地,
+  traditional: 當地}
+- {english: take care; watch out, learned: false, pinyin: dāngxīn, pinyin-numbered: dang1xin1,
+  simplified: 当心, traditional: 當心}
+- {english: to block; hinder; gear; equipment, learned: false, pinyin: dǎng, pinyin-numbered: dang3,
+  simplified: 挡, traditional: 擋}
+- {english: to direct; director, learned: false, pinyin: dǎoyǎn, pinyin-numbered: dao3yan3,
+  simplified: 导演, traditional: 導演}
+- {english: lead to; bring about; to cause, learned: false, pinyin: dǎozhì, pinyin-numbered: dao3zhi4,
+  simplified: 导致, traditional: 導致}
+- {english: islands, learned: false, pinyin: dǎoyǔ, pinyin-numbered: dao3yu3, simplified: 岛屿,
+  traditional: 島嶼}
+- {english: have bad luck; be out of luck, learned: false, pinyin: dǎoméi, pinyin-numbered: dao3mei2,
+  simplified: 倒霉, traditional: 倒黴}
+- {english: to reach; arrive, learned: false, pinyin: dàodá, pinyin-numbered: dao4da2,
+  simplified: 到达, traditional: 到達}
+- {english: morals; morality; ethics, learned: false, pinyin: dàodé, pinyin-numbered: dao4de2,
+  simplified: 道德, traditional: 道德}
+- {english: reason; sense; argument, learned: false, pinyin: dàolǐ, pinyin-numbered: dao4li3,
+  simplified: 道理, traditional: 道理}
+- {english: register (one's name); check in; enroll, learned: false, pinyin: dēngjì,
+  pinyin-numbered: deng1ji4, simplified: 登记, traditional: 登記}
+- {english: to wait (for); expect, learned: false, pinyin: děngdài, pinyin-numbered: deng3dai4,
+  simplified: 等待, traditional: 等待}
+- {english: (Mathematics) equal to, learned: false, pinyin: děngyú, pinyin-numbered: deng3yu2,
+  simplified: 等于, traditional: 等于}
+- {english: to drip; drop; (mw for drops of liquid), learned: false, pinyin: dī, pinyin-numbered: di1,
+  simplified: 滴, traditional: 滴}
+- {english: really; indeed, learned: false, pinyin: díquè, pinyin-numbered: di2que4,
+  simplified: 的确, traditional: 的確}
+- {english: enemy, learned: false, pinyin: dírén, pinyin-numbered: di2ren2, simplified: 敌人,
+  traditional: 敵人}
+- {english: 'authentic; genuine; (-dào: tunnel)', learned: false, pinyin: dìdao, pinyin-numbered: di4dao,
+  simplified: 地道, traditional: 地道}
+- {english: geography, learned: false, pinyin: dìlǐ, pinyin-numbered: di4li3, simplified: 地理,
+  traditional: 地理}
+- {english: an area; a region; a district, learned: false, pinyin: dìqū, pinyin-numbered: di4qu1,
+  simplified: 地区, traditional: 地區}
+- {english: carpet; rug, learned: false, pinyin: dìtǎn, pinyin-numbered: di4tan3,
+  simplified: 地毯, traditional: 地毯}
+- {english: position; status, learned: false, pinyin: dìwèi, pinyin-numbered: di4wei4,
+  simplified: 地位, traditional: 地位}
+- {english: earthquake, learned: false, pinyin: dìzhèn, pinyin-numbered: di4zhen4,
+  simplified: 地震, traditional: 地震}
+- {english: hand over; to pass; to give, learned: false, pinyin: dì, pinyin-numbered: di4,
+  simplified: 递, traditional: 遞}
+- {english: dim sum; light refreshments; snacks, learned: false, pinyin: diǎnxin,
+  pinyin-numbered: dian3xin, simplified: 点心, traditional: 點心}
+- {english: battery, learned: false, pinyin: diànchí, pinyin-numbered: dian4chi2,
+  simplified: 电池, traditional: 電池}
+- {english: transceiver; broadcasting station, learned: false, pinyin: diàntái, pinyin-numbered: dian4tai2,
+  simplified: 电台, traditional: 電台}
+- {english: to fish, learned: false, pinyin: diào, pinyin-numbered: diao4, simplified: 钓,
+  traditional: 釣}
+- {english: 'top; roof; carry on one''s head; prop up; to butt; (mw for headwear,
+    i.e. hats)', learned: false, pinyin: dǐng, pinyin-numbered: ding3, simplified: 顶,
+  traditional: 頂}
+- {english: animated film, learned: false, pinyin: dònghuàpiàn, pinyin-numbered: dong4hua4pian4,
+  simplified: 动画片, traditional: 動畫片}
+- {english: to freeze, learned: false, pinyin: dòng, pinyin-numbered: dong4, simplified: 冻,
+  traditional: 凍}
+- {english: cave; hole, learned: false, pinyin: dòng, pinyin-numbered: dong4, simplified: 洞,
+  traditional: 洞}
+- {english: tofu; bean curd, learned: false, pinyin: dòufu, pinyin-numbered: dou4fu,
+  simplified: 豆腐, traditional: 豆腐}
+- {english: to tease; amuse; to stay; to stop; funny, learned: false, pinyin: dòu,
+  pinyin-numbered: dou4, simplified: 逗, traditional: 逗}
+- {english: independent, learned: false, pinyin: dúlì, pinyin-numbered: du2li4, simplified: 独立,
+  traditional: 獨立}
+- {english: unique; distinctive, learned: false, pinyin: dútè, pinyin-numbered: du2te4,
+  simplified: 独特, traditional: 獨特}
+- {english: spend; to pass, learned: false, pinyin: dùguò, pinyin-numbered: du4guo4,
+  simplified: 度过, traditional: 度過}
+- {english: to break; decide; absolutely (usually negative), learned: false, pinyin: duàn,
+  pinyin-numbered: duan4, simplified: 断, traditional: 斷}
+- {english: pile; heap; stack; crowd, learned: false, pinyin: duī, pinyin-numbered: dui1,
+  simplified: 堆, traditional: 堆}
+- {english: compare; to contrast; comparison, learned: false, pinyin: duìbǐ, pinyin-numbered: dui4bi3,
+  simplified: 对比, traditional: 對比}
+- {english: to treat, learned: false, pinyin: duìdài, pinyin-numbered: dui4dai4, simplified: 对待,
+  traditional: 對待}
+- {english: counterpart; the other party involved, learned: false, pinyin: duìfāng,
+  pinyin-numbered: dui4fang1, simplified: 对方, traditional: 對方}
+- {english: opponent; adversary; match, learned: false, pinyin: duìshǒu, pinyin-numbered: dui4shou3,
+  simplified: 对手, traditional: 對手}
+- {english: target; object; partner; boyfriend or girlfriend, learned: false, pinyin: duìxiàng,
+  pinyin-numbered: dui4xiang4, simplified: 对象, traditional: 對象}
+- {english: to exchange; to convert (currencies), learned: false, pinyin: duìhuàn,
+  pinyin-numbered: dui4huan4, simplified: 兑换, traditional: 兌換}
+- {english: ton, learned: false, pinyin: dūn, pinyin-numbered: dun1, simplified: 吨,
+  traditional: 噸}
+- {english: to crouch; to squat, learned: false, pinyin: dūn, pinyin-numbered: dun1,
+  simplified: 蹲, traditional: 蹲}
+- {english: pause; arrange; stamp feet; suddenly; (mw for meals), learned: false,
+  pinyin: dùn, pinyin-numbered: dun4, simplified: 顿, traditional: 頓}
+- {english: thanks to; luckily, learned: false, pinyin: duōkuī, pinyin-numbered: duo1kui1,
+  simplified: 多亏, traditional: 多虧}
+- {english: unnecessary; superfluous, learned: false, pinyin: duōyú, pinyin-numbered: duo1yu2,
+  simplified: 多余, traditional: 多余}
+- {english: (mw for flowers and clouds), learned: false, pinyin: duǒ, pinyin-numbered: duo3,
+  simplified: 朵, traditional: 朵}
+- {english: hide oneself; take cover, learned: false, pinyin: duǒcáng, pinyin-numbered: duo3cang2,
+  simplified: 躲藏, traditional: 躲藏}
+- {english: vile; horrible, learned: false, pinyin: èliè, pinyin-numbered: e4lie4,
+  simplified: 恶劣, traditional: 惡劣}
+- {english: earring, learned: false, pinyin: ěrhuán, pinyin-numbered: er3huan2, simplified: 耳环,
+  traditional: 耳環}
+- {english: publish; to issue (a statement); announce, learned: false, pinyin: fābiǎo,
+  pinyin-numbered: fa1biao3, simplified: 发表, traditional: 發表}
+- {english: worry about sth., learned: false, pinyin: fā chóu, pinyin-numbered: fa1
+    chou2, simplified: 发愁, traditional: 發愁}
+- {english: 'developed (country, etc.); flourishing; prosper', learned: false, pinyin: fādá,
+  pinyin-numbered: fa1da2, simplified: 发达, traditional: 發達}
+- {english: to shiver; to shudder; tremble, learned: false, pinyin: fādǒu, pinyin-numbered: fa1dou3,
+  simplified: 发抖, traditional: 發抖}
+- {english: 'to bring (skill, talent, etc.) into play; to develop (an idea)', learned: false,
+  pinyin: fāhuī, pinyin-numbered: fa1hui1, simplified: 发挥, traditional: 發揮}
+- {english: invent, learned: false, pinyin: fāmíng, pinyin-numbered: fa1ming2, simplified: 发明,
+  traditional: 發明}
+- {english: receipt or bill for purchase; invoice, learned: false, pinyin: fāpiào,
+  pinyin-numbered: fa1piao4, simplified: 发票, traditional: 發票}
+- {english: make a speech; statement, learned: false, pinyin: fāyán, pinyin-numbered: fa1yan2,
+  simplified: 发言, traditional: 發言}
+- {english: fine; penalty (monetary), learned: false, pinyin: fákuǎn, pinyin-numbered: fa2kuan3,
+  simplified: 罚款, traditional: 罰款}
+- {english: court of law, learned: false, pinyin: fǎyuàn, pinyin-numbered: fa3yuan4,
+  simplified: 法院, traditional: 法院}
+- {english: to turn over; capsize; translate, learned: false, pinyin: fān, pinyin-numbered: fan1,
+  simplified: 翻, traditional: 翻}
+- {english: prosperous; prosperity; booming (economy), learned: false, pinyin: fánróng,
+  pinyin-numbered: fan2rong2, simplified: 繁荣, traditional: 繁榮}
+- {english: on the contrary; instead, learned: false, pinyin: fǎn'ér, pinyin-numbered: fan3'er2,
+  simplified: 反而, traditional: 反而}
+- {english: repeatedly; over and over, learned: false, pinyin: fǎnfù, pinyin-numbered: fan3fu4,
+  simplified: 反复, traditional: 反複}
+- {english: react; respond; reply, learned: false, pinyin: fǎnyìng, pinyin-numbered: fan3ying4,
+  simplified: 反应, traditional: 反應}
+- {english: reflect; reflection; report on, learned: false, pinyin: fǎnyìng, pinyin-numbered: fan3ying4,
+  simplified: 反映, traditional: 反映}
+- {english: anyway, learned: false, pinyin: fǎnzhèng, pinyin-numbered: fan3zheng4,
+  simplified: 反正, traditional: 反正}
+- {english: scope; range; limits; extent, learned: false, pinyin: fànwéi, pinyin-numbered: fan4wei2,
+  simplified: 范围, traditional: 範圍}
+- {english: square; direction; side (Kangxi radical 70), learned: false, pinyin: fāng,
+  pinyin-numbered: fang1, simplified: 方, traditional: 方}
+- {english: 'plan; program (for action, etc.); proposal', learned: false, pinyin: fāng'àn,
+  pinyin-numbered: fang1'an4, simplified: 方案, traditional: 方案}
+- {english: way; style; fashion; manner, learned: false, pinyin: fāngshì, pinyin-numbered: fang1shi4,
+  simplified: 方式, traditional: 方式}
+- {english: hinder; to hamper; to obstruct, learned: false, pinyin: fáng'ài, pinyin-numbered: fang2'ai4,
+  simplified: 妨碍, traditional: 妨礙}
+- {english: to seem as though; as if, learned: false, pinyin: fǎngfú, pinyin-numbered: fang3fu2,
+  simplified: 仿佛, traditional: 仿佛}
+- {english: non-; un-; not be; wrongdoing; simply must (Kangxi radical 175), learned: false,
+  pinyin: fēi, pinyin-numbered: fei1, simplified: 非, traditional: 非}
+- {english: soap, learned: false, pinyin: féizào, pinyin-numbered: fei2zao4, simplified: 肥皂,
+  traditional: 肥皂}
+- {english: nonsense; rubbish, learned: false, pinyin: fèihuà, pinyin-numbered: fei4hua4,
+  simplified: 废话, traditional: 廢話}
+- {english: distinguish; split up; difference; to part, learned: false, pinyin: fēnbié,
+  pinyin-numbered: fen1bie2, simplified: 分别, traditional: 分別}
+- {english: be distributed (over an area); be scattered, learned: false, pinyin: fēnbù,
+  pinyin-numbered: fen1bu4, simplified: 分布, traditional: 分布}
+- {english: distribute; assign; allocate, learned: false, pinyin: fēnpèi, pinyin-numbered: fen1pei4,
+  simplified: 分配, traditional: 分配}
+- {english: part company; break up, learned: false, pinyin: fēnshǒu, pinyin-numbered: fen1shou3,
+  simplified: 分手, traditional: 分手}
+- {english: analyze; analysis, learned: false, pinyin: fēnxī, pinyin-numbered: fen1xi1,
+  simplified: 分析, traditional: 分析}
+- {english: one after another; in succession; in profusion; diverse; pell-mell, learned: false,
+  pinyin: fēnfēn, pinyin-numbered: fen1fen1, simplified: 纷纷, traditional: 紛紛}
+- {english: strive; to struggle, learned: false, pinyin: fèndòu, pinyin-numbered: fen4dou4,
+  simplified: 奋斗, traditional: 奮鬥}
+- {english: style, learned: false, pinyin: fēnggé, pinyin-numbered: feng1ge2, simplified: 风格,
+  traditional: 風格}
+- {english: scenery; landscape, learned: false, pinyin: fēngjǐng, pinyin-numbered: feng1jing3,
+  simplified: 风景, traditional: 風景}
+- {english: social custom, learned: false, pinyin: fēngsú, pinyin-numbered: feng1su2,
+  simplified: 风俗, traditional: 風俗}
+- {english: risk; venture; hazard, learned: false, pinyin: fēngxiǎn, pinyin-numbered: feng1xian3,
+  simplified: 风险, traditional: 風險}
+- {english: crazy; madness; wild; extreme popularity; insane; frenzied; unbridled,
+  learned: false, pinyin: fēngkuáng, pinyin-numbered: feng1kuang2, simplified: 疯狂,
+  traditional: 瘋狂}
+- {english: satirize; ridicule; mock; irony, learned: false, pinyin: fěngcì, pinyin-numbered: feng3ci4,
+  simplified: 讽刺, traditional: 諷刺}
+- {english: negate; negative, learned: false, pinyin: fǒudìng, pinyin-numbered: fou3ding4,
+  simplified: 否定, traditional: 否定}
+- {english: deny; declare to be untrue, learned: false, pinyin: fǒurèn, pinyin-numbered: fou3ren4,
+  simplified: 否认, traditional: 否認}
+- {english: to support with hand; to help somebody up, learned: false, pinyin: fú,
+  pinyin-numbered: fu2, simplified: 扶, traditional: 扶}
+- {english: (formal) clothing; costume; dress, learned: false, pinyin: fúzhuāng, pinyin-numbered: fu2zhuang1,
+  simplified: 服装, traditional: 服裝}
+- {english: 'width of cloth; size; (mw for pictures, paintings, textiles)', learned: false,
+  pinyin: fú, pinyin-numbered: fu2, simplified: 幅, traditional: 幅}
+- {english: to coach; to tutor; give advice (in study), learned: false, pinyin: fǔdǎo,
+  pinyin-numbered: fu3dao3, simplified: 辅导, traditional: 輔導}
+- {english: woman; women in general, learned: false, pinyin: fùnǚ, pinyin-numbered: fun4ü3,
+  simplified: 妇女, traditional: 婦女}
+- {english: duplicate; reproduce, learned: false, pinyin: fùzhì, pinyin-numbered: fu4zhi4,
+  simplified: 复制, traditional: 複制}
+- {english: to reform, learned: false, pinyin: gǎigé, pinyin-numbered: gai3ge2, simplified: 改革,
+  traditional: 改革}
+- {english: improve; make better, learned: false, pinyin: gǎijìn, pinyin-numbered: gai3jin4,
+  simplified: 改进, traditional: 改進}
+- {english: improve; make better, learned: false, pinyin: gǎishàn, pinyin-numbered: gai3shan4,
+  simplified: 改善, traditional: 改善}
+- {english: to correct; amend, learned: false, pinyin: gǎizhèng, pinyin-numbered: gai3zheng4,
+  simplified: 改正, traditional: 改正}
+- {english: lid; top; cover; to build, learned: false, pinyin: gài, pinyin-numbered: gai4,
+  simplified: 盖, traditional: 蓋}
+- {english: summarize; generalize, learned: false, pinyin: gàikuò, pinyin-numbered: gai4kuo4,
+  simplified: 概括, traditional: 概括}
+- {english: concept; idea, learned: false, pinyin: gàiniàn, pinyin-numbered: gai4nian4,
+  simplified: 概念, traditional: 概念}
+- {english: straightforward; clear-cut; blunt, learned: false, pinyin: gāncuì, pinyin-numbered: gan1cui4,
+  simplified: 干脆, traditional: 幹脆}
+- {english: 'to dry (of paint, cement, etc.); dry; dryness', learned: false, pinyin: gānzào,
+  pinyin-numbered: gan1zao4, simplified: 干燥, traditional: 幹燥}
+- {english: at once; hurriedly; lose no time, learned: false, pinyin: gǎnjǐn, pinyin-numbered: gan3jin3,
+  simplified: 赶紧, traditional: 趕緊}
+- {english: at once; immediately, learned: false, pinyin: gǎnkuài, pinyin-numbered: gan3kuai4,
+  simplified: 赶快, traditional: 趕快}
+- {english: appreciate; feel grateful, learned: false, pinyin: gǎnjī, pinyin-numbered: gan3ji1,
+  simplified: 感激, traditional: 感激}
+- {english: feel; experience; emotion; impression, learned: false, pinyin: gǎnshòu,
+  pinyin-numbered: gan3shou4, simplified: 感受, traditional: 感受}
+- {english: impressions; reflections; thoughts, learned: false, pinyin: gǎnxiǎng,
+  pinyin-numbered: gan3xiang3, simplified: 感想, traditional: 感想}
+- {english: do manual labor; to work, learned: false, pinyin: gàn huór, pinyin-numbered: gan4
+    huo2r, simplified: 干活儿, traditional: 幹活兒}
+- {english: steel, learned: false, pinyin: gāngtiě, pinyin-numbered: gang1tie3, simplified: 钢铁,
+  traditional: 鋼鐵}
+- {english: top quality; first rate; high class, learned: false, pinyin: gāodàng,
+  pinyin-numbered: gao1dang4, simplified: 高档, traditional: 高檔}
+- {english: high-level; high-grade; advanced, learned: false, pinyin: gāojí, pinyin-numbered: gao1ji2,
+  simplified: 高级, traditional: 高級}
+- {english: do; make; be engaged in, learned: false, pinyin: gǎo, pinyin-numbered: gao3,
+  simplified: 搞, traditional: 搞}
+- {english: say goodbye to; to leave; to part, learned: false, pinyin: gàobié, pinyin-numbered: gao4bie2,
+  simplified: 告别, traditional: 告別}
+- {english: especially; additionally, learned: false, pinyin: géwài, pinyin-numbered: ge2wai4,
+  simplified: 格外, traditional: 格外}
+- {english: next door, learned: false, pinyin: gébì, pinyin-numbered: ge2bi4, simplified: 隔壁,
+  traditional: 隔壁}
+- {english: individual; specific; isolated; very few, learned: false, pinyin: gèbié,
+  pinyin-numbered: ge4bie2, simplified: 个别, traditional: 個別}
+- {english: individual; personal; oneself, learned: false, pinyin: gèrén, pinyin-numbered: ger4en2,
+  simplified: 个人, traditional: 個人}
+- {english: individuality; personality, learned: false, pinyin: gèxìng, pinyin-numbered: ge4xing4,
+  simplified: 个性, traditional: 個性}
+- {english: each; respective; apiece, learned: false, pinyin: gèzì, pinyin-numbered: ge4zi4,
+  simplified: 各自, traditional: 各自}
+- {english: 'root; base; (mw for long, slender objects)', learned: false, pinyin: gēn,
+  pinyin-numbered: gen1, simplified: 根, traditional: 根}
+- {english: root; essence; fundamental; basic; (not) at all; simply, learned: false,
+  pinyin: gēnběn, pinyin-numbered: gen1ben3, simplified: 根本, traditional: 根本}
+- {english: factory, learned: false, pinyin: gōngchǎng, pinyin-numbered: gong1chang3,
+  simplified: 工厂, traditional: 工廠}
+- {english: engineer, learned: false, pinyin: gōngchéngshī, pinyin-numbered: gong1cheng2shi1,
+  simplified: 工程师, traditional: 工程師}
+- {english: tool; instrument; utensil, learned: false, pinyin: gōngjù, pinyin-numbered: gong1ju4,
+  simplified: 工具, traditional: 工具}
+- {english: worker, learned: false, pinyin: gōngrén, pinyin-numbered: gong1ren2, simplified: 工人,
+  traditional: 工人}
+- {english: industry, learned: false, pinyin: gōngyè, pinyin-numbered: gong1ye4, simplified: 工业,
+  traditional: 工業}
+- {english: make public; announce; publicize, learned: false, pinyin: gōngbù, pinyin-numbered: gong1bu4,
+  simplified: 公布, traditional: 公布}
+- {english: public; make public, learned: false, pinyin: gōngkāi, pinyin-numbered: gong1kai1,
+  simplified: 公开, traditional: 公開}
+- {english: fair; impartial; just, learned: false, pinyin: gōngpíng, pinyin-numbered: gong1ping2,
+  simplified: 公平, traditional: 公平}
+- {english: apartment building, learned: false, pinyin: gōngyù, pinyin-numbered: gong1yu4,
+  simplified: 公寓, traditional: 公寓}
+- {english: (year) AD or CE; Christian era; common era, learned: false, pinyin: gōngyuán,
+  pinyin-numbered: gong1yuan2, simplified: 公元, traditional: 公元}
+- {english: princess, learned: false, pinyin: gōngzhǔ, pinyin-numbered: gong1zhu3,
+  simplified: 公主, traditional: 公主}
+- {english: function; feature, learned: false, pinyin: gōngnéng, pinyin-numbered: gong1neng2,
+  simplified: 功能, traditional: 功能}
+- {english: congratulate, learned: false, pinyin: gōngxǐ, pinyin-numbered: gong1xi3,
+  simplified: 恭喜, traditional: 恭喜}
+- {english: contribute; dedicate; contribution, learned: false, pinyin: gòngxiàn,
+  pinyin-numbered: gong4xian4, simplified: 贡献, traditional: 貢獻}
+- {english: link; connect; communicate, learned: false, pinyin: gōutōng, pinyin-numbered: gou1tong1,
+  simplified: 沟通, traditional: 溝通}
+- {english: to constitute; to compose, learned: false, pinyin: gòuchéng, pinyin-numbered: gou4cheng2,
+  simplified: 构成, traditional: 構成}
+- {english: paternal aunt; father's sister, learned: false, pinyin: gūgu, pinyin-numbered: gu1gu,
+  simplified: 姑姑, traditional: 姑姑}
+- {english: young woman; girl, learned: false, pinyin: gūniang, pinyin-numbered: gun1iang,
+  simplified: 姑娘, traditional: 姑娘}
+- {english: ancient times, learned: false, pinyin: gǔdài, pinyin-numbered: gu3dai4,
+  simplified: 古代, traditional: 古代}
+- {english: classical, learned: false, pinyin: gǔdiǎn, pinyin-numbered: gu3dian3,
+  simplified: 古典, traditional: 古典}
+- {english: shares; stock (market), learned: false, pinyin: gǔpiào, pinyin-numbered: gu3piao4,
+  simplified: 股票, traditional: 股票}
+- {english: bone; moral character, learned: false, pinyin: gǔtou, pinyin-numbered: gu3tou,
+  simplified: 骨头, traditional: 骨頭}
+- {english: inspire; heartening, learned: false, pinyin: gǔwǔ, pinyin-numbered: gu3wu3,
+  simplified: 鼓舞, traditional: 鼓舞}
+- {english: applaud, learned: false, pinyin: gǔ zhǎng, pinyin-numbered: gu3 zhang3,
+  simplified: 鼓掌, traditional: 鼓掌}
+- {english: fixed; regular; stable, learned: false, pinyin: gùdìng, pinyin-numbered: gu4ding4,
+  simplified: 固定, traditional: 固定}
+- {english: register; check into hospital; send by registered mail, learned: false,
+  pinyin: guà hào, pinyin-numbered: gua4 hao4, simplified: 挂号, traditional: 挂號}
+- {english: (of a child) obedient; well-behaved; clever; perverse; contrary to reason,
+  learned: false, pinyin: guāi, pinyin-numbered: guai1, simplified: 乖, traditional: 乖}
+- {english: turn a corner; make a turn, learned: false, pinyin: guǎi wān, pinyin-numbered: guai3
+    wan1, simplified: 拐弯, traditional: 拐彎}
+- {english: no wonder; so that's why, learned: false, pinyin: guài bu de, pinyin-numbered: guai4
+    bu de, simplified: 怪不得, traditional: 怪不得}
+- {english: close; shut, learned: false, pinyin: guānbì, pinyin-numbered: guan1bi4,
+  simplified: 关闭, traditional: 關閉}
+- {english: observe; to watch; to survey, learned: false, pinyin: guānchá, pinyin-numbered: guan1cha2,
+  simplified: 观察, traditional: 觀察}
+- {english: point of view; standpoint, learned: false, pinyin: guāndiǎn, pinyin-numbered: guan1dian3,
+  simplified: 观点, traditional: 觀點}
+- {english: notion; thought; concept, learned: false, pinyin: guānniàn, pinyin-numbered: guan1nian4,
+  simplified: 观念, traditional: 觀念}
+- {english: an official; organ; governmental, learned: false, pinyin: guān, pinyin-numbered: guan1,
+  simplified: 官, traditional: 官}
+- {english: tube; pipe; drinking straw, learned: false, pinyin: guǎnzi, pinyin-numbered: guan3zi,
+  simplified: 管子, traditional: 管子}
+- {english: champion, learned: false, pinyin: guànjūn, pinyin-numbered: guan4jun1,
+  simplified: 冠军, traditional: 冠軍}
+- {english: glossy; sleek; smooth, learned: false, pinyin: guānghuá, pinyin-numbered: guang1hua2,
+  simplified: 光滑, traditional: 光滑}
+- {english: (polite) welcome!; honor somebody with one's presence, learned: false,
+  pinyin: guānglín, pinyin-numbered: guang1lin2, simplified: 光临, traditional: 光臨}
+- {english: bright (future); promising; illuminate, learned: false, pinyin: guāngmíng,
+  pinyin-numbered: guang1ming2, simplified: 光明, traditional: 光明}
+- {english: CD (compact disc), learned: false, pinyin: guāngpán, pinyin-numbered: guang1pan2,
+  simplified: 光盘, traditional: 光盤}
+- {english: public square; plaza, learned: false, pinyin: guǎngchǎng, pinyin-numbered: guang3chang3,
+  simplified: 广场, traditional: 廣場}
+- {english: vast; extensive, learned: false, pinyin: guǎngdà, pinyin-numbered: guang3da4,
+  simplified: 广大, traditional: 廣大}
+- {english: extensive; wide ranging, learned: false, pinyin: guǎngfàn, pinyin-numbered: guang3fan4,
+  simplified: 广泛, traditional: 廣泛}
+- {english: conclude from the facts; induce; sum up from the facts, learned: false,
+  pinyin: guīnà, pinyin-numbered: guin1a4, simplified: 归纳, traditional: 歸納}
+- {english: rule; custom, learned: false, pinyin: guīju, pinyin-numbered: gui1ju,
+  simplified: 规矩, traditional: 規矩}
+- {english: law (e.g. of science); regular pattern; discipline, learned: false, pinyin: guīlǜ,
+  pinyin-numbered: gui1lü4, simplified: 规律, traditional: 規律}
+- {english: scale; scope; extent, learned: false, pinyin: guīmó, pinyin-numbered: gui1mo2,
+  simplified: 规模, traditional: 規模}
+- {english: rule; law; regulation, learned: false, pinyin: guīzé, pinyin-numbered: gui1ze2,
+  simplified: 规则, traditional: 規則}
+- {english: counter; bar; front desk, learned: false, pinyin: guìtái, pinyin-numbered: gui4tai2,
+  simplified: 柜台, traditional: 櫃台}
+- {english: to roll; get lost; to boil, learned: false, pinyin: gǔn, pinyin-numbered: gun3,
+  simplified: 滚, traditional: 滾}
+- {english: pot; pan; boiler, learned: false, pinyin: guō, pinyin-numbered: guo1,
+  simplified: 锅, traditional: 鍋}
+- {english: National Day, learned: false, pinyin: Guóqìng Jié, pinyin-numbered: Guo2qing4
+    Jie2, simplified: 国庆节, traditional: 國慶節}
+- {english: king, learned: false, pinyin: guówáng, pinyin-numbered: guo2wang2, simplified: 国王,
+  traditional: 國王}
+- {english: really; sure enough; as expected, learned: false, pinyin: guǒrán, pinyin-numbered: guo3ran2,
+  simplified: 果然, traditional: 果然}
+- {english: fruit; gains; results, learned: false, pinyin: guǒshí, pinyin-numbered: guo3shi2,
+  simplified: 果实, traditional: 果實}
+- {english: excessive; overly, learned: false, pinyin: guòfèn, pinyin-numbered: guo4fen4,
+  simplified: 过分, traditional: 過分}
+- {english: be allergic; allergy, learned: false, pinyin: guòmǐn, pinyin-numbered: guo4min3,
+  simplified: 过敏, traditional: 過敏}
+- {english: overdue; expire, learned: false, pinyin: guòqī, pinyin-numbered: guo4qi1,
+  simplified: 过期, traditional: 過期}
+- {english: exhale; sip; (sound of laughter), learned: false, pinyin: hā, pinyin-numbered: ha1,
+  simplified: 哈, traditional: 哈}
+- {english: customs (i.e. border inspection), learned: false, pinyin: hǎiguān, pinyin-numbered: hai3guan1,
+  simplified: 海关, traditional: 海關}
+- {english: seafood, learned: false, pinyin: hǎixiān, pinyin-numbered: hai3xian1,
+  simplified: 海鲜, traditional: 海鮮}
+- {english: call; cry; shout, learned: false, pinyin: hǎn, pinyin-numbered: han3,
+  simplified: 喊, traditional: 喊}
+- {english: industry; business, learned: false, pinyin: hángyè, pinyin-numbered: hang2ye4,
+  simplified: 行业, traditional: 行業}
+- {english: luxurious, learned: false, pinyin: háohuá, pinyin-numbered: hao2hua2,
+  simplified: 豪华, traditional: 豪華}
+- {english: hospitable; to enjoy having guests, learned: false, pinyin: hàokè, pinyin-numbered: hao4ke4,
+  simplified: 好客, traditional: 好客}
+- {english: curious, learned: false, pinyin: hàoqí, pinyin-numbered: hao4qi2, simplified: 好奇,
+  traditional: 好奇}
+- {english: lawful; legitimate; legal, learned: false, pinyin: héfǎ, pinyin-numbered: he2fa3,
+  simplified: 合法, traditional: 合法}
+- {english: rational; reasonable, learned: false, pinyin: hélǐ, pinyin-numbered: he2li3,
+  simplified: 合理, traditional: 合理}
+- {english: contract, learned: false, pinyin: hétong, pinyin-numbered: he2tong, simplified: 合同,
+  traditional: 合同}
+- {english: joint photo; group photo, learned: false, pinyin: héyǐng, pinyin-numbered: he2ying3,
+  simplified: 合影, traditional: 合影}
+- {english: cooperate; collaborate; work together, learned: false, pinyin: hézuò,
+  pinyin-numbered: he2zuo4, simplified: 合作, traditional: 合作}
+- {english: why should; there is no need to, learned: false, pinyin: hébì, pinyin-numbered: he2bi4,
+  simplified: 何必, traditional: 何必}
+- {english: let alone; much less, learned: false, pinyin: hékuàng, pinyin-numbered: he2kuang4,
+  simplified: 何况, traditional: 何況}
+- {english: peace, learned: false, pinyin: hépíng, pinyin-numbered: he2ping2, simplified: 和平,
+  traditional: 和平}
+- {english: core; nucleus, learned: false, pinyin: héxīn, pinyin-numbered: he2xin1,
+  simplified: 核心, traditional: 核心}
+- {english: to hate, learned: false, pinyin: hèn, pinyin-numbered: hen4, simplified: 恨,
+  traditional: 恨}
+- {english: monkey, learned: false, pinyin: hóuzi, pinyin-numbered: hou2zi, simplified: 猴子,
+  traditional: 猴子}
+- {english: back (of the body), learned: false, pinyin: hòubèi, pinyin-numbered: hou4bei4,
+  simplified: 后背, traditional: 後背}
+- {english: consequences; aftermath, learned: false, pinyin: hòuguǒ, pinyin-numbered: hou4guo3,
+  simplified: 后果, traditional: 後果}
+- {english: breathe, learned: false, pinyin: hūxī, pinyin-numbered: hu1xi1, simplified: 呼吸,
+  traditional: 呼吸}
+- {english: suddenly; all of a sudden, learned: false, pinyin: hūrán, pinyin-numbered: hu1ran2,
+  simplified: 忽然, traditional: 忽然}
+- {english: neglect; ignore; to overlook, learned: false, pinyin: hūshì, pinyin-numbered: hu1shi4,
+  simplified: 忽视, traditional: 忽視}
+- {english: talk nonsense; drivel, learned: false, pinyin: húshuō, pinyin-numbered: hu2shuo1,
+  simplified: 胡说, traditional: 胡說}
+- {english: lane; alley, learned: false, pinyin: hútòng, pinyin-numbered: hu2tong4,
+  simplified: 胡同, traditional: 胡同}
+- {english: pot; kettle; jug; (mw for bottled liquids), learned: false, pinyin: hú,
+  pinyin-numbered: hu2, simplified: 壶, traditional: 壺}
+- {english: butterfly, learned: false, pinyin: húdié, pinyin-numbered: hu2die2, simplified: 蝴蝶,
+  traditional: 蝴蝶}
+- {english: confused; bewildered; muddled, learned: false, pinyin: hútu, pinyin-numbered: hu2tu,
+  simplified: 糊涂, traditional: 糊塗}
+- {english: peanut, learned: false, pinyin: huāshēng, pinyin-numbered: hua1sheng1,
+  simplified: 花生, traditional: 花生}
+- {english: delimit; to transfer; assign | to row; to paddle; to scratch, learned: false,
+  pinyin: 'huà, huá', pinyin-numbered: 'hua4, hua2', simplified: 划, traditional: 劃}
+- {english: person of Chinese descent, learned: false, pinyin: Huáyì, pinyin-numbered: Hua2yi4,
+  simplified: 华裔, traditional: 華裔}
+- {english: slippery; cunning; crafty, learned: false, pinyin: huá, pinyin-numbered: hua2,
+  simplified: 滑, traditional: 滑}
+- {english: chemistry, learned: false, pinyin: huàxué, pinyin-numbered: hua4xue2,
+  simplified: 化学, traditional: 化學}
+- {english: subject (of a talk or conversation), learned: false, pinyin: huàtí, pinyin-numbered: hua4ti2,
+  simplified: 话题, traditional: 話題}
+- {english: cherish the memory of; think fondly of, learned: false, pinyin: huáiniàn,
+  pinyin-numbered: huai2nian4, simplified: 怀念, traditional: 懷念}
+- {english: become pregnant; have conceived, learned: false, pinyin: huáiyùn, pinyin-numbered: huai2yun4,
+  simplified: 怀孕, traditional: 懷孕}
+- {english: to alleviate, learned: false, pinyin: huǎnjiě, pinyin-numbered: huan3jie3,
+  simplified: 缓解, traditional: 緩解}
+- {english: delusion; fantasy; illusion, learned: false, pinyin: huànxiǎng, pinyin-numbered: huan4xiang3,
+  simplified: 幻想, traditional: 幻想}
+- {english: flustered; flurried, learned: false, pinyin: huāngzhāng, pinyin-numbered: huang1zhang1,
+  simplified: 慌张, traditional: 慌張}
+- {english: gold, learned: false, pinyin: huángjīn, pinyin-numbered: huang2jin1, simplified: 黄金,
+  traditional: 黃金}
+- {english: ash; gray (grey); dust; lime, learned: false, pinyin: huī, pinyin-numbered: hui1,
+  simplified: 灰, traditional: 灰}
+- {english: dust; dirt, learned: false, pinyin: huīchén, pinyin-numbered: hui1chen2,
+  simplified: 灰尘, traditional: 灰塵}
+- {english: lose heart; be discouraged, learned: false, pinyin: huī xīn, pinyin-numbered: hui1
+    xin1, simplified: 灰心, traditional: 灰心}
+- {english: to wave; brandish; wield; wipe away, learned: false, pinyin: huī, pinyin-numbered: hui1,
+  simplified: 挥, traditional: 揮}
+- {english: reinstate; resume; recover, learned: false, pinyin: huīfù, pinyin-numbered: hui1fu4,
+  simplified: 恢复, traditional: 恢複}
+- {english: exchange rate, learned: false, pinyin: huìlǜ, pinyin-numbered: hui4lü4,
+  simplified: 汇率, traditional: 彙率}
+- {english: wedding ceremony, learned: false, pinyin: hūnlǐ, pinyin-numbered: hun1li3,
+  simplified: 婚礼, traditional: 婚禮}
+- {english: marriage; matrimony; wedding, learned: false, pinyin: hūnyīn, pinyin-numbered: hun1yin1,
+  simplified: 婚姻, traditional: 婚姻}
+- {english: active; vigorous, learned: false, pinyin: huóyuè, pinyin-numbered: huo2yue4,
+  simplified: 活跃, traditional: 活躍}
+- {english: match (for lighting fire), learned: false, pinyin: huǒchái, pinyin-numbered: huo3chai2,
+  simplified: 火柴, traditional: 火柴}
+- {english: partner (for an activity); friend; pal, learned: false, pinyin: huǒbàn,
+  pinyin-numbered: huo3ban4, simplified: 伙伴, traditional: 夥伴}
+- {english: perhaps; maybe, learned: false, pinyin: huòxǔ, pinyin-numbered: huo4xu3,
+  simplified: 或许, traditional: 或許}
+- {english: machine, learned: false, pinyin: jīqì, pinyin-numbered: ji1qi4, simplified: 机器,
+  traditional: 機器}
+- {english: muscle; flesh, learned: false, pinyin: jīròu, pinyin-numbered: ji1rou4,
+  simplified: 肌肉, traditional: 肌肉}
+- {english: basic; fundamental, learned: false, pinyin: jīběn, pinyin-numbered: ji1ben3,
+  simplified: 基本, traditional: 基本}
+- {english: intense; acute; sharp; fierce, learned: false, pinyin: jīliè, pinyin-numbered: ji1lie4,
+  simplified: 激烈, traditional: 激烈}
+- {english: pass an exam, learned: false, pinyin: jí gé, pinyin-numbered: ji2 ge2,
+  simplified: 及格, traditional: 及格}
+- {english: extremely; exceedingly, learned: false, pinyin: jíqí, pinyin-numbered: ji2qi2,
+  simplified: 极其, traditional: 極其}
+- {english: hastily, learned: false, pinyin: jímáng, pinyin-numbered: ji2mang2, simplified: 急忙,
+  traditional: 急忙}
+- {english: emergency call; emergency treatment, learned: false, pinyin: jízhěn, pinyin-numbered: ji2zhen3,
+  simplified: 急诊, traditional: 急診}
+- {english: gather; assemble; to muster, learned: false, pinyin: jíhé, pinyin-numbered: ji2he2,
+  simplified: 集合, traditional: 集合}
+- {english: collective; group, learned: false, pinyin: jítǐ, pinyin-numbered: ji2ti3,
+  simplified: 集体, traditional: 集體}
+- {english: concentrate; to focus; amass, learned: false, pinyin: jízhōng, pinyin-numbered: ji2zhong1,
+  simplified: 集中, traditional: 集中}
+- {english: to count; calculate; compute, learned: false, pinyin: jìsuàn, pinyin-numbered: ji4suan4,
+  simplified: 计算, traditional: 計算}
+- {english: to record; take notes, learned: false, pinyin: jìlù, pinyin-numbered: ji4lu4,
+  simplified: 记录, traditional: 記錄}
+- {english: memory; to remember, learned: false, pinyin: jìyì, pinyin-numbered: ji4yi4,
+  simplified: 记忆, traditional: 記憶}
+- {english: a record; to take notes, learned: false, pinyin: jìlù, pinyin-numbered: ji4lu4,
+  simplified: 纪录, traditional: 紀錄}
+- {english: discipline; morale; laws and regulations, learned: false, pinyin: jìlǜ,
+  pinyin-numbered: ji4lü4, simplified: 纪律, traditional: 紀律}
+- {english: commemorate; remember, learned: false, pinyin: jìniàn, pinyin-numbered: jin4ian4,
+  simplified: 纪念, traditional: 紀念}
+- {english: tie a neck tie, learned: false, pinyin: jìlǐngdài, pinyin-numbered: ji4ling3dai4,
+  simplified: 系领带, traditional: 系領帶}
+- {english: lonely; lonesome, learned: false, pinyin: jìmò, pinyin-numbered: ji4mo4,
+  simplified: 寂寞, traditional: 寂寞}
+- {english: clip; tongs; folder, learned: false, pinyin: jiāzi, pinyin-numbered: jia1zi,
+  simplified: 夹子, traditional: 夾子}
+- {english: family; household, learned: false, pinyin: jiātíng, pinyin-numbered: jia1ting2,
+  simplified: 家庭, traditional: 家庭}
+- {english: household duties; chores; housework, learned: false, pinyin: jiāwù, pinyin-numbered: jia1wu4,
+  simplified: 家务, traditional: 家務}
+- {english: hometown, learned: false, pinyin: jiāxiāng, pinyin-numbered: jia1xiang1,
+  simplified: 家乡, traditional: 家鄉}
+- {english: honored guest, learned: false, pinyin: jiābīn, pinyin-numbered: jia1bin1,
+  simplified: 嘉宾, traditional: 嘉賓}
+- {english: one; armor (1st Heavenly Stem), learned: false, pinyin: jiǎ, pinyin-numbered: jia3,
+  simplified: 甲, traditional: 甲}
+- {english: if; supposing; in case, learned: false, pinyin: jiǎrú, pinyin-numbered: jia3ru2,
+  simplified: 假如, traditional: 假如}
+- {english: suppose that; hypothesis; conjecture, learned: false, pinyin: jiǎshè,
+  pinyin-numbered: jia3she4, simplified: 假设, traditional: 假設}
+- {english: pretend to be; feign, learned: false, pinyin: jiǎzhuāng, pinyin-numbered: jia3zhuang1,
+  simplified: 假装, traditional: 假裝}
+- {english: value; worth, learned: false, pinyin: jiàzhí, pinyin-numbered: jia4zhi2,
+  simplified: 价值, traditional: 價值}
+- {english: 'to drive; to pilot (a ship, an airplane, etc.)', learned: false, pinyin: jiàshǐ,
+  pinyin-numbered: jia4shi3, simplified: 驾驶, traditional: 駕駛}
+- {english: marry (a husband); take a husband, learned: false, pinyin: jià, pinyin-numbered: jia4,
+  simplified: 嫁, traditional: 嫁}
+- {english: resolute; determined; uncompromising, learned: false, pinyin: jiānjué,
+  pinyin-numbered: jian1jue2, simplified: 坚决, traditional: 堅決}
+- {english: strong; staunch, learned: false, pinyin: jiānqiáng, pinyin-numbered: jian1qiang2,
+  simplified: 坚强, traditional: 堅強}
+- {english: shoulder, learned: false, pinyin: jiānbǎng, pinyin-numbered: jian1bang3,
+  simplified: 肩膀, traditional: 肩膀}
+- {english: very difficult; arduous; hard, learned: false, pinyin: jiānjù, pinyin-numbered: jian1ju4,
+  simplified: 艰巨, traditional: 艱巨}
+- {english: difficult; hard; arduous, learned: false, pinyin: jiānkǔ, pinyin-numbered: jian1ku3,
+  simplified: 艰苦, traditional: 艱苦}
+- {english: part time, learned: false, pinyin: jiānzhí, pinyin-numbered: jian1zhi2,
+  simplified: 兼职, traditional: 兼職}
+- {english: to pick up; collect; gather, learned: false, pinyin: jiǎn, pinyin-numbered: jian3,
+  simplified: 捡, traditional: 撿}
+- {english: scissors, learned: false, pinyin: jiǎndāo, pinyin-numbered: jian3dao1,
+  simplified: 剪刀, traditional: 剪刀}
+- {english: resume; curriculum vitae, learned: false, pinyin: jiǎnlì, pinyin-numbered: jian3li4,
+  simplified: 简历, traditional: 簡曆}
+- {english: simply; at all, learned: false, pinyin: jiǎnzhí, pinyin-numbered: jian3zhi2,
+  simplified: 简直, traditional: 簡直}
+- {english: establish; to construct; to set up, learned: false, pinyin: jiànlì, pinyin-numbered: jian4li4,
+  simplified: 建立, traditional: 建立}
+- {english: to build; to construct; construction, learned: false, pinyin: jiànshè,
+  pinyin-numbered: jian4she4, simplified: 建设, traditional: 建設}
+- {english: a building; to construct; architecture, learned: false, pinyin: jiànzhù,
+  pinyin-numbered: jian4zhu4, simplified: 建筑, traditional: 建築}
+- {english: work out; body-building, learned: false, pinyin: jiànshēn, pinyin-numbered: jian4shen1,
+  simplified: 健身, traditional: 健身}
+- {english: keyboard, learned: false, pinyin: jiànpán, pinyin-numbered: jian4pan2,
+  simplified: 键盘, traditional: 鍵盤}
+- {english: Be particular about; fastidious; stress; exquisite ; careful study, learned: false,
+  pinyin: jiǎngjiu, pinyin-numbered: jiang3jiu, simplified: 讲究, traditional: 講究}
+- {english: a lecture or course of lectures; lecture hall, learned: false, pinyin: jiǎngzuò,
+  pinyin-numbered: jiang3zuo4, simplified: 讲座, traditional: 講座}
+- {english: soy sauce, learned: false, pinyin: jiàngyóu, pinyin-numbered: jiang4you2,
+  simplified: 酱油, traditional: 醬油}
+- {english: to exchange; to swap; to switch, learned: false, pinyin: jiāohuàn, pinyin-numbered: jiao1huan4,
+  simplified: 交换, traditional: 交換}
+- {english: socialize; social intercourse; communication, learned: false, pinyin: jiāojì,
+  pinyin-numbered: jiao1ji4, simplified: 交际, traditional: 交際}
+- {english: to associate; to contact, learned: false, pinyin: jiāowǎng, pinyin-numbered: jiao1wang3,
+  simplified: 交往, traditional: 交往}
+- {english: to water; irrigate; to pour; to sprinkle, learned: false, pinyin: jiāo,
+  pinyin-numbered: jiao1, simplified: 浇, traditional: 澆}
+- {english: (watery) glue; gum, learned: false, pinyin: jiāoshuǐ, pinyin-numbered: jiao1shui3,
+  simplified: 胶水, traditional: 膠水}
+- {english: angle; point of view, learned: false, pinyin: jiǎodù, pinyin-numbered: jiao3du4,
+  simplified: 角度, traditional: 角度}
+- {english: crafty; cunning; sly, learned: false, pinyin: jiǎohuá, pinyin-numbered: jiao3hua2,
+  simplified: 狡猾, traditional: 狡猾}
+- {english: teaching materials, learned: false, pinyin: jiàocái, pinyin-numbered: jiao4cai2,
+  simplified: 教材, traditional: 教材}
+- {english: (athlete's) coach; sports coach; instructor, learned: false, pinyin: jiàoliàn,
+  pinyin-numbered: jiao4lian4, simplified: 教练, traditional: 教練}
+- {english: lesson; teach someone or learn a lesson; a moral, learned: false, pinyin: jiàoxun,
+  pinyin-numbered: jiao4xun, simplified: 教训, traditional: 教訓}
+- {english: stage; phase, learned: false, pinyin: jiēduàn, pinyin-numbered: jie1duan4,
+  simplified: 阶段, traditional: 階段}
+- {english: 'sturdy; (also -shí: bear fruit)', learned: false, pinyin: jiēshi, pinyin-numbered: jie1shi,
+  simplified: 结实, traditional: 結實}
+- {english: come into contact with, learned: false, pinyin: jiēchù, pinyin-numbered: jie1chu4,
+  simplified: 接触, traditional: 接觸}
+- {english: receive (a visitor); admit (entry to), learned: false, pinyin: jiēdài,
+  pinyin-numbered: jie1dai4, simplified: 接待, traditional: 接待}
+- {english: near; be close to, learned: false, pinyin: jiējìn, pinyin-numbered: jie1jin4,
+  simplified: 接近, traditional: 接近}
+- {english: save; use sparingly; frugal, learned: false, pinyin: jiéshěng, pinyin-numbered: jie2sheng3,
+  simplified: 节省, traditional: 節省}
+- {english: structure; composition, learned: false, pinyin: jiégòu, pinyin-numbered: jie2gou4,
+  simplified: 结构, traditional: 結構}
+- {english: combine; to link; to bind, learned: false, pinyin: jiéhé, pinyin-numbered: jie2he2,
+  simplified: 结合, traditional: 結合}
+- {english: conclusion; verdict, learned: false, pinyin: jiélùn, pinyin-numbered: jie2lun4,
+  simplified: 结论, traditional: 結論}
+- {english: pay the bill; settle accounts, learned: false, pinyin: jiézhàng, pinyin-numbered: jie2zhang4,
+  simplified: 结账, traditional: 結賬}
+- {english: warn against; swear off, learned: false, pinyin: jiè, pinyin-numbered: jie4,
+  simplified: 戒, traditional: 戒}
+- {english: (finger) ring, learned: false, pinyin: jièzhi, pinyin-numbered: jie4zhi,
+  simplified: 戒指, traditional: 戒指}
+- {english: arrive at; period; session; (mw for events; meetings; etc.), learned: false,
+  pinyin: jiè, pinyin-numbered: jie4, simplified: 届, traditional: 屆}
+- {english: excuse, learned: false, pinyin: jièkǒu, pinyin-numbered: jie4kou3, simplified: 借口,
+  traditional: 借口}
+- {english: metal, learned: false, pinyin: jīnshǔ, pinyin-numbered: jin1shu3, simplified: 金属,
+  traditional: 金屬}
+- {english: as quickly as possible, learned: false, pinyin: jǐnkuài, pinyin-numbered: jin3kuai4,
+  simplified: 尽快, traditional: 盡快}
+- {english: 'as much as possible; to the best of one''s ability (jìn-: eat or drink
+    to one''s fill)', learned: false, pinyin: jǐnliàng, pinyin-numbered: jin3liang4,
+  simplified: 尽量, traditional: 盡量}
+- {english: urgent; pressing, learned: false, pinyin: jǐnjí, pinyin-numbered: jin3ji2,
+  simplified: 紧急, traditional: 緊急}
+- {english: cautious; prudent, learned: false, pinyin: jǐnshèn, pinyin-numbered: jin3shen4,
+  simplified: 谨慎, traditional: 謹慎}
+- {english: do one's best; to strive as much as possible, learned: false, pinyin: jìn
+    lì, pinyin-numbered: jin4 li4, simplified: 尽力, traditional: 盡力}
+- {english: make progress; to advance, learned: false, pinyin: jìnbù, pinyin-numbered: jin4bu4,
+  simplified: 进步, traditional: 進步}
+- {english: import; entrance; enter, learned: false, pinyin: jìn kǒu, pinyin-numbered: jin4
+    kou3, simplified: 进口, traditional: 進口}
+- {english: modern times; latest generation, learned: false, pinyin: jìndài, pinyin-numbered: jin4dai4,
+  simplified: 近代, traditional: 近代}
+- {english: classics; scriptures, learned: false, pinyin: jīngdiǎn, pinyin-numbered: jing1dian3,
+  simplified: 经典, traditional: 經典}
+- {english: trade; be in business; do commerce, learned: false, pinyin: jīng shāng,
+  pinyin-numbered: jing1 shang1, simplified: 经商, traditional: 經商}
+- {english: 'engage in (a business activity, etc.); run/operate (a business)', learned: false,
+  pinyin: jīngyíng, pinyin-numbered: jing1ying2, simplified: 经营, traditional: 經營}
+- {english: energy; vigor, learned: false, pinyin: jīnglì, pinyin-numbered: jing1li4,
+  simplified: 精力, traditional: 精力}
+- {english: vigor; spirit; mind, learned: false, pinyin: jīngshen, pinyin-numbered: jing1shen,
+  simplified: 精神, traditional: 精神}
+- {english: bar, learned: false, pinyin: jiǔbā, pinyin-numbered: jiu3ba1, simplified: 酒吧,
+  traditional: 酒吧}
+- {english: to save (life); to assist; to rescue, learned: false, pinyin: jiù, pinyin-numbered: jiu4,
+  simplified: 救, traditional: 救}
+- {english: ambulance, learned: false, pinyin: jiùhùchē, pinyin-numbered: jiu4hu4che1,
+  simplified: 救护车, traditional: 救護車}
+- {english: mother's brother; maternal uncle, learned: false, pinyin: jiùjiu, pinyin-numbered: jiu4jiu,
+  simplified: 舅舅, traditional: 舅舅}
+- {english: unexpectedly; to one's surprise; go so far as to, learned: false, pinyin: jūrán,
+  pinyin-numbered: ju1ran2, simplified: 居然, traditional: 居然}
+- {english: tangerine, learned: false, pinyin: júzi, pinyin-numbered: ju2zi, simplified: 桔子,
+  traditional: 桔子}
+- {english: immense; enormous; very large, learned: false, pinyin: jùdà, pinyin-numbered: ju4da4,
+  simplified: 巨大, traditional: 巨大}
+- {english: possess; be equipped with, learned: false, pinyin: jùbèi, pinyin-numbered: ju4bei4,
+  simplified: 具备, traditional: 具備}
+- {english: concrete; definite; specific, learned: false, pinyin: jùtǐ, pinyin-numbered: ju4ti3,
+  simplified: 具体, traditional: 具體}
+- {english: club (group or organization), learned: false, pinyin: jùlèbù, pinyin-numbered: ju4le4bu4,
+  simplified: 俱乐部, traditional: 俱樂部}
+- {english: it is said that; reportedly, learned: false, pinyin: jùshuō, pinyin-numbered: ju4shuo1,
+  simplified: 据说, traditional: 據說}
+- {english: to contribute; to donate; to subsribe to; to abandon; to relinquish; contribution;
+    tax, learned: false, pinyin: juān, pinyin-numbered: juan1, simplified: 捐, traditional: 捐}
+- {english: finals (of a competition); final match, learned: false, pinyin: juésài,
+  pinyin-numbered: jue2sai4, simplified: 决赛, traditional: 決賽}
+- {english: determination; resolution, learned: false, pinyin: juéxīn, pinyin-numbered: jue2xin1,
+  simplified: 决心, traditional: 決心}
+- {english: role; part, learned: false, pinyin: juésè, pinyin-numbered: jue2se4, simplified: 角色,
+  traditional: 角色}
+- {english: absolute; definite, learned: false, pinyin: juéduì, pinyin-numbered: jue2dui4,
+  simplified: 绝对, traditional: 絕對}
+- {english: military affairs; military matters, learned: false, pinyin: jūnshì, pinyin-numbered: jun1shi4,
+  simplified: 军事, traditional: 軍事}
+- {english: even; well-distributed, learned: false, pinyin: jūnyún, pinyin-numbered: jun1yun2,
+  simplified: 均匀, traditional: 均勻}
+- {english: truck, learned: false, pinyin: kǎchē, pinyin-numbered: ka3che1, simplified: 卡车,
+  traditional: 卡車}
+- {english: develop; to exploit (a resource), learned: false, pinyin: kāifā, pinyin-numbered: kai1fa1,
+  simplified: 开发, traditional: 開發}
+- {english: '(of flowers) to bloom; open up; to be open-minded; lift a ban, restriction,
+    etc.; release; liberalization; China''s 1979 open policy', learned: false, pinyin: kāifàng,
+  pinyin-numbered: kai1fang4, simplified: 开放, traditional: 開放}
+- {english: opening ceremony, learned: false, pinyin: kāimùshì, pinyin-numbered: kai1mu4shi4,
+  simplified: 开幕式, traditional: 開幕式}
+- {english: boiled water; boil water, learned: false, pinyin: kāishuǐ, pinyin-numbered: kai1shui3,
+  simplified: 开水, traditional: 開水}
+- {english: to chop; cut down, learned: false, pinyin: kǎn, pinyin-numbered: kan3,
+  simplified: 砍, traditional: 砍}
+- {english: look down upon; despise, learned: false, pinyin: kàn bu qǐ, pinyin-numbered: kan4
+    bu qi3, simplified: 看不起, traditional: 看不起}
+- {english: visit; call on; see, learned: false, pinyin: kànwàng, pinyin-numbered: kan4wang4,
+  simplified: 看望, traditional: 看望}
+- {english: depend on; lean on; near; to trust, learned: false, pinyin: kào, pinyin-numbered: kao4,
+  simplified: 靠, traditional: 靠}
+- {english: '(mw for hearts and small, round things like seeds, grains, beans, etc.)',
+  learned: false, pinyin: kē, pinyin-numbered: ke1, simplified: 颗, traditional: 顆}
+- {english: it can clearly be seen that; clear, learned: false, pinyin: kějiàn, pinyin-numbered: ke3jian4,
+  simplified: 可见, traditional: 可見}
+- {english: reliable, learned: false, pinyin: kěkào, pinyin-numbered: ke3kao4, simplified: 可靠,
+  traditional: 可靠}
+- {english: terrible; awful; frightful; scary, learned: false, pinyin: kěpà, pinyin-numbered: ke3pa4,
+  simplified: 可怕, traditional: 可怕}
+- {english: gram; overcome; restrain, learned: false, pinyin: kè, pinyin-numbered: ke4,
+  simplified: 克, traditional: 克}
+- {english: 'overcome (hardships, etc.); conquer', learned: false, pinyin: kèfú, pinyin-numbered: ke4fu2,
+  simplified: 克服, traditional: 克服}
+- {english: hardworking; assiduous, learned: false, pinyin: kèkǔ, pinyin-numbered: ke4ku3,
+  simplified: 刻苦, traditional: 刻苦}
+- {english: objective; impartial; unbiased, learned: false, pinyin: kèguān, pinyin-numbered: ke4guan1,
+  simplified: 客观, traditional: 客觀}
+- {english: course; curriculum; class, learned: false, pinyin: kèchéng, pinyin-numbered: ke4cheng2,
+  simplified: 课程, traditional: 課程}
+- {english: space, learned: false, pinyin: kōngjiān, pinyin-numbered: kong1jian1,
+  simplified: 空间, traditional: 空間}
+- {english: leisure; free time; idle; unused, learned: false, pinyin: kòngxián, pinyin-numbered: kong4xian2,
+  simplified: 空闲, traditional: 空閑}
+- {english: to control, learned: false, pinyin: kòngzhì, pinyin-numbered: kong4zhi4,
+  simplified: 控制, traditional: 控制}
+- {english: a person's tastes or preferences, learned: false, pinyin: kǒuwèi, pinyin-numbered: kou3wei4,
+  simplified: 口味, traditional: 口味}
+- {english: to boast; to praise; exaggerate, learned: false, pinyin: kuā, pinyin-numbered: kua1,
+  simplified: 夸, traditional: 誇}
+- {english: exaggerate; overstate; exaggerated; overstated; vaunted; hyperbole, learned: false,
+  pinyin: kuāzhāng, pinyin-numbered: kua1zhang1, simplified: 夸张, traditional: 誇張}
+- {english: accountant; accounting, learned: false, pinyin: kuàijì, pinyin-numbered: kuai4ji4,
+  simplified: 会计, traditional: 會計}
+- {english: wide; broad; relaxed; lenient, learned: false, pinyin: kuān, pinyin-numbered: kuan1,
+  simplified: 宽, traditional: 寬}
+- {english: insect, learned: false, pinyin: kūnchóng, pinyin-numbered: kun1chong2,
+  simplified: 昆虫, traditional: 昆蟲}
+- {english: enlarge; expand, learned: false, pinyin: kuòdà, pinyin-numbered: kuo4da4,
+  simplified: 扩大, traditional: 擴大}
+- {english: hot pepper; chili, learned: false, pinyin: làjiāo, pinyin-numbered: la4jiao1,
+  simplified: 辣椒, traditional: 辣椒}
+- {english: to block; to cut off; hinder, learned: false, pinyin: lán, pinyin-numbered: lan2,
+  simplified: 拦, traditional: 攔}
+- {english: overcooked; rotten; soft; mushy, learned: false, pinyin: làn, pinyin-numbered: lan4,
+  simplified: 烂, traditional: 爛}
+- {english: read aloud, learned: false, pinyin: lǎngdú, pinyin-numbered: lang3du2,
+  simplified: 朗读, traditional: 朗讀}
+- {english: work; toil; (physical) labor, learned: false, pinyin: láodòng, pinyin-numbered: lao2dong4,
+  simplified: 劳动, traditional: 勞動}
+- {english: excuse me, learned: false, pinyin: láo jià, pinyin-numbered: lao2 jia4,
+  simplified: 劳驾, traditional: 勞駕}
+- {english: ordinary people; the person on the street; civilians, learned: false,
+  pinyin: lǎobǎixìng, pinyin-numbered: lao3bai3xing4, simplified: 老百姓, traditional: 老百姓}
+- {english: boss; proprietor; shopkeeper, learned: false, pinyin: lǎobǎn, pinyin-numbered: lao3ban3,
+  simplified: 老板, traditional: 老板}
+- {english: (informal) wife, learned: false, pinyin: lǎopó, pinyin-numbered: lao3po2,
+  simplified: 老婆, traditional: 老婆}
+- {english: honest; sincere; naive; simpleminded, learned: false, pinyin: lǎoshi,
+  pinyin-numbered: lao3shi, simplified: 老实, traditional: 老實}
+- {english: rat; mouse, learned: false, pinyin: lǎoshǔ, pinyin-numbered: lao3shu3,
+  simplified: 老鼠, traditional: 老鼠}
+- {english: maternal grandmother, learned: false, pinyin: lǎolao, pinyin-numbered: lao3lao,
+  simplified: 姥姥, traditional: 姥姥}
+- {english: optimism; hopeful, learned: false, pinyin: lèguān, pinyin-numbered: le4guan1,
+  simplified: 乐观, traditional: 樂觀}
+- {english: thunder, learned: false, pinyin: léi, pinyin-numbered: lei2, simplified: 雷,
+  traditional: 雷}
+- {english: type, learned: false, pinyin: lèixíng, pinyin-numbered: lei4xing2, simplified: 类型,
+  traditional: 類型}
+- {english: cold; chill; indifferent; unconcerned, learned: false, pinyin: lěngdàn,
+  pinyin-numbered: leng3dan4, simplified: 冷淡, traditional: 冷淡}
+- {english: centimeter, learned: false, pinyin: límǐ, pinyin-numbered: li2mi3, simplified: 厘米,
+  traditional: 厘米}
+- {english: to divorce; divorced from (one's spouse), learned: false, pinyin: lí hūn,
+  pinyin-numbered: li2 hun1, simplified: 离婚, traditional: 離婚}
+- {english: pear, learned: false, pinyin: lí, pinyin-numbered: li2, simplified: 梨,
+  traditional: 梨}
+- {english: theory, learned: false, pinyin: lǐlùn, pinyin-numbered: li3lun4, simplified: 理论,
+  traditional: 理論}
+- {english: a reason; grounds; argument, learned: false, pinyin: lǐyóu, pinyin-numbered: li3you2,
+  simplified: 理由, traditional: 理由}
+- {english: power; force; strength, learned: false, pinyin: lìliang, pinyin-numbered: li4liang,
+  simplified: 力量, traditional: 力量}
+- {english: immediately, learned: false, pinyin: lìjí, pinyin-numbered: li4ji2, simplified: 立即,
+  traditional: 立即}
+- {english: immediately; at once; right away, learned: false, pinyin: lìkè, pinyin-numbered: li4ke4,
+  simplified: 立刻, traditional: 立刻}
+- {english: profit, learned: false, pinyin: lìrùn, pinyin-numbered: li4run4, simplified: 利润,
+  traditional: 利潤}
+- {english: interest (on a loan), learned: false, pinyin: lìxī, pinyin-numbered: li4xi1,
+  simplified: 利息, traditional: 利息}
+- {english: benefit; (in sb.'s) interest, learned: false, pinyin: lìyì, pinyin-numbered: li4yi4,
+  simplified: 利益, traditional: 利益}
+- {english: to use; to make use of; to exploit, learned: false, pinyin: lìyòng, pinyin-numbered: li4yong4,
+  simplified: 利用, traditional: 利用}
+- {english: promptly; at once, learned: false, pinyin: liánmáng, pinyin-numbered: lian2mang2,
+  simplified: 连忙, traditional: 連忙}
+- {english: continually; in a row; successively, learned: false, pinyin: liánxù, pinyin-numbered: lian2xu4,
+  simplified: 连续, traditional: 連續}
+- {english: alliance; combine; unite, learned: false, pinyin: liánhé, pinyin-numbered: lian2he2,
+  simplified: 联合, traditional: 聯合}
+- {english: romantic love; be in love; love affair, learned: false, pinyin: liàn'ài,
+  pinyin-numbered: lian4'ai4, simplified: 恋爱, traditional: 戀愛}
+- {english: good; favorable; well, learned: false, pinyin: liánghǎo, pinyin-numbered: liang2hao3,
+  simplified: 良好, traditional: 良好}
+- {english: grain; food; cereals, learned: false, pinyin: liángshi, pinyin-numbered: liang2shi,
+  simplified: 粮食, traditional: 糧食}
+- {english: bright; light; shiny, learned: false, pinyin: liàng, pinyin-numbered: liang4,
+  simplified: 亮, traditional: 亮}
+- {english: incredible; extraordinary; great; amazing, learned: false, pinyin: liǎobuqǐ,
+  pinyin-numbered: liao3buqi3, simplified: 了不起, traditional: 了不起}
+- {english: train (railway term), learned: false, pinyin: lièchē, pinyin-numbered: lie4che1,
+  simplified: 列车, traditional: 列車}
+- {english: temporary; at the time; when the time comes, learned: false, pinyin: línshí,
+  pinyin-numbered: lin2shi2, simplified: 临时, traditional: 臨時}
+- {english: flexible; nimble; agile, learned: false, pinyin: línghuó, pinyin-numbered: ling2huo2,
+  simplified: 灵活, traditional: 靈活}
+- {english: bell, learned: false, pinyin: líng, pinyin-numbered: ling2, simplified: 铃,
+  traditional: 鈴}
+- {english: spare parts; component, learned: false, pinyin: língjiàn, pinyin-numbered: ling2jian4,
+  simplified: 零件, traditional: 零件}
+- {english: snack, learned: false, pinyin: língshí, pinyin-numbered: ling2shi2, simplified: 零食,
+  traditional: 零食}
+- {english: to lead; leader; leadership, learned: false, pinyin: lǐngdǎo, pinyin-numbered: ling3dao3,
+  simplified: 领导, traditional: 領導}
+- {english: domain; sphere; field; area, learned: false, pinyin: lǐngyù, pinyin-numbered: ling3yu4,
+  simplified: 领域, traditional: 領域}
+- {english: browse; glance over; skim through, learned: false, pinyin: liúlǎn, pinyin-numbered: liu2lan3,
+  simplified: 浏览, traditional: 浏覽}
+- {english: to spread; circulate; hand down, learned: false, pinyin: liúchuán, pinyin-numbered: liu2chuan2,
+  simplified: 流传, traditional: 流傳}
+- {english: shed tears, learned: false, pinyin: liúlèi, pinyin-numbered: liu2lei4,
+  simplified: 流泪, traditional: 流淚}
+- {english: dragon (Kangxi radical 212), learned: false, pinyin: lóng, pinyin-numbered: long2,
+  simplified: 龙, traditional: 龍}
+- {english: to leak; to funnel; to let out, learned: false, pinyin: lòu, pinyin-numbered: lou4,
+  simplified: 漏, traditional: 漏}
+- {english: land; dry land (as opposed to the sea), learned: false, pinyin: lùdì,
+  pinyin-numbered: lu4di4, simplified: 陆地, traditional: 陸地}
+- {english: in turn; successively; one after another, learned: false, pinyin: lùxù,
+  pinyin-numbered: lu4xu4, simplified: 陆续, traditional: 陸續}
+- {english: recruit; enroll; matriculate, learned: false, pinyin: lùqǔ, pinyin-numbered: lu4qu3,
+  simplified: 录取, traditional: 錄取}
+- {english: sound recording; to record, learned: false, pinyin: lùyīn, pinyin-numbered: lu4yin1,
+  simplified: 录音, traditional: 錄音}
+- {english: to alternate; take turns; rotate, learned: false, pinyin: lúnliú, pinyin-numbered: lun2liu2,
+  simplified: 轮流, traditional: 輪流}
+- {english: thesis; paper; treatise, learned: false, pinyin: lùnwén, pinyin-numbered: lun4wen2,
+  simplified: 论文, traditional: 論文}
+- {english: logic, learned: false, pinyin: luóji, pinyin-numbered: luo2ji, simplified: 逻辑,
+  traditional: 邏輯}
+- {english: backward; to lag (in technology); to fall behind, learned: false, pinyin: luòhòu,
+  pinyin-numbered: luo4hou4, simplified: 落后, traditional: 落後}
+- {english: scold; curse; condemn; verbally abuse, learned: false, pinyin: mà, pinyin-numbered: ma4,
+  simplified: 骂, traditional: 罵}
+- {english: microphone, learned: false, pinyin: màikèfēng, pinyin-numbered: mai4ke4feng1,
+  simplified: 麦克风, traditional: 麥克風}
+- {english: steamed bun/roll, learned: false, pinyin: mántou, pinyin-numbered: man2tou,
+  simplified: 馒头, traditional: 饅頭}
+- {english: satisfy; meet (the needs of), learned: false, pinyin: mǎnzú, pinyin-numbered: man3zu2,
+  simplified: 满足, traditional: 滿足}
+- {english: fault; bad habit; shortcoming, learned: false, pinyin: máobìng, pinyin-numbered: mao2bing4,
+  simplified: 毛病, traditional: 毛病}
+- {english: contradiction; conflict, learned: false, pinyin: máodùn, pinyin-numbered: mao2dun4,
+  simplified: 矛盾, traditional: 矛盾}
+- {english: take a risk; take chances, learned: false, pinyin: màoxiǎn, pinyin-numbered: mao4xian3,
+  simplified: 冒险, traditional: 冒險}
+- {english: (commercial) trade, learned: false, pinyin: màoyì, pinyin-numbered: mao4yi4,
+  simplified: 贸易, traditional: 貿易}
+- {english: eyebrow, learned: false, pinyin: méimao, pinyin-numbered: mei2mao, simplified: 眉毛,
+  traditional: 眉毛}
+- {english: (news) media; medium, learned: false, pinyin: méitǐ, pinyin-numbered: mei2ti3,
+  simplified: 媒体, traditional: 媒體}
+- {english: coal, learned: false, pinyin: méitàn, pinyin-numbered: mei2tan4, simplified: 煤炭,
+  traditional: 煤炭}
+- {english: the fine arts; art, learned: false, pinyin: měishù, pinyin-numbered: mei3shu4,
+  simplified: 美术, traditional: 美術}
+- {english: charm; glamour; enchantment, learned: false, pinyin: mèilì, pinyin-numbered: mei4li4,
+  simplified: 魅力, traditional: 魅力}
+- {english: dream of; wishful thinking, learned: false, pinyin: mèngxiǎng, pinyin-numbered: meng4xiang3,
+  simplified: 梦想, traditional: 夢想}
+- {english: a secret; confidential, learned: false, pinyin: mìmì, pinyin-numbered: mi4mi4,
+  simplified: 秘密, traditional: 秘密}
+- {english: secretary, learned: false, pinyin: mìshu, pinyin-numbered: mi4shu, simplified: 秘书,
+  traditional: 秘書}
+- {english: close; familiar; intimate, learned: false, pinyin: mìqiè, pinyin-numbered: mi4qie4,
+  simplified: 密切, traditional: 密切}
+- {english: bee; honeybee, learned: false, pinyin: mìfēng, pinyin-numbered: mi4feng1,
+  simplified: 蜜蜂, traditional: 蜜蜂}
+- {english: to face; confront, learned: false, pinyin: miànduì, pinyin-numbered: mian4dui4,
+  simplified: 面对, traditional: 面對}
+- {english: (surface) area, learned: false, pinyin: miànjī, pinyin-numbered: mian4ji1,
+  simplified: 面积, traditional: 面積}
+- {english: be faced with; be up against, learned: false, pinyin: miànlín, pinyin-numbered: mian4lin2,
+  simplified: 面临, traditional: 面臨}
+- {english: slim; slender, learned: false, pinyin: miáotiao, pinyin-numbered: miao2tiao,
+  simplified: 苗条, traditional: 苗條}
+- {english: to describe; to depict; to portray, learned: false, pinyin: miáoxiě, pinyin-numbered: miao2xie3,
+  simplified: 描写, traditional: 描寫}
+- {english: sensitive; susceptible, learned: false, pinyin: mǐngǎn, pinyin-numbered: ming3an3,
+  simplified: 敏感, traditional: 敏感}
+- {english: famous brand; name brand, learned: false, pinyin: míngpái, pinyin-numbered: ming2pai2,
+  simplified: 名牌, traditional: 名牌}
+- {english: business card, learned: false, pinyin: míngpiàn, pinyin-numbered: ming2pian4,
+  simplified: 名片, traditional: 名片}
+- {english: famous scenic spots and ancient historic sites, learned: false, pinyin: míngshènggǔjì,
+  pinyin-numbered: ming2sheng4gu3ji4, simplified: 名胜古迹, traditional: 名勝古迹}
+- {english: clear-cut; clearly; clarify, learned: false, pinyin: míngquè, pinyin-numbered: ming2que4,
+  simplified: 明确, traditional: 明確}
+- {english: clear; obvious, learned: false, pinyin: míngxiǎn, pinyin-numbered: ming2xian3,
+  simplified: 明显, traditional: 明顯}
+- {english: '(movie, etc.) star; celebrity', learned: false, pinyin: míngxīng, pinyin-numbered: ming2xing1,
+  simplified: 明星, traditional: 明星}
+- {english: an order; a command, learned: false, pinyin: mìnglìng, pinyin-numbered: ming4ling4,
+  simplified: 命令, traditional: 命令}
+- {english: fate; destiny, learned: false, pinyin: mìngyùn, pinyin-numbered: ming4yun4,
+  simplified: 命运, traditional: 命運}
+- {english: to touch; to stroke; fish out; feel out, learned: false, pinyin: mō, pinyin-numbered: mo1,
+  simplified: 摸, traditional: 摸}
+- {english: imitate; to copy, learned: false, pinyin: mófǎng, pinyin-numbered: mo2fang3,
+  simplified: 模仿, traditional: 模仿}
+- {english: vague; indistinct; fuzzy; foggy, learned: false, pinyin: móhu, pinyin-numbered: mo2hu,
+  simplified: 模糊, traditional: 模糊}
+- {english: (fashion) model, learned: false, pinyin: mótè, pinyin-numbered: mo2te4,
+  simplified: 模特, traditional: 模特}
+- {english: motorcycle; motorbike, learned: false, pinyin: mótuōchē, pinyin-numbered: mo2tuo1che1,
+  simplified: 摩托车, traditional: 摩托車}
+- {english: strange; unfamiliar, learned: false, pinyin: mòshēng, pinyin-numbered: mo4sheng1,
+  simplified: 陌生, traditional: 陌生}
+- {english: a certain; some, learned: false, pinyin: mǒu, pinyin-numbered: mou3, simplified: 某,
+  traditional: 某}
+- {english: wood; log; timber, learned: false, pinyin: mùtou, pinyin-numbered: mu4tou,
+  simplified: 木头, traditional: 木頭}
+- {english: target; goal; objective, learned: false, pinyin: mùbiāo, pinyin-numbered: mu4biao1,
+  simplified: 目标, traditional: 目標}
+- {english: catalog; table of contents; directory (on computer hard drive), learned: false,
+  pinyin: mùlù, pinyin-numbered: mu4lu4, simplified: 目录, traditional: 目錄}
+- {english: at present; now; for the moment, learned: false, pinyin: mùqián, pinyin-numbered: mu4qian2,
+  simplified: 目前, traditional: 目前}
+- {english: even (if/though); no matter how, learned: false, pinyin: nǎpà, pinyin-numbered: na3pa4,
+  simplified: 哪怕, traditional: 哪怕}
+- {english: no wonder, learned: false, pinyin: nánguài, pinyin-numbered: nang2uai4,
+  simplified: 难怪, traditional: 難怪}
+- {english: hard to avoid; difficult to escape from, learned: false, pinyin: nánmiǎn,
+  pinyin-numbered: nan2mian3, simplified: 难免, traditional: 難免}
+- {english: head; mental capability; brains, learned: false, pinyin: nǎodai, pinyin-numbered: nao3dai,
+  simplified: 脑袋, traditional: 腦袋}
+- {english: 'internal; interior; inside (part, section)', learned: false, pinyin: nèibù,
+  pinyin-numbered: nei4bu4, simplified: 内部, traditional: 內部}
+- {english: internal medicine, learned: false, pinyin: nèikē, pinyin-numbered: nei4ke1,
+  simplified: 内科, traditional: 內科}
+- {english: tender; inexperienced, learned: false, pinyin: nèn, pinyin-numbered: nen4,
+  simplified: 嫩, traditional: 嫩}
+- {english: capable; competent, learned: false, pinyin: nénggàn, pinyin-numbered: neng2gan4,
+  simplified: 能干, traditional: 能幹}
+- {english: energy resources; power source, learned: false, pinyin: néngyuán, pinyin-numbered: neng2yuan2,
+  simplified: 能源, traditional: 能源}
+- {english: '(interjection expressing what?, huh? hmm? why? ok, etc.)', learned: false,
+  pinyin: ēn, pinyin-numbered: en1, simplified: 嗯, traditional: 嗯}
+- {english: decade; era, learned: false, pinyin: niándài, pinyin-numbered: nian2dai4,
+  simplified: 年代, traditional: 年代}
+- {english: age, learned: false, pinyin: niánjì, pinyin-numbered: nian2ji4, simplified: 年纪,
+  traditional: 年紀}
+- {english: read aloud; to study; to miss or think of somebody, learned: false, pinyin: niàn,
+  pinyin-numbered: nian4, simplified: 念, traditional: 念}
+- {english: would rather; it is the lesser of two evils to, learned: false, pinyin: nìngkě,
+  pinyin-numbered: ning4ke3, simplified: 宁可, traditional: 甯可}
+- {english: jeans; cowboy pants, learned: false, pinyin: niúzǎikù, pinyin-numbered: niu2zai3ku4,
+  simplified: 牛仔裤, traditional: 牛仔褲}
+- {english: rural area; countryside, learned: false, pinyin: nóngcūn, pinyin-numbered: nong2cun1,
+  simplified: 农村, traditional: 農村}
+- {english: peasant, learned: false, pinyin: nóngmín, pinyin-numbered: nong2min2,
+  simplified: 农民, traditional: 農民}
+- {english: agriculture; farming, learned: false, pinyin: nóngyè, pinyin-numbered: nong2ye4,
+  simplified: 农业, traditional: 農業}
+- {english: concentrated; dense, learned: false, pinyin: nóng, pinyin-numbered: nong2,
+  simplified: 浓, traditional: 濃}
+- {english: lady; madam, learned: false, pinyin: nǚshì, pinyin-numbered: nü3shi4,
+  simplified: 女士, traditional: 女士}
+- {english: Europe, learned: false, pinyin: Ōuzhōu, pinyin-numbered: Ōuzhou1, simplified: 欧洲,
+  traditional: 歐洲}
+- {english: accidentally; occasional; fortuitous, learned: false, pinyin: ǒurán, pinyin-numbered: ou3ran2,
+  simplified: 偶然, traditional: 偶然}
+- {english: 'to clap; to pat; to shoot (pictures, a film); send (a telegram)', learned: false,
+  pinyin: pāi, pinyin-numbered: pai1, simplified: 拍, traditional: 拍}
+- {english: dispatch; (mw for political groups; schools of thought; etc.), learned: false,
+  pinyin: pài, pinyin-numbered: pai4, simplified: 派, traditional: 派}
+- {english: to hope for; look forward to, learned: false, pinyin: pànwàng, pinyin-numbered: pan4wang4,
+  simplified: 盼望, traditional: 盼望}
+- {english: cultivate; train, learned: false, pinyin: péixùn, pinyin-numbered: pei2xun4,
+  simplified: 培训, traditional: 培訓}
+- {english: to train; cultivate; bring up, learned: false, pinyin: péiyǎng, pinyin-numbered: pei2yang3,
+  simplified: 培养, traditional: 培養}
+- {english: compensate; pay for somebody else's loss, learned: false, pinyin: péicháng,
+  pinyin-numbered: pei2chang2, simplified: 赔偿, traditional: 賠償}
+- {english: admire; to respect, learned: false, pinyin: pèifu, pinyin-numbered: pei4fu,
+  simplified: 佩服, traditional: 佩服}
+- {english: be harmoniously combined or arranged; matching; fitting in with; compatible
+    with; to correspond; to fit; to conform to; rapport; to coordinate with; to act
+    in concern with; to cooperate; to become man and wife; to combine parts of a machine,
+  learned: false, pinyin: pèihé, pinyin-numbered: pei4he2, simplified: 配合, traditional: 配合}
+- {english: basin; (flower) pot, learned: false, pinyin: pén, pinyin-numbered: pen2,
+  simplified: 盆, traditional: 盆}
+- {english: to touch; to bump; to encounter, learned: false, pinyin: pèng, pinyin-numbered: peng4,
+  simplified: 碰, traditional: 碰}
+- {english: 'criticize; to comment; wholesale; (mw for batches, lots, etc.)', learned: false,
+  pinyin: pī, pinyin-numbered: pi1, simplified: 批, traditional: 批}
+- {english: approve; ratify, learned: false, pinyin: pīzhǔn, pinyin-numbered: pi1zhun3,
+  simplified: 批准, traditional: 批准}
+- {english: drape over one's shoulders; split open; open, learned: false, pinyin: pī,
+  pinyin-numbered: pi1, simplified: 披, traditional: 披}
+- {english: fatigue; wearily; weariness; tired, learned: false, pinyin: píláo, pinyin-numbered: pi2lao2,
+  simplified: 疲劳, traditional: 疲勞}
+- {english: 'ordinary person; (mw for horses, bolt of cloth)', learned: false, pinyin: pǐ,
+  pinyin-numbered: pi3, simplified: 匹, traditional: 匹}
+- {english: (mw for pieces of things); a slice; a flake (Kangxi radical 91) | film;
+    photo, learned: false, pinyin: 'piàn, piān', pinyin-numbered: 'pian4, pian1',
+  simplified: 片, traditional: 片}
+- {english: one-sided; unilateral, learned: false, pinyin: piànmiàn, pinyin-numbered: pian4mian4,
+  simplified: 片面, traditional: 片面}
+- {english: to float; flutter, learned: false, pinyin: piāo, pinyin-numbered: piao1,
+  simplified: 飘, traditional: 飄}
+- {english: pinyin; phonetic writing, learned: false, pinyin: pīnyīn, pinyin-numbered: pin1yin1,
+  simplified: 拼音, traditional: 拼音}
+- {english: frequency; (television) channel, learned: false, pinyin: píndào, pinyin-numbered: pin2dao4,
+  simplified: 频道, traditional: 頻道}
+- {english: flat; level; equal; ordinary, learned: false, pinyin: píng, pinyin-numbered: ping2,
+  simplified: 平, traditional: 平}
+- {english: safe and sound, learned: false, pinyin: píng'ān, pinyin-numbered: ping2'an1,
+  simplified: 平安, traditional: 平安}
+- {english: ordinary; usually; common, learned: false, pinyin: píngcháng, pinyin-numbered: ping2chang2,
+  simplified: 平常, traditional: 平常}
+- {english: equal; equality, learned: false, pinyin: píngděng, pinyin-numbered: ping2deng3,
+  simplified: 平等, traditional: 平等}
+- {english: 'square (as in square foot, square mile, etc.)', learned: false, pinyin: píngfāng,
+  pinyin-numbered: ping2fang1, simplified: 平方, traditional: 平方}
+- {english: balance; balanced; equilibrium, learned: false, pinyin: pínghéng, pinyin-numbered: ping2heng2,
+  simplified: 平衡, traditional: 平衡}
+- {english: calm; peaceful; tranquil; serene, learned: false, pinyin: píngjìng, pinyin-numbered: ping2jing4,
+  simplified: 平静, traditional: 平靜}
+- {english: average; to share equally, learned: false, pinyin: píngjūn, pinyin-numbered: ping2jun1,
+  simplified: 平均, traditional: 平均}
+- {english: to evaluate, learned: false, pinyin: píngjià, pinyin-numbered: ping2jia4,
+  simplified: 评价, traditional: 評價}
+- {english: lean against; evidence; proof; no matter (what/how/etc.), learned: false,
+  pinyin: píng, pinyin-numbered: ping2, simplified: 凭, traditional: 憑}
+- {english: urgent; pressing, learned: false, pinyin: pòqiè, pinyin-numbered: po4qie4,
+  simplified: 迫切, traditional: 迫切}
+- {english: go bankrupt; go broke; bankruptcy, learned: false, pinyin: pò chǎn, pinyin-numbered: po4
+    chan3, simplified: 破产, traditional: 破産}
+- {english: destroy; destruction; to wreck; to break, learned: false, pinyin: pòhuài,
+  pinyin-numbered: po4huai4, simplified: 破坏, traditional: 破壞}
+- {english: look forward to; await; expectation, learned: false, pinyin: qīdài, pinyin-numbered: qi1dai4,
+  simplified: 期待, traditional: 期待}
+- {english: period of time; time, learned: false, pinyin: qījiān, pinyin-numbered: qi1jian1,
+  simplified: 期间, traditional: 期間}
+- {english: the others; the rest; remaining, learned: false, pinyin: qíyú, pinyin-numbered: qi2yu2,
+  simplified: 其余, traditional: 其余}
+- {english: miracle; miraculous; marvel, learned: false, pinyin: qíjì, pinyin-numbered: qi2ji4,
+  simplified: 奇迹, traditional: 奇迹}
+- {english: company; business; firm, learned: false, pinyin: qǐyè, pinyin-numbered: qi3ye4,
+  simplified: 企业, traditional: 企業}
+- {english: enlighten; inspire, learned: false, pinyin: qǐfā, pinyin-numbered: qi3fa1,
+  simplified: 启发, traditional: 啓發}
+- {english: atmosphere; mood; ambience, learned: false, pinyin: qìfēn, pinyin-numbered: qi4fen1,
+  simplified: 气氛, traditional: 氣氛}
+- {english: gasoline; gas; petrol, learned: false, pinyin: qìyóu, pinyin-numbered: qi4you2,
+  simplified: 汽油, traditional: 汽油}
+- {english: modest, learned: false, pinyin: qiānxū, pinyin-numbered: qian1xu1, simplified: 谦虚,
+  traditional: 謙虛}
+- {english: bamboo used for drawing lots; toothpick; to sign (one's name), learned: false,
+  pinyin: qiān, pinyin-numbered: qian1, simplified: 签, traditional: 簽}
+- {english: future; prospects; outlook (for the future), learned: false, pinyin: qiántú,
+  pinyin-numbered: qian2tu2, simplified: 前途, traditional: 前途}
+- {english: shallow; simple; superficial; light (of colors), learned: false, pinyin: qiǎn,
+  pinyin-numbered: qian3, simplified: 浅, traditional: 淺}
+- {english: yawn; to lack; owe (Kangxi radical 76), learned: false, pinyin: qiàn,
+  pinyin-numbered: qian4, simplified: 欠, traditional: 欠}
+- {english: gun; spear, learned: false, pinyin: qiāng, pinyin-numbered: qiang1, simplified: 枪,
+  traditional: 槍}
+- {english: emphasize; to stress, learned: false, pinyin: qiángdiào, pinyin-numbered: qiang2diao4,
+  simplified: 强调, traditional: 強調}
+- {english: intense; strong; violent, learned: false, pinyin: qiángliè, pinyin-numbered: qiang2lie4,
+  simplified: 强烈, traditional: 強烈}
+- {english: wall, learned: false, pinyin: qiáng, pinyin-numbered: qiang2, simplified: 墙,
+  traditional: 牆}
+- {english: fight over; vie for; grab; rush | bump against, learned: false, pinyin: 'qiǎng,
+    qiāng', pinyin-numbered: 'qiang3, qiang1', simplified: 抢, traditional: 搶}
+- {english: quietly, learned: false, pinyin: qiāoqiāo, pinyin-numbered: qiao1qiao1,
+  simplified: 悄悄, traditional: 悄悄}
+- {english: look at; see (colloquial), learned: false, pinyin: qiáo, pinyin-numbered: qiao2,
+  simplified: 瞧, traditional: 瞧}
+- {english: ingenious; clever, learned: false, pinyin: qiǎomiào, pinyin-numbered: qiao3miao4,
+  simplified: 巧妙, traditional: 巧妙}
+- {english: to cut; to chop | correspond to; absolutely; ardently, learned: false,
+  pinyin: 'qiē, qiè', pinyin-numbered: 'qie1, qie4', simplified: 切, traditional: 切}
+- {english: 'beloved; Dear ... (a way of starting a letter lovers, intimate friends
+    or close relatives)', learned: false, pinyin: qīn'ài, pinyin-numbered: qin1'ai4,
+  simplified: 亲爱, traditional: 親愛}
+- {english: kind; amiable; cordial, learned: false, pinyin: qīnqiè, pinyin-numbered: qin1qie4,
+  simplified: 亲切, traditional: 親切}
+- {english: personally, learned: false, pinyin: qīnzì, pinyin-numbered: qin1zi4, simplified: 亲自,
+  traditional: 親自}
+- {english: hardworking; diligent; industrious, learned: false, pinyin: qínfèn, pinyin-numbered: qin2fen4,
+  simplified: 勤奋, traditional: 勤奮}
+- {english: blue; green; young (Kangxi radical 174); Qinghai province (abbr.), learned: false,
+  pinyin: qīng, pinyin-numbered: qing1, simplified: 青, traditional: 青}
+- {english: youth; youthfulness; fresh spring, learned: false, pinyin: qīngchūn, pinyin-numbered: qing1chun1,
+  simplified: 青春, traditional: 青春}
+- {english: teenager, learned: false, pinyin: qīngshàonián, pinyin-numbered: qing1shao4nian2,
+  simplified: 青少年, traditional: 青少年}
+- {english: contempt; to scorn; scornful, learned: false, pinyin: qīngshì, pinyin-numbered: qing1shi4,
+  simplified: 轻视, traditional: 輕視}
+- {english: easily; lightly; rashly, learned: false, pinyin: qīngyì, pinyin-numbered: qing1yi4,
+  simplified: 轻易, traditional: 輕易}
+- {english: 'light (of food, not greasy or strongly flavored) ; insipid;  slack (sales)',
+  learned: false, pinyin: qīngdàn, pinyin-numbered: qing1dan4, simplified: 清淡, traditional: 清淡}
+- {english: scene; sight; circumstances, learned: false, pinyin: qíngjǐng, pinyin-numbered: qing2jing3,
+  simplified: 情景, traditional: 情景}
+- {english: emotion; sentiment; mood; morale, learned: false, pinyin: qíngxù, pinyin-numbered: qing2xu4,
+  simplified: 情绪, traditional: 情緒}
+- {english: to request; ask, learned: false, pinyin: qǐngqiú, pinyin-numbered: qing3qiu2,
+  simplified: 请求, traditional: 請求}
+- {english: celebrate, learned: false, pinyin: qìngzhù, pinyin-numbered: qing4zhu4,
+  simplified: 庆祝, traditional: 慶祝}
+- {english: 'fan (of ball games: basketball, football, etc.)', learned: false, pinyin: qiúmí,
+  pinyin-numbered: qiu2mi2, simplified: 球迷, traditional: 球迷}
+- {english: trend; tendency, learned: false, pinyin: qūshì, pinyin-numbered: qu1shi4,
+  simplified: 趋势, traditional: 趨勢}
+- {english: cancel; cancellation; abolish, learned: false, pinyin: qǔxiāo, pinyin-numbered: qu3xiao1,
+  simplified: 取消, traditional: 取消}
+- {english: marry (a wife); take a wife, learned: false, pinyin: qǔ, pinyin-numbered: qu3,
+  simplified: 娶, traditional: 娶}
+- {english: pass away; die, learned: false, pinyin: qùshì, pinyin-numbered: qu4shi4,
+  simplified: 去世, traditional: 去世}
+- {english: 'circle; ring; (mw for loops, orbits, etc.)', learned: false, pinyin: quān,
+  pinyin-numbered: quan1, simplified: 圈, traditional: 圈}
+- {english: power; authority, learned: false, pinyin: quánlì, pinyin-numbered: quan2li4,
+  simplified: 权力, traditional: 權力}
+- {english: right; privilege, learned: false, pinyin: quánlì, pinyin-numbered: quan2li4,
+  simplified: 权利, traditional: 權利}
+- {english: all-around; comprehensive; fully, learned: false, pinyin: quánmiàn, pinyin-numbered: quan2mian4,
+  simplified: 全面, traditional: 全面}
+- {english: advise; to urge; persuade, learned: false, pinyin: quàn, pinyin-numbered: quan4,
+  simplified: 劝, traditional: 勸}
+- {english: shortage; to lack; be short of, learned: false, pinyin: quēfá, pinyin-numbered: que1fa2,
+  simplified: 缺乏, traditional: 缺乏}
+- {english: definite; certain; fixed; determine, learned: false, pinyin: quèdìng,
+  pinyin-numbered: que4ding4, simplified: 确定, traditional: 確定}
+- {english: confirm; confirmation; verify, learned: false, pinyin: quèrèn, pinyin-numbered: quer4en4,
+  simplified: 确认, traditional: 確認}
+- {english: 'crowd; group; (mw for groups, flocks, or swarms)', learned: false, pinyin: qún,
+  pinyin-numbered: qun2, simplified: 群, traditional: 群}
+- {english: combustion; burn; kindle, learned: false, pinyin: ránshāo, pinyin-numbered: ran2shao1,
+  simplified: 燃烧, traditional: 燃燒}
+- {english: to wind; to coil; move round, learned: false, pinyin: rào, pinyin-numbered: rao4,
+  simplified: 绕, traditional: 繞}
+- {english: love ardently; adore; passion, learned: false, pinyin: rè'ài, pinyin-numbered: re4'ai4,
+  simplified: 热爱, traditional: 熱愛}
+- {english: warm; enthusiastic, learned: false, pinyin: rèliè, pinyin-numbered: re4lie4,
+  simplified: 热烈, traditional: 熱烈}
+- {english: enthusiastic; zealous; warmhearted, learned: false, pinyin: rèxīn, pinyin-numbered: re4xin1,
+  simplified: 热心, traditional: 熱心}
+- {english: talent; talented person, learned: false, pinyin: réncái, pinyin-numbered: ren2cai2,
+  simplified: 人才, traditional: 人才}
+- {english: population; the populace, learned: false, pinyin: rénkǒu, pinyin-numbered: ren2kou3,
+  simplified: 人口, traditional: 人口}
+- {english: humanity; human race; mankind, learned: false, pinyin: rénlèi, pinyin-numbered: ren2lei4,
+  simplified: 人类, traditional: 人類}
+- {english: (currency) renminbi (RMB), learned: false, pinyin: rénmínbì, pinyin-numbered: ren2min2bi4,
+  simplified: 人民币, traditional: 人民幣}
+- {english: human life, learned: false, pinyin: rénshēng, pinyin-numbered: ren2sheng1,
+  simplified: 人生, traditional: 人生}
+- {english: personnel, learned: false, pinyin: rénshì, pinyin-numbered: ren2shi4,
+  simplified: 人事, traditional: 人事}
+- {english: 'figure; personage; character (in a play, story, etc.)', learned: false,
+  pinyin: rénwù, pinyin-numbered: ren2wu4, simplified: 人物, traditional: 人物}
+- {english: staff; crew; personnel, learned: false, pinyin: rényuán, pinyin-numbered: ren2yuan2,
+  simplified: 人员, traditional: 人員}
+- {english: cannot help but; unable to bear, learned: false, pinyin: rěn bu zhù, pinyin-numbered: ren3
+    bu zhu4, simplified: 忍不住, traditional: 忍不住}
+- {english: daily; everyday, learned: false, pinyin: rìcháng, pinyin-numbered: ri4chang2,
+  simplified: 日常, traditional: 日常}
+- {english: schedule; itinerary, learned: false, pinyin: rìchéng, pinyin-numbered: ri4cheng2,
+  simplified: 日程, traditional: 日程}
+- {english: calendar, learned: false, pinyin: rìlì, pinyin-numbered: ri4li4, simplified: 日历,
+  traditional: 日曆}
+- {english: date, learned: false, pinyin: rìqī, pinyin-numbered: ri4qi1, simplified: 日期,
+  traditional: 日期}
+- {english: daily necessities, learned: false, pinyin: rìyòngpǐn, pinyin-numbered: ri4yong4pin3,
+  simplified: 日用品, traditional: 日用品}
+- {english: days; date; time; life, learned: false, pinyin: rìzi, pinyin-numbered: ri4zi,
+  simplified: 日子, traditional: 日子}
+- {english: how; what; what way, learned: false, pinyin: rúhé, pinyin-numbered: ru2he2,
+  simplified: 如何, traditional: 如何}
+- {english: nowadays, learned: false, pinyin: rújīn, pinyin-numbered: ru2jin1, simplified: 如今,
+  traditional: 如今}
+- {english: soft, learned: false, pinyin: ruǎn, pinyin-numbered: ruan3, simplified: 软,
+  traditional: 軟}
+- {english: (computer) software, learned: false, pinyin: ruǎnjiàn, pinyin-numbered: ruan3jian4,
+  simplified: 软件, traditional: 軟件}
+- {english: weak; feeble; young, learned: false, pinyin: ruò, pinyin-numbered: ruo4,
+  simplified: 弱, traditional: 弱}
+- {english: to sprinkle; to spray; to spill, learned: false, pinyin: sǎ, pinyin-numbered: sa3,
+  simplified: 洒, traditional: 灑}
+- {english: throat; voice, learned: false, pinyin: sǎngzi, pinyin-numbered: sang3zi,
+  simplified: 嗓子, traditional: 嗓子}
+- {english: tint; color; hue, learned: false, pinyin: sècǎi, pinyin-numbered: se4cai3,
+  simplified: 色彩, traditional: 色彩}
+- {english: to kill; to murder, learned: false, pinyin: shā, pinyin-numbered: sha1,
+  simplified: 杀, traditional: 殺}
+- {english: desert, learned: false, pinyin: shāmò, pinyin-numbered: sha1mo4, simplified: 沙漠,
+  traditional: 沙漠}
+- {english: sand bar; sand beach, learned: false, pinyin: shātān, pinyin-numbered: sha1tan1,
+  simplified: 沙滩, traditional: 沙灘}
+- {english: foolish; fool, learned: false, pinyin: shǎ, pinyin-numbered: sha3, simplified: 傻,
+  traditional: 傻}
+- {english: to dry in the sun; shine upon; to sun; bask, learned: false, pinyin: shài,
+  pinyin-numbered: shai4, simplified: 晒, traditional: 曬}
+- {english: to delete, learned: false, pinyin: shānchú, pinyin-numbered: shan1chu2,
+  simplified: 删除, traditional: 刪除}
+- {english: lightning, learned: false, pinyin: shǎndiàn, pinyin-numbered: shan3dian4,
+  simplified: 闪电, traditional: 閃電}
+- {english: fan (for waving), learned: false, pinyin: shànzi, pinyin-numbered: shan4zi,
+  simplified: 扇子, traditional: 扇子}
+- {english: good and honest; kind-hearted, learned: false, pinyin: shànliáng, pinyin-numbered: shan4liang2,
+  simplified: 善良, traditional: 善良}
+- {english: be good at; excel at, learned: false, pinyin: shànyú, pinyin-numbered: shan4yu2,
+  simplified: 善于, traditional: 善于}
+- {english: injure; to harm; wound, learned: false, pinyin: shānghài, pinyin-numbered: shang1hai4,
+  simplified: 伤害, traditional: 傷害}
+- {english: goods; commodity; merchandise, learned: false, pinyin: shāngpǐn, pinyin-numbered: shang1pin3,
+  simplified: 商品, traditional: 商品}
+- {english: business; commercial affairs, learned: false, pinyin: shāngwù, pinyin-numbered: shang1wu4,
+  simplified: 商务, traditional: 商務}
+- {english: business; commerce; trade, learned: false, pinyin: shāngyè, pinyin-numbered: shang1ye4,
+  simplified: 商业, traditional: 商業}
+- {english: be fooled; be duped; be taken in, learned: false, pinyin: shàng dàng,
+  pinyin-numbered: shang4 dang4, simplified: 上当, traditional: 上當}
+- {english: snake; serpent, learned: false, pinyin: shé, pinyin-numbered: she2, simplified: 蛇,
+  traditional: 蛇}
+- {english: hate to part with; begrudge doing something, learned: false, pinyin: shěbude,
+  pinyin-numbered: she3bude, simplified: 舍不得, traditional: 舍不得}
+- {english: equipment; facilities; installations, learned: false, pinyin: shèbèi,
+  pinyin-numbered: she4bei4, simplified: 设备, traditional: 設備}
+- {english: plan; design, learned: false, pinyin: shèjì, pinyin-numbered: she4ji4,
+  simplified: 设计, traditional: 設計}
+- {english: facilities; installation, learned: false, pinyin: shèshī, pinyin-numbered: she4shi1,
+  simplified: 设施, traditional: 設施}
+- {english: to shoot; to fire (a gun), learned: false, pinyin: shèjī, pinyin-numbered: she4ji1,
+  simplified: 射击, traditional: 射擊}
+- {english: take a photograph; shoot a film, learned: false, pinyin: shè yǐng, pinyin-numbered: she4
+    ying3, simplified: 摄影, traditional: 攝影}
+- {english: to stretch; extend, learned: false, pinyin: shēn, pinyin-numbered: shen1,
+  simplified: 伸, traditional: 伸}
+- {english: stature; figure; build, learned: false, pinyin: shēncái, pinyin-numbered: shen1cai2,
+  simplified: 身材, traditional: 身材}
+- {english: identity; status; dignity, learned: false, pinyin: shēnfèn, pinyin-numbered: shen1fen4,
+  simplified: 身份, traditional: 身份}
+- {english: profound; deep, learned: false, pinyin: shēnkè, pinyin-numbered: shen1ke4,
+  simplified: 深刻, traditional: 深刻}
+- {english: mythology; fairy tale, learned: false, pinyin: shénhuà, pinyin-numbered: shen2hua4,
+  simplified: 神话, traditional: 神話}
+- {english: mysterious; mystical, learned: false, pinyin: shénmì, pinyin-numbered: shen2mi4,
+  simplified: 神秘, traditional: 神秘}
+- {english: rise; hoist; promote; liter, learned: false, pinyin: shēng, pinyin-numbered: sheng1,
+  simplified: 升, traditional: 升}
+- {english: to produce; manufacture; give birth to a child, learned: false, pinyin: shēngchǎn,
+  pinyin-numbered: sheng1chan3, simplified: 生产, traditional: 生産}
+- {english: vivid; lively, learned: false, pinyin: shēngdòng, pinyin-numbered: sheng1dong4,
+  simplified: 生动, traditional: 生動}
+- {english: grow; grow up, learned: false, pinyin: shēngzhǎng, pinyin-numbered: sheng1zhang3,
+  simplified: 生长, traditional: 生長}
+- {english: tone; note, learned: false, pinyin: shēngdiào, pinyin-numbered: sheng1diao4,
+  simplified: 声调, traditional: 聲調}
+- {english: cord; string; rope, learned: false, pinyin: shéngzi, pinyin-numbered: sheng2zi,
+  simplified: 绳子, traditional: 繩子}
+- {english: to omit; to leave out; abbreviate, learned: false, pinyin: shěnglüè, pinyin-numbered: sheng3lüe4,
+  simplified: 省略, traditional: 省略}
+- {english: victory; triumph, learned: false, pinyin: shènglì, pinyin-numbered: sheng4li4,
+  simplified: 胜利, traditional: 勝利}
+- {english: lose sleep; insomnia, learned: false, pinyin: shīmián, pinyin-numbered: shi1mian2,
+  simplified: 失眠, traditional: 失眠}
+- {english: 'to lose (time, an opportunity, work, etc.)', learned: false, pinyin: shīqù,
+  pinyin-numbered: shi1qu4, simplified: 失去, traditional: 失去}
+- {english: lose one's job; unemployment, learned: false, pinyin: shī yè, pinyin-numbered: shi1
+    ye4, simplified: 失业, traditional: 失業}
+- {english: poem; poetry; verse, learned: false, pinyin: shī, pinyin-numbered: shi1,
+  simplified: 诗, traditional: 詩}
+- {english: lion, learned: false, pinyin: shīzi, pinyin-numbered: shi1zi, simplified: 狮子,
+  traditional: 獅子}
+- {english: moist; humid, learned: false, pinyin: shīrùn, pinyin-numbered: shi1run4,
+  simplified: 湿润, traditional: 濕潤}
+- {english: stone; rock, learned: false, pinyin: shítou, pinyin-numbered: shi2tou,
+  simplified: 石头, traditional: 石頭}
+- {english: jetlag; time difference, learned: false, pinyin: shíchā, pinyin-numbered: shi2cha1,
+  simplified: 时差, traditional: 時差}
+- {english: age; era; period, learned: false, pinyin: shídài, pinyin-numbered: shi2dai4,
+  simplified: 时代, traditional: 時代}
+- {english: moment; constantly, learned: false, pinyin: shíkè, pinyin-numbered: shi2ke4,
+  simplified: 时刻, traditional: 時刻}
+- {english: fashionable, learned: false, pinyin: shímáo, pinyin-numbered: shi2mao2,
+  simplified: 时髦, traditional: 時髦}
+- {english: period in time or history; period; time, learned: false, pinyin: shíqī,
+  pinyin-numbered: shi2qi1, simplified: 时期, traditional: 時期}
+- {english: fashion; fad, learned: false, pinyin: shíshàng, pinyin-numbered: shi2shang4,
+  simplified: 时尚, traditional: 時尚}
+- {english: truth, learned: false, pinyin: shíhuà, pinyin-numbered: shi2hua4, simplified: 实话,
+  traditional: 實話}
+- {english: practice; put into practice; carry out, learned: false, pinyin: shíjiàn,
+  pinyin-numbered: shi2jian4, simplified: 实践, traditional: 實踐}
+- {english: to practice; field work; work as an intern, learned: false, pinyin: shíxí,
+  pinyin-numbered: shi2xi2, simplified: 实习, traditional: 實習}
+- {english: achieve; to implement, learned: false, pinyin: shíxiàn, pinyin-numbered: shi2xian4,
+  simplified: 实现, traditional: 實現}
+- {english: experiment; test, learned: false, pinyin: shíyàn, pinyin-numbered: shi2yan4,
+  simplified: 实验, traditional: 實驗}
+- {english: practical; pragmatic; functional, learned: false, pinyin: shíyòng, pinyin-numbered: shi2yong4,
+  simplified: 实用, traditional: 實用}
+- {english: food, learned: false, pinyin: shíwù, pinyin-numbered: shi2wu4, simplified: 食物,
+  traditional: 食物}
+- {english: exert all one's strength, learned: false, pinyin: shǐjìnr, pinyin-numbered: shi3jin4r,
+  simplified: 使劲儿, traditional: 使勁兒}
+- {english: from beginning to end; all along, learned: false, pinyin: shǐzhōng, pinyin-numbered: shi3zhong1,
+  simplified: 始终, traditional: 始終}
+- {english: soldier, learned: false, pinyin: shìbīng, pinyin-numbered: shi4bing1,
+  simplified: 士兵, traditional: 士兵}
+- {english: market, learned: false, pinyin: shìchǎng, pinyin-numbered: shi4chang3,
+  simplified: 市场, traditional: 市場}
+- {english: seems as if; rather like, learned: false, pinyin: shìde, pinyin-numbered: shi4de,
+  simplified: 似的, traditional: 似的}
+- {english: fact; in fact, learned: false, pinyin: shìshí, pinyin-numbered: shi4shi2,
+  simplified: 事实, traditional: 事實}
+- {english: thing; object, learned: false, pinyin: shìwù, pinyin-numbered: shi4wu4,
+  simplified: 事物, traditional: 事物}
+- {english: in advance; beforehand; prior, learned: false, pinyin: shìxiān, pinyin-numbered: shi4xian1,
+  simplified: 事先, traditional: 事先}
+- {english: exam paper; test paper, learned: false, pinyin: shìjuàn, pinyin-numbered: shi4juan4,
+  simplified: 试卷, traditional: 試卷}
+- {english: harvest; acquisition; gain, learned: false, pinyin: shōuhuò, pinyin-numbered: shou1huo4,
+  simplified: 收获, traditional: 收獲}
+- {english: receipt, learned: false, pinyin: shōujù, pinyin-numbered: shou1ju4, simplified: 收据,
+  traditional: 收據}
+- {english: hand-made; handicraft; manual, learned: false, pinyin: shǒugōng, pinyin-numbered: shou3gong1,
+  simplified: 手工, traditional: 手工}
+- {english: surgery; operation, learned: false, pinyin: shǒushù, pinyin-numbered: shou3shu4,
+  simplified: 手术, traditional: 手術}
+- {english: glove; mitten, learned: false, pinyin: shǒutào, pinyin-numbered: shou3tao4,
+  simplified: 手套, traditional: 手套}
+- {english: formalities; procedure, learned: false, pinyin: shǒuxù, pinyin-numbered: shou3xu4,
+  simplified: 手续, traditional: 手續}
+- {english: finger, learned: false, pinyin: shǒuzhǐ, pinyin-numbered: shou3zhi3, simplified: 手指,
+  traditional: 手指}
+- {english: head; chief; first; (mw for poems and songs) (Kangxi radical 185), learned: false,
+  pinyin: shǒu, pinyin-numbered: shou3, simplified: 首, traditional: 首}
+- {english: life span; life expectancy, learned: false, pinyin: shòumìng, pinyin-numbered: shou4ming4,
+  simplified: 寿命, traditional: 壽命}
+- {english: 'sustain injuries (in an accident, etc.); be injured', learned: false,
+  pinyin: shòu shāng, pinyin-numbered: shou4 shang1, simplified: 受伤, traditional: 受傷}
+- {english: bookshelf, learned: false, pinyin: shūjià, pinyin-numbered: shu1jia4,
+  simplified: 书架, traditional: 書架}
+- {english: comb; hairbrush, learned: false, pinyin: shūzi, pinyin-numbered: shu1zi,
+  simplified: 梳子, traditional: 梳子}
+- {english: cozy; comfortable; snug, learned: false, pinyin: shūshì, pinyin-numbered: shu1shi4,
+  simplified: 舒适, traditional: 舒適}
+- {english: input; enter; import, learned: false, pinyin: shūrù, pinyin-numbered: shu1ru4,
+  simplified: 输入, traditional: 輸入}
+- {english: vegetables; produce, learned: false, pinyin: shūcài, pinyin-numbered: shu1cai4,
+  simplified: 蔬菜, traditional: 蔬菜}
+- {english: practiced; proficient; skilled, learned: false, pinyin: shúliàn, pinyin-numbered: shu2lian4,
+  simplified: 熟练, traditional: 熟練}
+- {english: belong to; be part of, learned: false, pinyin: shǔyú, pinyin-numbered: shu3yu2,
+  simplified: 属于, traditional: 屬于}
+- {english: mouse (computer), learned: false, pinyin: shǔ biāo, pinyin-numbered: shu3
+    biao1, simplified: 鼠标, traditional: 鼠標}
+- {english: number | to count; to rank, learned: false, pinyin: 'shù, shǔ', pinyin-numbered: 'shu4,
+    shu3', simplified: 数, traditional: 數}
+- {english: data; numbers; digital, learned: false, pinyin: shùjù, pinyin-numbered: shu4ju4,
+  simplified: 数据, traditional: 數據}
+- {english: numeral; number; amount; digital, learned: false, pinyin: shùmǎ, pinyin-numbered: shu4ma3,
+  simplified: 数码, traditional: 數碼}
+- {english: fall down; slip and fall; tumble; trip, learned: false, pinyin: shuāidǎo,
+  pinyin-numbered: shuai1dao3, simplified: 摔倒, traditional: 摔倒}
+- {english: to throw; to fling; to swing; cast off, learned: false, pinyin: shuǎi,
+  pinyin-numbered: shuai3, simplified: 甩, traditional: 甩}
+- {english: bilateral; both sides; both parties involved, learned: false, pinyin: shuāngfāng,
+  pinyin-numbered: shuang1fang1, simplified: 双方, traditional: 雙方}
+- {english: tax, learned: false, pinyin: shuì, pinyin-numbered: shui4, simplified: 税,
+  traditional: 稅}
+- {english: can't say for sure; perhaps; maybe, learned: false, pinyin: shuōbudìng,
+  pinyin-numbered: shuo1buding4, simplified: 说不定, traditional: 說不定}
+- {english: persuade; convince, learned: false, pinyin: shuō fú, pinyin-numbered: shuo1
+    fu2, simplified: 说服, traditional: 說服}
+- {english: silk, learned: false, pinyin: sīchóu, pinyin-numbered: si1chou2, simplified: 丝绸,
+  traditional: 絲綢}
+- {english: the slightest amount or degree; a very little bit, learned: false, pinyin: sīháo,
+  pinyin-numbered: si1hao2, simplified: 丝毫, traditional: 絲毫}
+- {english: private (citizen); personal; individual, learned: false, pinyin: sīrén,
+  pinyin-numbered: si1ren2, simplified: 私人, traditional: 私人}
+- {english: reflect on; ponder; consider, learned: false, pinyin: sīkǎo, pinyin-numbered: si1kao3,
+  simplified: 思考, traditional: 思考}
+- {english: thought; thinking; idea; ideology, learned: false, pinyin: sīxiǎng, pinyin-numbered: si1xiang3,
+  simplified: 思想, traditional: 思想}
+- {english: to tear (something), learned: false, pinyin: sī, pinyin-numbered: si1,
+  simplified: 撕, traditional: 撕}
+- {english: it seems; as if; seemingly, learned: false, pinyin: sìhū, pinyin-numbered: si4hu1,
+  simplified: 似乎, traditional: 似乎}
+- {english: search; look for something; scour, learned: false, pinyin: sōusuǒ, pinyin-numbered: sou1suo3,
+  simplified: 搜索, traditional: 搜索}
+- {english: dormitory; living quarters; hostel, learned: false, pinyin: sùshè, pinyin-numbered: su4she4,
+  simplified: 宿舍, traditional: 宿舍}
+- {english: carry on one's person; bring with one, learned: false, pinyin: suíshēn,
+  pinyin-numbered: sui2shen1, simplified: 随身, traditional: 隨身}
+- {english: at any time; whenever necessary, learned: false, pinyin: suíshí, pinyin-numbered: sui2shi2,
+  simplified: 随时, traditional: 隨時}
+- {english: convenient; without extra trouble, learned: false, pinyin: suíshǒu, pinyin-numbered: sui2shou3,
+  simplified: 随手, traditional: 隨手}
+- {english: broken; break into pieces, learned: false, pinyin: suì, pinyin-numbered: sui4,
+  simplified: 碎, traditional: 碎}
+- {english: loss (financial); lose, learned: false, pinyin: sǔnshī, pinyin-numbered: sun3shi1,
+  simplified: 损失, traditional: 損失}
+- {english: shorten; cut down; curtail, learned: false, pinyin: suōduǎn, pinyin-numbered: suo1duan3,
+  simplified: 缩短, traditional: 縮短}
+- {english: 'place; that which; (mw for houses, buildings)', learned: false, pinyin: suǒ,
+  pinyin-numbered: suo3, simplified: 所, traditional: 所}
+- {english: lock, learned: false, pinyin: suǒ, pinyin-numbered: suo3, simplified: 锁,
+  traditional: 鎖}
+- {english: flight of steps; sidestep; fig. way out of an embarrassing situation,
+  learned: false, pinyin: táijiē, pinyin-numbered: tai2jie1, simplified: 台阶, traditional: 台階}
+- {english: 'Tai chi, a Chinese martial art', learned: false, pinyin: tàijíquán, pinyin-numbered: tai4ji2quan2,
+  simplified: 太极拳, traditional: 太極拳}
+- {english: wife; married woman; Madame; Mrs., learned: false, pinyin: tàitai, pinyin-numbered: tai4tai,
+  simplified: 太太, traditional: 太太}
+- {english: negotiate; negotiation; conference, learned: false, pinyin: tánpàn, pinyin-numbered: tan2pan4,
+  simplified: 谈判, traditional: 談判}
+- {english: frank, learned: false, pinyin: tǎnshuài, pinyin-numbered: tan3shuai4,
+  simplified: 坦率, traditional: 坦率}
+- {english: to scald; to burn; scalding hot; to iron, learned: false, pinyin: tàng,
+  pinyin-numbered: tang4, simplified: 烫, traditional: 燙}
+- {english: to escape; run away; flee, learned: false, pinyin: táo, pinyin-numbered: tao2,
+  simplified: 逃, traditional: 逃}
+- {english: to escape; evade; shirk, learned: false, pinyin: táobì, pinyin-numbered: tao2bi4,
+  simplified: 逃避, traditional: 逃避}
+- {english: peach, learned: false, pinyin: táo, pinyin-numbered: tao2, simplified: 桃,
+  traditional: 桃}
+- {english: naughty; bad, learned: false, pinyin: táoqì, pinyin-numbered: tao2qi4,
+  simplified: 淘气, traditional: 淘氣}
+- {english: bargaining; haggling over price, learned: false, pinyin: tǎo jià huán
+    jià, pinyin-numbered: tao3 jia4 huan2 jia4, simplified: 讨价还价, traditional: 討價還價}
+- {english: cover; (mw for sets of things); tie together, learned: false, pinyin: tào,
+  pinyin-numbered: tao4, simplified: 套, traditional: 套}
+- {english: characteristic; distinguishing feature, learned: false, pinyin: tèsè,
+  pinyin-numbered: te4se4, simplified: 特色, traditional: 特色}
+- {english: special; particular; extraordinary; unusual, learned: false, pinyin: tèshū,
+  pinyin-numbered: te4shu1, simplified: 特殊, traditional: 特殊}
+- {english: characteristics; distinctive features; trait, learned: false, pinyin: tèzhēng,
+  pinyin-numbered: te4zheng1, simplified: 特征, traditional: 特征}
+- {english: love dearly; be very fond of, learned: false, pinyin: téng ài, pinyin-numbered: teng2
+    ai4, simplified: 疼爱, traditional: 疼愛}
+- {english: promote; to advocate; proposal, learned: false, pinyin: tíchàng, pinyin-numbered: ti2chang4,
+  simplified: 提倡, traditional: 提倡}
+- {english: outline; the key point, learned: false, pinyin: tígāng, pinyin-numbered: ti2gang1,
+  simplified: 提纲, traditional: 提綱}
+- {english: put questions to; to quiz, learned: false, pinyin: tíwèn, pinyin-numbered: ti2wen4,
+  simplified: 提问, traditional: 提問}
+- {english: subject; title; topic, learned: false, pinyin: tímù, pinyin-numbered: ti2mu4,
+  simplified: 题目, traditional: 題目}
+- {english: know from experience; learn through experience; realize; understanding;
+    experience, learned: false, pinyin: tǐhuì, pinyin-numbered: ti3hui4, simplified: 体会,
+  traditional: 體會}
+- {english: show consideration for; thoughtful, learned: false, pinyin: tǐtiē, pinyin-numbered: ti3tie1,
+  simplified: 体贴, traditional: 體貼}
+- {english: embody; incarnate; reflect; to manifest, learned: false, pinyin: tǐxiàn,
+  pinyin-numbered: ti3xian4, simplified: 体现, traditional: 體現}
+- {english: experience for oneself; to personally experience (usually a kind of life),
+  learned: false, pinyin: tǐyàn, pinyin-numbered: ti3yan4, simplified: 体验, traditional: 體驗}
+- {english: sky; space; heavens, learned: false, pinyin: tiānkōng, pinyin-numbered: tian1kong1,
+  simplified: 天空, traditional: 天空}
+- {english: naïve; innocent; artless, learned: false, pinyin: tiānzhēn, pinyin-numbered: tian1zhen1,
+  simplified: 天真, traditional: 天真}
+- {english: naughty; mischievous; unruly, learned: false, pinyin: tiáopí, pinyin-numbered: tiao2pi2,
+  simplified: 调皮, traditional: 調皮}
+- {english: adjustment; revision, learned: false, pinyin: tiáozhěng, pinyin-numbered: tiao2zheng3,
+  simplified: 调整, traditional: 調整}
+- {english: challenge, learned: false, pinyin: tiǎozhàn, pinyin-numbered: tiao3zhan4,
+  simplified: 挑战, traditional: 挑戰}
+- {english: regular; usual; normal; ordinary, learned: false, pinyin: tōngcháng, pinyin-numbered: tong1chang2,
+  simplified: 通常, traditional: 通常}
+- {english: unify; unite; integrate; universal, learned: false, pinyin: tǒngyī, pinyin-numbered: tong3yi1,
+  simplified: 统一, traditional: 統一}
+- {english: pain; suffering; agony, learned: false, pinyin: tòngkǔ, pinyin-numbered: tong4ku3,
+  simplified: 痛苦, traditional: 痛苦}
+- {english: joyful; delighted; very happy; jolly, learned: false, pinyin: tòngkuai,
+  pinyin-numbered: tong4kuai, simplified: 痛快, traditional: 痛快}
+- {english: steal; pilfer, learned: false, pinyin: tōu, pinyin-numbered: tou1, simplified: 偷,
+  traditional: 偷}
+- {english: put into operation; throw into; to invest, learned: false, pinyin: tóurù,
+  pinyin-numbered: tou2ru4, simplified: 投入, traditional: 投入}
+- {english: investment, learned: false, pinyin: tóu zī, pinyin-numbered: tou2 zi1,
+  simplified: 投资, traditional: 投資}
+- {english: transparent; open (non-secretive), learned: false, pinyin: tòumíng, pinyin-numbered: tou4ming2,
+  simplified: 透明, traditional: 透明}
+- {english: prominent; stand out; give prominence to, learned: false, pinyin: tūchū,
+  pinyin-numbered: tu1chu1, simplified: 突出, traditional: 突出}
+- {english: land; territory; soil, learned: false, pinyin: tǔdì, pinyin-numbered: tu3di4,
+  simplified: 土地, traditional: 土地}
+- {english: potato, learned: false, pinyin: tǔdòu, pinyin-numbered: tu3dou4, simplified: 土豆,
+  traditional: 土豆}
+- {english: to spit | to vomit; throw up, learned: false, pinyin: 'tǔ, tù', pinyin-numbered: 'tu3,
+    tu4', simplified: 吐, traditional: 吐}
+- {english: rabbit; hare, learned: false, pinyin: tùzi, pinyin-numbered: tu4zi, simplified: 兔子,
+  traditional: 兔子}
+- {english: round; ball; group; unite; dumpling; (mw for ball-like things), learned: false,
+  pinyin: tuán, pinyin-numbered: tuan2, simplified: 团, traditional: 團}
+- {english: to decline; turn down, learned: false, pinyin: tuīcí, pinyin-numbered: tui1ci2,
+  simplified: 推辞, traditional: 推辭}
+- {english: popularize; to spread, learned: false, pinyin: tuīguǎng, pinyin-numbered: tui1guang3,
+  simplified: 推广, traditional: 推廣}
+- {english: recommend; recommendation, learned: false, pinyin: tuījiàn, pinyin-numbered: tui1jian4,
+  simplified: 推荐, traditional: 推薦}
+- {english: to retreat; decline; withdraw, learned: false, pinyin: tuì, pinyin-numbered: tui4,
+  simplified: 退, traditional: 退}
+- {english: to degenerate; to regress, learned: false, pinyin: tuìbù, pinyin-numbered: tui4bu4,
+  simplified: 退步, traditional: 退步}
+- {english: retirement (from work); retire, learned: false, pinyin: tuìxiū, pinyin-numbered: tui4xiu1,
+  simplified: 退休, traditional: 退休}
+- {english: askew; crooked; devious; recline to take a rest (colloquial), learned: false,
+  pinyin: wāi, pinyin-numbered: wai1, simplified: 歪, traditional: 歪}
+- {english: maternal grandfather, learned: false, pinyin: wàigōng, pinyin-numbered: wai4gong1,
+  simplified: 外公, traditional: 外公}
+- {english: diplomacy; foreign affairs, learned: false, pinyin: wàijiāo, pinyin-numbered: wai4jiao1,
+  simplified: 外交, traditional: 外交}
+- {english: perfect, learned: false, pinyin: wánměi, pinyin-numbered: wan2mei3, simplified: 完美,
+  traditional: 完美}
+- {english: perfect; make perfect; improve, learned: false, pinyin: wánshàn, pinyin-numbered: wan2shan4,
+  simplified: 完善, traditional: 完善}
+- {english: complete; intact, learned: false, pinyin: wánzhěng, pinyin-numbered: wan2zheng3,
+  simplified: 完整, traditional: 完整}
+- {english: plaything; toy, learned: false, pinyin: wánjù, pinyin-numbered: wan2ju4,
+  simplified: 玩具, traditional: 玩具}
+- {english: just in case; if by any chance, learned: false, pinyin: wànyī, pinyin-numbered: wan4yi1,
+  simplified: 万一, traditional: 萬一}
+- {english: prince; son of a king, learned: false, pinyin: wángzǐ, pinyin-numbered: wang2zi3,
+  simplified: 王子, traditional: 王子}
+- {english: network, learned: false, pinyin: wǎngluò, pinyin-numbered: wang3luo4,
+  simplified: 网络, traditional: 網絡}
+- {english: go back and forth; go to and fro, learned: false, pinyin: wǎngfǎn, pinyin-numbered: wang3fan3,
+  simplified: 往返, traditional: 往返}
+- {english: endanger; jeopardize; to harm, learned: false, pinyin: wēihài, pinyin-numbered: wei1hai4,
+  simplified: 危害, traditional: 危害}
+- {english: threaten; to menace, learned: false, pinyin: wēixié, pinyin-numbered: wei1xie2,
+  simplified: 威胁, traditional: 威脅}
+- {english: smile, learned: false, pinyin: wēixiào, pinyin-numbered: wei1xiao4, simplified: 微笑,
+  traditional: 微笑}
+- {english: violate (a law), learned: false, pinyin: wéifǎn, pinyin-numbered: wei2fan3,
+  simplified: 违反, traditional: 違反}
+- {english: scarf; shawl, learned: false, pinyin: wéijīn, pinyin-numbered: wei2jin1,
+  simplified: 围巾, traditional: 圍巾}
+- {english: revolve around; center on (an issue), learned: false, pinyin: wéirào,
+  pinyin-numbered: wei2rao4, simplified: 围绕, traditional: 圍繞}
+- {english: only; sole, learned: false, pinyin: wéiyī, pinyin-numbered: wei2yi1, simplified: 唯一,
+  traditional: 唯一}
+- {english: maintain (of equipment); to mend; repair, learned: false, pinyin: wéixiū,
+  pinyin-numbered: wei2xiu1, simplified: 维修, traditional: 維修}
+- {english: great; mighty; large, learned: false, pinyin: wěidà, pinyin-numbered: wei3da4,
+  simplified: 伟大, traditional: 偉大}
+- {english: tail, learned: false, pinyin: wěiba, pinyin-numbered: wei3ba, simplified: 尾巴,
+  traditional: 尾巴}
+- {english: feel wronged; nurse a grievance, learned: false, pinyin: wěiqu, pinyin-numbered: wei3qu,
+  simplified: 委屈, traditional: 委屈}
+- {english: not necessarily; need not, learned: false, pinyin: wèibì, pinyin-numbered: wei4bi4,
+  simplified: 未必, traditional: 未必}
+- {english: future, learned: false, pinyin: wèilái, pinyin-numbered: wei4lai2, simplified: 未来,
+  traditional: 未來}
+- {english: be located at, learned: false, pinyin: wèiyú, pinyin-numbered: wei4yu2,
+  simplified: 位于, traditional: 位于}
+- {english: position; place; seat, learned: false, pinyin: wèizhi, pinyin-numbered: wei4zhi,
+  simplified: 位置, traditional: 位置}
+- {english: stomach, learned: false, pinyin: wèi, pinyin-numbered: wei4, simplified: 胃,
+  traditional: 胃}
+- {english: appetite, learned: false, pinyin: wèikǒu, pinyin-numbered: wei4kou3, simplified: 胃口,
+  traditional: 胃口}
+- {english: warm, learned: false, pinyin: wēnnuǎn, pinyin-numbered: wen1nuan3, simplified: 温暖,
+  traditional: 溫暖}
+- {english: gentle and soft; tender; gentle, learned: false, pinyin: wēnróu, pinyin-numbered: wen1rou2,
+  simplified: 温柔, traditional: 溫柔}
+- {english: document; file, learned: false, pinyin: wénjiàn, pinyin-numbered: wen2jian4,
+  simplified: 文件, traditional: 文件}
+- {english: stationery; writing supplies, learned: false, pinyin: wénjù, pinyin-numbered: wen2ju4,
+  simplified: 文具, traditional: 文具}
+- {english: civilization; civilized; culture, learned: false, pinyin: wénmíng, pinyin-numbered: wen2ming2,
+  simplified: 文明, traditional: 文明}
+- {english: literature, learned: false, pinyin: wénxué, pinyin-numbered: wen2xue2,
+  simplified: 文学, traditional: 文學}
+- {english: characters; script; writing, learned: false, pinyin: wénzì, pinyin-numbered: wen2zi4,
+  simplified: 文字, traditional: 文字}
+- {english: hear; to smell; news; reputation, learned: false, pinyin: wén, pinyin-numbered: wen2,
+  simplified: 闻, traditional: 聞}
+- {english: kiss; lips, learned: false, pinyin: wěn, pinyin-numbered: wen3, simplified: 吻,
+  traditional: 吻}
+- {english: stable; steady, learned: false, pinyin: wěndìng, pinyin-numbered: wen3ding4,
+  simplified: 稳定, traditional: 穩定}
+- {english: send a greeting; send one's regards to, learned: false, pinyin: wènhòu,
+  pinyin-numbered: wen4hou4, simplified: 问候, traditional: 問候}
+- {english: bedroom, learned: false, pinyin: wòshì, pinyin-numbered: wo4shi4, simplified: 卧室,
+  traditional: 臥室}
+- {english: to shake hands, learned: false, pinyin: wò shǒu, pinyin-numbered: wo4
+    shou3, simplified: 握手, traditional: 握手}
+- {english: room; house, learned: false, pinyin: wūzi, pinyin-numbered: wu1zi, simplified: 屋子,
+  traditional: 屋子}
+- {english: can't help but; have no choice, learned: false, pinyin: wúnài, pinyin-numbered: wun2ai4,
+  simplified: 无奈, traditional: 無奈}
+- {english: countless; innumerable, learned: false, pinyin: wúshù, pinyin-numbered: wu2shu4,
+  simplified: 无数, traditional: 無數}
+- {english: doesn't matter; be indifferent, learned: false, pinyin: wúsuǒwèi, pinyin-numbered: wu2suo3wei4,
+  simplified: 无所谓, traditional: 無所謂}
+- {english: martial arts, learned: false, pinyin: wǔshù, pinyin-numbered: wu3shu4,
+  simplified: 武术, traditional: 武術}
+- {english: not; do not, learned: false, pinyin: wù, pinyin-numbered: wu4, simplified: 勿,
+  traditional: 勿}
+- {english: physics; physical, learned: false, pinyin: wùlǐ, pinyin-numbered: wu4li3,
+  simplified: 物理, traditional: 物理}
+- {english: matter; substance; material, learned: false, pinyin: wùzhì, pinyin-numbered: wu4zhi4,
+  simplified: 物质, traditional: 物質}
+- {english: fog; mist, learned: false, pinyin: wù, pinyin-numbered: wu4, simplified: 雾,
+  traditional: 霧}
+- {english: absorb; assimilate, learned: false, pinyin: xīqǔ, pinyin-numbered: xi1qu3,
+  simplified: 吸取, traditional: 吸取}
+- {english: absorb; ingest, learned: false, pinyin: xīshōu, pinyin-numbered: xi1shou1,
+  simplified: 吸收, traditional: 吸收}
+- {english: drama; play; theater, learned: false, pinyin: xìjù, pinyin-numbered: xi4ju4,
+  simplified: 戏剧, traditional: 戲劇}
+- {english: be; relate to; system; fasten; department; faculty; connect | to tie,
+  learned: false, pinyin: 'xì, jì', pinyin-numbered: 'xi4, ji4', simplified: 系, traditional: 系}
+- {english: system, learned: false, pinyin: xìtǒng, pinyin-numbered: xi4tong3, simplified: 系统,
+  traditional: 系統}
+- {english: details; particulars, learned: false, pinyin: xìjié, pinyin-numbered: xi4jie2,
+  simplified: 细节, traditional: 細節}
+- {english: blind, learned: false, pinyin: xiā, pinyin-numbered: xia1, simplified: 瞎,
+  traditional: 瞎}
+- {english: to download, learned: false, pinyin: xiàzǎi, pinyin-numbered: xia4zai3,
+  simplified: 下载, traditional: 下載}
+- {english: frighten; to scare; intimidate, learned: false, pinyin: xià, pinyin-numbered: xia4,
+  simplified: 吓, traditional: 嚇}
+- {english: summer camp, learned: false, pinyin: xiàlìngyíng, pinyin-numbered: xia4ling4ying2,
+  simplified: 夏令营, traditional: 夏令營}
+- {english: bright-colored, learned: false, pinyin: xiānyàn, pinyin-numbered: xian1yan4,
+  simplified: 鲜艳, traditional: 鮮豔}
+- {english: appear; seem; to look, learned: false, pinyin: xiǎnde, pinyin-numbered: xian3de,
+  simplified: 显得, traditional: 顯得}
+- {english: clear; evidently; obviously, learned: false, pinyin: xiǎnrán, pinyin-numbered: xian3ran2,
+  simplified: 显然, traditional: 顯然}
+- {english: 'display, illustrate, to show', learned: false, pinyin: xiǎnshì, pinyin-numbered: xian3shi4,
+  simplified: 显示, traditional: 顯示}
+- {english: county; district, learned: false, pinyin: xiàn, pinyin-numbered: xian4,
+  simplified: 县, traditional: 縣}
+- {english: modern times; modern age, learned: false, pinyin: xiàndài, pinyin-numbered: xian4dai4,
+  simplified: 现代, traditional: 現代}
+- {english: reality; actuality; practical, learned: false, pinyin: xiànshí, pinyin-numbered: xian4shi2,
+  simplified: 现实, traditional: 現實}
+- {english: appearance; phenomenon, learned: false, pinyin: xiànxiàng, pinyin-numbered: xian4xiang4,
+  simplified: 现象, traditional: 現象}
+- {english: restrictions; to limit; to bound, learned: false, pinyin: xiànzhì, pinyin-numbered: xian4zhi4,
+  simplified: 限制, traditional: 限制}
+- {english: get along; interact, learned: false, pinyin: xiāngchǔ, pinyin-numbered: xiang1chu3,
+  simplified: 相处, traditional: 相處}
+- {english: equivalent to; appropriate; considerably; quite, learned: false, pinyin: xiāngdāng,
+  pinyin-numbered: xiang1dang1, simplified: 相当, traditional: 相當}
+- {english: opposite; relatively; to resist, learned: false, pinyin: xiāngduì, pinyin-numbered: xiang1dui4,
+  simplified: 相对, traditional: 相對}
+- {english: correlation; interrelated; dependence, learned: false, pinyin: xiāngguān,
+  pinyin-numbered: xiang1guan1, simplified: 相关, traditional: 相關}
+- {english: similar; resemble; like, learned: false, pinyin: xiāngsì, pinyin-numbered: xiang1si4,
+  simplified: 相似, traditional: 相似}
+- {english: sausage, learned: false, pinyin: xiāngcháng, pinyin-numbered: xiang1chang2,
+  simplified: 香肠, traditional: 香腸}
+- {english: enjoy, learned: false, pinyin: xiǎngshòu, pinyin-numbered: xiang3shou4,
+  simplified: 享受, traditional: 享受}
+- {english: to miss; remember with longing; long to see again, learned: false, pinyin: xiǎngniàn,
+  pinyin-numbered: xiang3nian4, simplified: 想念, traditional: 想念}
+- {english: imagine; visualize, learned: false, pinyin: xiǎngxiàng, pinyin-numbered: xiang3xiang4,
+  simplified: 想象, traditional: 想象}
+- {english: nape (of the neck); sum (of money); mw item, learned: false, pinyin: xiàng,
+  pinyin-numbered: xiang4, simplified: 项, traditional: 項}
+- {english: necklace, learned: false, pinyin: xiàngliàn, pinyin-numbered: xiang4lian4,
+  simplified: 项链, traditional: 項鏈}
+- {english: program; item; project, learned: false, pinyin: xiàngmù, pinyin-numbered: xiang4mu4,
+  simplified: 项目, traditional: 項目}
+- {english: chess; Chinese chess, learned: false, pinyin: xiàngqí, pinyin-numbered: xiang4qi2,
+  simplified: 象棋, traditional: 象棋}
+- {english: symbol; symbolize; signify, learned: false, pinyin: xiàngzhēng, pinyin-numbered: xiang4zheng1,
+  simplified: 象征, traditional: 象征}
+- {english: consumption; spending, learned: false, pinyin: xiāofèi, pinyin-numbered: xiao1fei4,
+  simplified: 消费, traditional: 消費}
+- {english: to digest, learned: false, pinyin: xiāohuà, pinyin-numbered: xiao1hua4,
+  simplified: 消化, traditional: 消化}
+- {english: passive; negative; demoralized, learned: false, pinyin: xiāojí, pinyin-numbered: xiao1ji2,
+  simplified: 消极, traditional: 消極}
+- {english: disappear; fade away; dissolve, learned: false, pinyin: xiāoshī, pinyin-numbered: xiao1shi1,
+  simplified: 消失, traditional: 消失}
+- {english: to sell; to market; sales, learned: false, pinyin: xiāoshòu, pinyin-numbered: xiao1shou4,
+  simplified: 销售, traditional: 銷售}
+- {english: wheat, learned: false, pinyin: xiǎomài, pinyin-numbered: xiao3mai4, simplified: 小麦,
+  traditional: 小麥}
+- {english: stingy; petty, learned: false, pinyin: xiǎoqì, pinyin-numbered: xiao3qi4,
+  simplified: 小气, traditional: 小氣}
+- {english: filial piety, learned: false, pinyin: xiàoshùn, pinyin-numbered: xiao4shun4,
+  simplified: 孝顺, traditional: 孝順}
+- {english: efficiency, learned: false, pinyin: xiàolǜ, pinyin-numbered: xiao4lü4,
+  simplified: 效率, traditional: 效率}
+- {english: to rest; to go to bed; to take a break, learned: false, pinyin: xiē, pinyin-numbered: xie1,
+  simplified: 歇, traditional: 歇}
+- {english: slanting; tilted, learned: false, pinyin: xié, pinyin-numbered: xie2,
+  simplified: 斜, traditional: 斜}
+- {english: writing; composition; written works, learned: false, pinyin: xiězuò, pinyin-numbered: xie3zuo4,
+  simplified: 写作, traditional: 寫作}
+- {english: blood (Kangxi radical 143), learned: false, pinyin: xuè, pinyin-numbered: xue4,
+  simplified: 血, traditional: 血}
+- {english: psychology; psychological; mental, learned: false, pinyin: xīnlǐ, pinyin-numbered: xin1li3,
+  simplified: 心理, traditional: 心理}
+- {english: heart, learned: false, pinyin: xīnzàng, pinyin-numbered: xin1zang4, simplified: 心脏,
+  traditional: 心髒}
+- {english: appreciate; enjoy; admire, learned: false, pinyin: xīnshǎng, pinyin-numbered: xin1shang3,
+  simplified: 欣赏, traditional: 欣賞}
+- {english: signal, learned: false, pinyin: xìnhào, pinyin-numbered: xin4hao4, simplified: 信号,
+  traditional: 信號}
+- {english: to trust; have confidence in, learned: false, pinyin: xìnrèn, pinyin-numbered: xin4ren4,
+  simplified: 信任, traditional: 信任}
+- {english: to move; get around; action, learned: false, pinyin: xíngdòng, pinyin-numbered: xing2dong4,
+  simplified: 行动, traditional: 行動}
+- {english: pedestrian, learned: false, pinyin: xíngrén, pinyin-numbered: xing2ren2,
+  simplified: 行人, traditional: 行人}
+- {english: action; behavior; conduct, learned: false, pinyin: xíngwéi, pinyin-numbered: xing2wei2,
+  simplified: 行为, traditional: 行爲}
+- {english: take shape; form, learned: false, pinyin: xíngchéng, pinyin-numbered: xing2cheng2,
+  simplified: 形成, traditional: 形成}
+- {english: describe; appearance; look, learned: false, pinyin: xíngróng, pinyin-numbered: xing2rong2,
+  simplified: 形容, traditional: 形容}
+- {english: form; shape; situation, learned: false, pinyin: xíngshì, pinyin-numbered: xing2shi4,
+  simplified: 形式, traditional: 形式}
+- {english: circumstances; situation; terrain, learned: false, pinyin: xíngshì, pinyin-numbered: xing2shi4,
+  simplified: 形势, traditional: 形勢}
+- {english: image; form; figure, learned: false, pinyin: xíngxiàng, pinyin-numbered: xing2xiang4,
+  simplified: 形象, traditional: 形象}
+- {english: form; figure; shape, learned: false, pinyin: xíngzhuàng, pinyin-numbered: xing2zhuang4,
+  simplified: 形状, traditional: 形狀}
+- {english: fortunately; luckily, learned: false, pinyin: xìngkuī, pinyin-numbered: xing4kui1,
+  simplified: 幸亏, traditional: 幸虧}
+- {english: luck; fortune, learned: false, pinyin: xìngyùn, pinyin-numbered: xing4yun4,
+  simplified: 幸运, traditional: 幸運}
+- {english: nature; characteristic; quality, learned: false, pinyin: xìngzhì, pinyin-numbered: xing4zhi4,
+  simplified: 性质, traditional: 性質}
+- {english: brothers; younger brother; brethren, learned: false, pinyin: xiōngdì,
+  pinyin-numbered: xiong1di4, simplified: 兄弟, traditional: 兄弟}
+- {english: chest; bosom; heart, learned: false, pinyin: xiōng, pinyin-numbered: xiong1,
+  simplified: 胸, traditional: 胸}
+- {english: recreation; leisure, learned: false, pinyin: xiūxián, pinyin-numbered: xiu1xian2,
+  simplified: 休闲, traditional: 休閑}
+- {english: amend; modify; revise; alter, learned: false, pinyin: xiūgǎi, pinyin-numbered: xiu1gai3,
+  simplified: 修改, traditional: 修改}
+- {english: modest; open-minded, learned: false, pinyin: xūxīn, pinyin-numbered: xu1xin1,
+  simplified: 虚心, traditional: 虛心}
+- {english: retell; narrate, learned: false, pinyin: xùshù, pinyin-numbered: xu4shu4,
+  simplified: 叙述, traditional: 敘述}
+- {english: announce; declare; proclaim, learned: false, pinyin: xuānbù, pinyin-numbered: xuan1bu4,
+  simplified: 宣布, traditional: 宣布}
+- {english: propaganda; to propagate; to give publicity to, learned: false, pinyin: xuānchuán,
+  pinyin-numbered: xuan1chuan2, simplified: 宣传, traditional: 宣傳}
+- {english: educational background; school record, learned: false, pinyin: xuélì,
+  pinyin-numbered: xue2li4, simplified: 学历, traditional: 學曆}
+- {english: learning; science; academic, learned: false, pinyin: xuéshù, pinyin-numbered: xue2shu4,
+  simplified: 学术, traditional: 學術}
+- {english: learning; knowledge, learned: false, pinyin: xuéwen, pinyin-numbered: xue2wen,
+  simplified: 学问, traditional: 學問}
+- {english: seek; look for; quest, learned: false, pinyin: xúnzhǎo, pinyin-numbered: xun2zhao3,
+  simplified: 寻找, traditional: 尋找}
+- {english: inquire about, learned: false, pinyin: xúnwèn, pinyin-numbered: xun2wen4,
+  simplified: 询问, traditional: 詢問}
+- {english: to train; to drill; to exercise; training, learned: false, pinyin: xùnliàn,
+  pinyin-numbered: xun4lian4, simplified: 训练, traditional: 訓練}
+- {english: fast; quick; rapid, learned: false, pinyin: xùnsù, pinyin-numbered: xun4su4,
+  simplified: 迅速, traditional: 迅速}
+- {english: security deposit; down payment, learned: false, pinyin: yājīn, pinyin-numbered: ya1jin1,
+  simplified: 押金, traditional: 押金}
+- {english: tooth, learned: false, pinyin: yáchǐ, pinyin-numbered: ya2chi3, simplified: 牙齿,
+  traditional: 牙齒}
+- {english: extend; prolong; lengthen, learned: false, pinyin: yáncháng, pinyin-numbered: yan2chang2,
+  simplified: 延长, traditional: 延長}
+- {english: solemn; serious; earnest, learned: false, pinyin: yánsù, pinyin-numbered: yan2su4,
+  simplified: 严肃, traditional: 嚴肅}
+- {english: give a lecture; make a speech, learned: false, pinyin: yǎnjiǎng, pinyin-numbered: yan3jiang3,
+  simplified: 演讲, traditional: 演講}
+- {english: banquet; feast; dinner party, learned: false, pinyin: yànhuì, pinyin-numbered: yan4hui4,
+  simplified: 宴会, traditional: 宴會}
+- {english: balcony, learned: false, pinyin: yángtái, pinyin-numbered: yang2tai2,
+  simplified: 阳台, traditional: 陽台}
+- {english: to itch; itchy, learned: false, pinyin: yǎng, pinyin-numbered: yang3,
+  simplified: 痒, traditional: 癢}
+- {english: type; style; form, learned: false, pinyin: yàngshì, pinyin-numbered: yang4shi4,
+  simplified: 样式, traditional: 樣式}
+- {english: waist; lower back; pocket, learned: false, pinyin: yāo, pinyin-numbered: yao1,
+  simplified: 腰, traditional: 腰}
+- {english: to shake; to rock, learned: false, pinyin: yáo, pinyin-numbered: yao2,
+  simplified: 摇, traditional: 搖}
+- {english: to bite; to nip, learned: false, pinyin: yǎo, pinyin-numbered: yao3, simplified: 咬,
+  traditional: 咬}
+- {english: otherwise; or else; how about, learned: false, pinyin: yàobù, pinyin-numbered: yao4bu4,
+  simplified: 要不, traditional: 要不}
+- {english: business; profession, learned: false, pinyin: yèwù, pinyin-numbered: ye4wu4,
+  simplified: 业务, traditional: 業務}
+- {english: spare time; amateur, learned: false, pinyin: yèyú, pinyin-numbered: ye4yu2,
+  simplified: 业余, traditional: 業余}
+- {english: night; darkness, learned: false, pinyin: yè, pinyin-numbered: ye4, simplified: 夜,
+  traditional: 夜}
+- {english: (for) a lifetime; all one's life, learned: false, pinyin: yíbèizi, pinyin-numbered: yi2bei4zi,
+  simplified: 一辈子, traditional: 一輩子}
+- {english: in case (something happens); once (sth. has happened ... then); in one
+    day, learned: false, pinyin: yídàn, pinyin-numbered: yi2dan4, simplified: 一旦,
+  traditional: 一旦}
+- {english: same; uniformly; all; without exception, learned: false, pinyin: yílǜ,
+  pinyin-numbered: yi2lü4, simplified: 一律, traditional: 一律}
+- {english: repeatedly; again and again, learned: false, pinyin: yízài, pinyin-numbered: yi2zai4,
+  simplified: 一再, traditional: 一再}
+- {english: unanimous; identical (views or opinions); consistent, learned: false,
+  pinyin: yízhì, pinyin-numbered: yi2zhi4, simplified: 一致, traditional: 一致}
+- {english: still; as before, learned: false, pinyin: yīrán, pinyin-numbered: yi1ran2,
+  simplified: 依然, traditional: 依然}
+- {english: to move, learned: false, pinyin: yídòng, pinyin-numbered: yi2dong4, simplified: 移动,
+  traditional: 移動}
+- {english: immigrate; emigrate; migrate, learned: false, pinyin: yímín, pinyin-numbered: yi2min2,
+  simplified: 移民, traditional: 移民}
+- {english: regret; pity; sorry, learned: false, pinyin: yíhàn, pinyin-numbered: yi2han4,
+  simplified: 遗憾, traditional: 遺憾}
+- {english: doubt; question; to query, learned: false, pinyin: yíwèn, pinyin-numbered: yi2wen4,
+  simplified: 疑问, traditional: 疑問}
+- {english: two; twist (2nd Heavenly Stem) (Kangxi radical 5), learned: false, pinyin: yǐ,
+  pinyin-numbered: yi3, simplified: 乙, traditional: 乙}
+- {english: as well as; too; (formal) and, learned: false, pinyin: yǐjí, pinyin-numbered: yi3ji2,
+  simplified: 以及, traditional: 以及}
+- {english: since (a previous event), learned: false, pinyin: yǐlái, pinyin-numbered: yi3lai2,
+  simplified: 以来, traditional: 以來}
+- {english: 'one hundred million (100,000,000)', learned: false, pinyin: yì, pinyin-numbered: yi4,
+  simplified: 亿, traditional: 億}
+- {english: duty; obligation; volunteer duty, learned: false, pinyin: yìwù, pinyin-numbered: yi4wu4,
+  simplified: 义务, traditional: 義務}
+- {english: discuss; to comment; talk about, learned: false, pinyin: yìlùn, pinyin-numbered: yi4lun4,
+  simplified: 议论, traditional: 議論}
+- {english: unexpected; accident; mishap, learned: false, pinyin: yìwài, pinyin-numbered: yi4wai4,
+  simplified: 意外, traditional: 意外}
+- {english: meaning; significance, learned: false, pinyin: yìyì, pinyin-numbered: yi4yi4,
+  simplified: 意义, traditional: 意義}
+- {english: therefore; as a result; thus, learned: false, pinyin: yīn'ér, pinyin-numbered: yin1'er2,
+  simplified: 因而, traditional: 因而}
+- {english: element; factor, learned: false, pinyin: yīnsù, pinyin-numbered: yin1su4,
+  simplified: 因素, traditional: 因素}
+- {english: silver (the element), learned: false, pinyin: yín, pinyin-numbered: yin2,
+  simplified: 银, traditional: 銀}
+- {english: print, learned: false, pinyin: yìnshuā, pinyin-numbered: yin4shua1, simplified: 印刷,
+  traditional: 印刷}
+- {english: handsome, learned: false, pinyin: yīngjùn, pinyin-numbered: ying1jun4,
+  simplified: 英俊, traditional: 英俊}
+- {english: hero, learned: false, pinyin: yīngxióng, pinyin-numbered: ying1xiong2,
+  simplified: 英雄, traditional: 英雄}
+- {english: meet; greet; to welcome, learned: false, pinyin: yíngjiē, pinyin-numbered: ying2jie1,
+  simplified: 迎接, traditional: 迎接}
+- {english: nutrition; nourishment; sustenance, learned: false, pinyin: yíngyǎng,
+  pinyin-numbered: ying2yang3, simplified: 营养, traditional: 營養}
+- {english: do business; to trade, learned: false, pinyin: yíngyè, pinyin-numbered: ying2ye4,
+  simplified: 营业, traditional: 營業}
+- {english: shadow; reflection, learned: false, pinyin: yǐngzi, pinyin-numbered: ying3zi,
+  simplified: 影子, traditional: 影子}
+- {english: to cope with; deal with; handle; do sth. perfunctorily; do sth. after
+    a fashion; make do, learned: false, pinyin: yìngfu, pinyin-numbered: ying4fu,
+  simplified: 应付, traditional: 應付}
+- {english: to apply; to use; application, learned: false, pinyin: yìngyòng, pinyin-numbered: ying4yong4,
+  simplified: 应用, traditional: 應用}
+- {english: hard; stiff; obstinately, learned: false, pinyin: yìng, pinyin-numbered: ying4,
+  simplified: 硬, traditional: 硬}
+- {english: hardware, learned: false, pinyin: yìngjiàn, pinyin-numbered: ying4jian4,
+  simplified: 硬件, traditional: 硬件}
+- {english: embrace; to hug, learned: false, pinyin: yōngbào, pinyin-numbered: yong1bao4,
+  simplified: 拥抱, traditional: 擁抱}
+- {english: to crowd; to push; to squeeze, learned: false, pinyin: yōngjǐ, pinyin-numbered: yong1ji3,
+  simplified: 拥挤, traditional: 擁擠}
+- {english: courage; valor, learned: false, pinyin: yǒngqì, pinyin-numbered: yong3qi4,
+  simplified: 勇气, traditional: 勇氣}
+- {english: diligent; industrious; hardworking, learned: false, pinyin: yòng gōng,
+  pinyin-numbered: yong4 gong1, simplified: 用功, traditional: 用功}
+- {english: use; application; purpose, learned: false, pinyin: yòngtú, pinyin-numbered: yong4tu2,
+  simplified: 用途, traditional: 用途}
+- {english: preferential; favorable, learned: false, pinyin: yōuhuì, pinyin-numbered: you1hui4,
+  simplified: 优惠, traditional: 優惠}
+- {english: graceful; fine; elegant, learned: false, pinyin: yōuměi, pinyin-numbered: you1mei3,
+  simplified: 优美, traditional: 優美}
+- {english: advantage; superiority; dominant position, learned: false, pinyin: yōushì,
+  pinyin-numbered: you1shi4, simplified: 优势, traditional: 優勢}
+- {english: established; long; longstanding, learned: false, pinyin: yōujiǔ, pinyin-numbered: you1jiu3,
+  simplified: 悠久, traditional: 悠久}
+- {english: hesitate; hesitant; undecided, learned: false, pinyin: yóuyù, pinyin-numbered: you2yu4,
+  simplified: 犹豫, traditional: 猶豫}
+- {english: deep fry, learned: false, pinyin: yóuzhá, pinyin-numbered: you2zha2, simplified: 油炸,
+  traditional: 油炸}
+- {english: go sight-seeing; tour, learned: false, pinyin: yóulǎn, pinyin-numbered: you2lan3,
+  simplified: 游览, traditional: 遊覽}
+- {english: advantageous; beneficial, learned: false, pinyin: yǒulì, pinyin-numbered: you3li4,
+  simplified: 有利, traditional: 有利}
+- {english: kindergarten; nursery school, learned: false, pinyin: yòu'éryuán, pinyin-numbered: you4'er2yuan2,
+  simplified: 幼儿园, traditional: 幼兒園}
+- {english: entertain; amuse; entertainment, learned: false, pinyin: yúlè, pinyin-numbered: yu2le4,
+  simplified: 娱乐, traditional: 娛樂}
+- {english: rather than; better than, learned: false, pinyin: yǔqí, pinyin-numbered: yu3qi2,
+  simplified: 与其, traditional: 與其}
+- {english: tone; manner of speaking; mood, learned: false, pinyin: yǔqì, pinyin-numbered: yu3qi4,
+  simplified: 语气, traditional: 語氣}
+- {english: corn; maize, learned: false, pinyin: yùmǐ, pinyin-numbered: yu4mi3, simplified: 玉米,
+  traditional: 玉米}
+- {english: to predict; forecast, learned: false, pinyin: yùbào, pinyin-numbered: yu4bao4,
+  simplified: 预报, traditional: 預報}
+- {english: place an order; book ahead; subscribe for, learned: false, pinyin: yùdìng,
+  pinyin-numbered: yu4ding4, simplified: 预订, traditional: 預訂}
+- {english: prevent; take precautions against, learned: false, pinyin: yùfáng, pinyin-numbered: yu4fang2,
+  simplified: 预防, traditional: 預防}
+- {english: New Year's Day, learned: false, pinyin: yuándàn, pinyin-numbered: yuan2dan4,
+  simplified: 元旦, traditional: 元旦}
+- {english: employee; staff; personnel, learned: false, pinyin: yuángōng, pinyin-numbered: yuang2ong1,
+  simplified: 员工, traditional: 員工}
+- {english: raw material; ingredients, learned: false, pinyin: yuánliào, pinyin-numbered: yuan2liao4,
+  simplified: 原料, traditional: 原料}
+- {english: principle; doctrine, learned: false, pinyin: yuánzé, pinyin-numbered: yuan2ze2,
+  simplified: 原则, traditional: 原則}
+- {english: round; circular; formal unit of Chinese currency, learned: false, pinyin: yuán,
+  pinyin-numbered: yuan2, simplified: 圆, traditional: 圓}
+- {english: desire; wish; aspiration, learned: false, pinyin: yuànwàng, pinyin-numbered: yuan4wang4,
+  simplified: 愿望, traditional: 願望}
+- {english: musical instrument, learned: false, pinyin: yuèqì, pinyin-numbered: yue4qi4,
+  simplified: 乐器, traditional: 樂器}
+- {english: dizzy; to fain, learned: false, pinyin: yūn, pinyin-numbered: yun1, simplified: 晕,
+  traditional: 暈}
+- {english: luck, learned: false, pinyin: yùnqi, pinyin-numbered: yun4qi, simplified: 运气,
+  traditional: 運氣}
+- {english: transport; transportation, learned: false, pinyin: yùnshū, pinyin-numbered: yun4shu1,
+  simplified: 运输, traditional: 運輸}
+- {english: to use; apply, learned: false, pinyin: yùnyòng, pinyin-numbered: yun4yong4,
+  simplified: 运用, traditional: 運用}
+- {english: disaster; calamity, learned: false, pinyin: zāihài, pinyin-numbered: zai1hai4,
+  simplified: 灾害, traditional: 災害}
+- {english: over and over again; repeatedly, learned: false, pinyin: zàisān, pinyin-numbered: zai4san1,
+  simplified: 再三, traditional: 再三}
+- {english: care about; be determined by; to mind, learned: false, pinyin: zàihu,
+  pinyin-numbered: zai4hu, simplified: 在乎, traditional: 在乎}
+- {english: lie in; be in; rest with; depend on, learned: false, pinyin: zàiyú, pinyin-numbered: zai4yu2,
+  simplified: 在于, traditional: 在于}
+- {english: approve; endorse, learned: false, pinyin: zànchéng, pinyin-numbered: zan4cheng2,
+  simplified: 赞成, traditional: 贊成}
+- {english: admire; applause; to praise, learned: false, pinyin: zànměi, pinyin-numbered: zan4mei3,
+  simplified: 赞美, traditional: 贊美}
+- {english: terrible; too bad; how terrible; what bad luck; what a mess, learned: false,
+  pinyin: zāogāo, pinyin-numbered: zao1gao1, simplified: 糟糕, traditional: 糟糕}
+- {english: to cause; make; bring out, learned: false, pinyin: zàochéng, pinyin-numbered: zao4cheng2,
+  simplified: 造成, traditional: 造成}
+- {english: standard; regulation; however; in that case, learned: false, pinyin: zé,
+  pinyin-numbered: ze2, simplified: 则, traditional: 則}
+- {english: to blame; criticize (sb.); accuse, learned: false, pinyin: zébèi, pinyin-numbered: ze2bei4,
+  simplified: 责备, traditional: 責備}
+- {english: 'to pick (flowers, fruit, etc.); to pluck; to take; to borrow', learned: false,
+  pinyin: zhāi, pinyin-numbered: zhai1, simplified: 摘, traditional: 摘}
+- {english: narrow; petty; hard-up, learned: false, pinyin: zhǎi, pinyin-numbered: zhai3,
+  simplified: 窄, traditional: 窄}
+- {english: to paste, learned: false, pinyin: zhāntiē, pinyin-numbered: zhan1tie1,
+  simplified: 粘贴, traditional: 粘貼}
+- {english: spread out; unfold; carry out; in full swing, learned: false, pinyin: zhǎn
+    kāi, pinyin-numbered: zhan3 kai1, simplified: 展开, traditional: 展開}
+- {english: put on display; to exhibit; exhibition, learned: false, pinyin: zhǎnlǎn,
+  pinyin-numbered: zhan3lan3, simplified: 展览, traditional: 展覽}
+- {english: occupy; seize; to constitute, learned: false, pinyin: zhàn, pinyin-numbered: zhan4,
+  simplified: 占, traditional: 占}
+- {english: war; conflict, learned: false, pinyin: zhànzhēng, pinyin-numbered: zhan4zheng1,
+  simplified: 战争, traditional: 戰爭}
+- {english: an elder; an elder generation, learned: false, pinyin: zhǎngbèi, pinyin-numbered: zhang3bei4,
+  simplified: 长辈, traditional: 長輩}
+- {english: 'to rise (of prices, rivers); to go up | to swell; to bloat', learned: false,
+  pinyin: 'zhǎng, zhàng', pinyin-numbered: 'zhang3, zhang4', simplified: 涨, traditional: 漲}
+- {english: to grasp; to master; to control, learned: false, pinyin: zhǎngwò, pinyin-numbered: zhang3wo4,
+  simplified: 掌握, traditional: 掌握}
+- {english: bank account, learned: false, pinyin: zhànghù, pinyin-numbered: zhang4hu4,
+  simplified: 账户, traditional: 賬戶}
+- {english: receive (guests); entertain; reception, learned: false, pinyin: zhāodài,
+  pinyin-numbered: zhao1dai4, simplified: 招待, traditional: 招待}
+- {english: catch fire; ignite, learned: false, pinyin: zháohuǒ, pinyin-numbered: zhao2huo3,
+  simplified: 着火, traditional: 著火}
+- {english: catch a cold, learned: false, pinyin: zháo liáng, pinyin-numbered: zhao2
+    liang2, simplified: 着凉, traditional: 著涼}
+- {english: convene (a conference or meeting); call together, learned: false, pinyin: zhàokāi,
+  pinyin-numbered: zhao4kai1, simplified: 召开, traditional: 召開}
+- {english: as usual; normal, learned: false, pinyin: zhàocháng, pinyin-numbered: zhao4chang2,
+  simplified: 照常, traditional: 照常}
+- {english: philosophy, learned: false, pinyin: zhéxué, pinyin-numbered: zhe2xue2,
+  simplified: 哲学, traditional: 哲學}
+- {english: in connection with; directed towards, learned: false, pinyin: zhēnduì,
+  pinyin-numbered: zhen1dui4, simplified: 针对, traditional: 針對}
+- {english: to treasure; cherish; to value, learned: false, pinyin: zhēnxī, pinyin-numbered: zhen1xi1,
+  simplified: 珍惜, traditional: 珍惜}
+- {english: true; real; authentic, learned: false, pinyin: zhēnshí, pinyin-numbered: zhen1shi2,
+  simplified: 真实, traditional: 真實}
+- {english: diagnosis; diagnose, learned: false, pinyin: zhěnduàn, pinyin-numbered: zhen3duan4,
+  simplified: 诊断, traditional: 診斷}
+- {english: short period; disposition of troops; wave, learned: false, pinyin: zhèn,
+  pinyin-numbered: zhen4, simplified: 阵, traditional: 陣}
+- {english: vibrate; vibration, learned: false, pinyin: zhèndòng, pinyin-numbered: zhen4dong4,
+  simplified: 振动, traditional: 振動}
+- {english: argue; to dispute; contend; argument, learned: false, pinyin: zhēnglùn,
+  pinyin-numbered: zheng1lun4, simplified: 争论, traditional: 爭論}
+- {english: fight for; compete for; strive, learned: false, pinyin: zhēngqǔ, pinyin-numbered: zheng1qu3,
+  simplified: 争取, traditional: 爭取}
+- {english: solicit; seek; ask for; to request, learned: false, pinyin: zhēngqiú,
+  pinyin-numbered: zheng1qiu2, simplified: 征求, traditional: 征求}
+- {english: to open (eyes), learned: false, pinyin: zhēng, pinyin-numbered: zheng1,
+  simplified: 睁, traditional: 睜}
+- {english: whole; entire; total, learned: false, pinyin: zhěnggè, pinyin-numbered: zheng3ge4,
+  simplified: 整个, traditional: 整個}
+- {english: tidy; neat; in good order, learned: false, pinyin: zhěngqí, pinyin-numbered: zheng3qi2,
+  simplified: 整齐, traditional: 整齊}
+- {english: whole; entirety, learned: false, pinyin: zhěngtǐ, pinyin-numbered: zheng3ti3,
+  simplified: 整体, traditional: 整體}
+- {english: straight; currently; correct; just (right); pure; precisely, learned: false,
+  pinyin: zhèng, pinyin-numbered: zheng4, simplified: 正, traditional: 正}
+- {english: paperwork; credentials; papers; certificates, learned: false, pinyin: zhèngjiàn,
+  pinyin-numbered: zheng4jian4, simplified: 证件, traditional: 證件}
+- {english: evidence; proof; testimony, learned: false, pinyin: zhèngjù, pinyin-numbered: zheng4ju4,
+  simplified: 证据, traditional: 證據}
+- {english: government, learned: false, pinyin: zhèngfǔ, pinyin-numbered: zheng4fu3,
+  simplified: 政府, traditional: 政府}
+- {english: politics, learned: false, pinyin: zhèngzhì, pinyin-numbered: zheng4zhi4,
+  simplified: 政治, traditional: 政治}
+- {english: to earn | to struggle, learned: false, pinyin: 'zhèng, zhēng', pinyin-numbered: 'zheng4,
+    zheng1', simplified: 挣, traditional: 掙}
+- {english: branch; support; put up; (mw for long; narrow objects) (Kangxi radical
+    65), learned: false, pinyin: zhī, pinyin-numbered: zhi1, simplified: 支, traditional: 支}
+- {english: (bank) check, learned: false, pinyin: zhīpiào, pinyin-numbered: zhi1piao4,
+  simplified: 支票, traditional: 支票}
+- {english: a license; a permit, learned: false, pinyin: zhízhào, pinyin-numbered: zhi2zhao4,
+  simplified: 执照, traditional: 執照}
+- {english: straight; vertical; frank; directly; continuously, learned: false, pinyin: zhí,
+  pinyin-numbered: zhi2, simplified: 直, traditional: 直}
+- {english: to guide; give directions, learned: false, pinyin: zhǐdǎo, pinyin-numbered: zhi3dao3,
+  simplified: 指导, traditional: 指導}
+- {english: to command; to conduct; commander, learned: false, pinyin: zhǐhuī, pinyin-numbered: zhi3hui1,
+  simplified: 指挥, traditional: 指揮}
+- {english: up to now; so far, learned: false, pinyin: zhì jīn, pinyin-numbered: zhi4
+    jin1, simplified: 至今, traditional: 至今}
+- {english: as for; go so far as to, learned: false, pinyin: zhìyú, pinyin-numbered: zhi4yu2,
+  simplified: 至于, traditional: 至于}
+- {english: volunteer, learned: false, pinyin: zhìyuànzhě, pinyin-numbered: zhi4yuan4zhe3,
+  simplified: 志愿者, traditional: 志願者}
+- {english: formulate; lay down (a plan or policy); to draft, learned: false, pinyin: zhìdìng,
+  pinyin-numbered: zhi4ding4, simplified: 制定, traditional: 制定}
+- {english: system; institution, learned: false, pinyin: zhìdù, pinyin-numbered: zhi4du4,
+  simplified: 制度, traditional: 制度}
+- {english: manufacture; make, learned: false, pinyin: zhìzào, pinyin-numbered: zhi4zao4,
+  simplified: 制造, traditional: 制造}
+- {english: make; manufacture, learned: false, pinyin: zhìzuò, pinyin-numbered: zhi4zuo4,
+  simplified: 制作, traditional: 制作}
+- {english: to treat; to cure; medical treatment, learned: false, pinyin: zhìliáo,
+  pinyin-numbered: zhi4liao2, simplified: 治疗, traditional: 治療}
+- {english: order; sequence, learned: false, pinyin: zhìxù, pinyin-numbered: zhi4xu4,
+  simplified: 秩序, traditional: 秩序}
+- {english: wisdom; knowledge, learned: false, pinyin: zhìhuì, pinyin-numbered: zhi4hui4,
+  simplified: 智慧, traditional: 智慧}
+- {english: agent; act as an intermediary, learned: false, pinyin: zhōngjiè, pinyin-numbered: zhong1jie4,
+  simplified: 中介, traditional: 中介}
+- {english: center; heart; core, learned: false, pinyin: zhōngxīn, pinyin-numbered: zhong1xin1,
+  simplified: 中心, traditional: 中心}
+- {english: middle third of a month, learned: false, pinyin: zhōngxún, pinyin-numbered: zhong1xun2,
+  simplified: 中旬, traditional: 中旬}
+- {english: kind; category; class, learned: false, pinyin: zhǒnglèi, pinyin-numbered: zhong3lei4,
+  simplified: 种类, traditional: 種類}
+- {english: great; important; major, learned: false, pinyin: zhòngdà, pinyin-numbered: zhong4da4,
+  simplified: 重大, traditional: 重大}
+- {english: weight, learned: false, pinyin: zhòngliàng, pinyin-numbered: zhong4liang4,
+  simplified: 重量, traditional: 重量}
+- {english: thoughtful; considerate; thorough, learned: false, pinyin: zhōudào, pinyin-numbered: zhou1dao4,
+  simplified: 周到, traditional: 周到}
+- {english: pig, learned: false, pinyin: zhū, pinyin-numbered: zhu1, simplified: 猪,
+  traditional: 豬}
+- {english: bamboo, learned: false, pinyin: zhúzi, pinyin-numbered: zhu2zi, simplified: 竹子,
+  traditional: 竹子}
+- {english: step by step; gradually, learned: false, pinyin: zhúbù, pinyin-numbered: zhu2bu4,
+  simplified: 逐步, traditional: 逐步}
+- {english: gradually; by degrees, learned: false, pinyin: zhújiàn, pinyin-numbered: zhu2jian4,
+  simplified: 逐渐, traditional: 逐漸}
+- {english: preside over; manage; to direct, learned: false, pinyin: zhǔchí, pinyin-numbered: zhu3chi2,
+  simplified: 主持, traditional: 主持}
+- {english: to take initiative; voluntary, learned: false, pinyin: zhǔdòng, pinyin-numbered: zhu3dong4,
+  simplified: 主动, traditional: 主動}
+- {english: subjective, learned: false, pinyin: zhǔguān, pinyin-numbered: zhu3guan1,
+  simplified: 主观, traditional: 主觀}
+- {english: master; host; owner, learned: false, pinyin: zhǔrén, pinyin-numbered: zhu3ren2,
+  simplified: 主人, traditional: 主人}
+- {english: director; head; chief, learned: false, pinyin: zhǔrèn, pinyin-numbered: zhu3ren4,
+  simplified: 主任, traditional: 主任}
+- {english: theme; subject; topic, learned: false, pinyin: zhǔtí, pinyin-numbered: zhu3ti2,
+  simplified: 主题, traditional: 主題}
+- {english: chairperson; president, learned: false, pinyin: zhǔxí, pinyin-numbered: zhu3xi2,
+  simplified: 主席, traditional: 主席}
+- {english: to advocate; viewpoint; position, learned: false, pinyin: zhǔzhāng, pinyin-numbered: zhu3zhang1,
+  simplified: 主张, traditional: 主張}
+- {english: to boil; to cook, learned: false, pinyin: zhǔ, pinyin-numbered: zhu3,
+  simplified: 煮, traditional: 煮}
+- {english: register; registration; enroll, learned: false, pinyin: zhùcè, pinyin-numbered: zhu4ce4,
+  simplified: 注册, traditional: 注冊}
+- {english: blessings; wish well, learned: false, pinyin: zhùfú, pinyin-numbered: zhu4fu2,
+  simplified: 祝福, traditional: 祝福}
+- {english: to carry in your hand holding strongly; catch; arrest, learned: false,
+  pinyin: zhuā, pinyin-numbered: zhua1, simplified: 抓, traditional: 抓}
+- {english: to grasp firmly; to pay close or special attention to; to rush in; to
+    make the most of, learned: false, pinyin: zhuā jǐn, pinyin-numbered: zhua1 jin3,
+  simplified: 抓紧, traditional: 抓緊}
+- {english: expert; specialist, learned: false, pinyin: zhuānjiā, pinyin-numbered: zhuan1jia1,
+  simplified: 专家, traditional: 專家}
+- {english: be absorbed; concentrate; attentive, learned: false, pinyin: zhuānxīn,
+  pinyin-numbered: zhuan1xin1, simplified: 专心, traditional: 專心}
+- {english: to change; to transform, learned: false, pinyin: zhuǎnbiàn, pinyin-numbered: zhuan3bian4,
+  simplified: 转变, traditional: 轉變}
+- {english: pass on; to communicate; to transmit, learned: false, pinyin: zhuǎngào,
+  pinyin-numbered: zhuang3ao4, simplified: 转告, traditional: 轉告}
+- {english: to load; dress up; pretend; clothing; to install, learned: false, pinyin: zhuāng,
+  pinyin-numbered: zhuang1, simplified: 装, traditional: 裝}
+- {english: decorate, learned: false, pinyin: zhuāngshì, pinyin-numbered: zhuang1shi4,
+  simplified: 装饰, traditional: 裝飾}
+- {english: renovate; to fit up, learned: false, pinyin: zhuāngxiū, pinyin-numbered: zhuang1xiu1,
+  simplified: 装修, traditional: 裝修}
+- {english: condition; state; situation, learned: false, pinyin: zhuàngkuàng, pinyin-numbered: zhuang4kuang4,
+  simplified: 状况, traditional: 狀況}
+- {english: state of affairs; condition; state, learned: false, pinyin: zhuàngtài,
+  pinyin-numbered: zhuang4tai4, simplified: 状态, traditional: 狀態}
+- {english: to hit; collide; run into, learned: false, pinyin: zhuàng, pinyin-numbered: zhuang4,
+  simplified: 撞, traditional: 撞}
+- {english: pursue; chase, learned: false, pinyin: zhuī, pinyin-numbered: zhui1, simplified: 追,
+  traditional: 追}
+- {english: pursue; seek, learned: false, pinyin: zhuīqiú, pinyin-numbered: zhui1qiu2,
+  simplified: 追求, traditional: 追求}
+- {english: request information; consultant; advisory, learned: false, pinyin: zīxún,
+  pinyin-numbered: zi1xun2, simplified: 咨询, traditional: 咨詢}
+- {english: posture; position; pose, learned: false, pinyin: zīshì, pinyin-numbered: zi1shi4,
+  simplified: 姿势, traditional: 姿勢}
+- {english: qualifications; seniority, learned: false, pinyin: zīgé, pinyin-numbered: zi1ge2,
+  simplified: 资格, traditional: 資格}
+- {english: funds; funding, learned: false, pinyin: zījīn, pinyin-numbered: zi1jin1,
+  simplified: 资金, traditional: 資金}
+- {english: data; material; resources; information, learned: false, pinyin: zīliào,
+  pinyin-numbered: zi1liao4, simplified: 资料, traditional: 資料}
+- {english: natural resource; resource, learned: false, pinyin: zīyuán, pinyin-numbered: zi1yuan2,
+  simplified: 资源, traditional: 資源}
+- {english: purple, learned: false, pinyin: zǐ, pinyin-numbered: zi3, simplified: 紫,
+  traditional: 紫}
+- {english: since; ever since, learned: false, pinyin: zìcóng, pinyin-numbered: zi4cong2,
+  simplified: 自从, traditional: 自從}
+- {english: automatic, learned: false, pinyin: zìdòng, pinyin-numbered: zi4dong4,
+  simplified: 自动, traditional: 自動}
+- {english: (feel a sense of) pride, learned: false, pinyin: zìháo, pinyin-numbered: zi4hao2,
+  simplified: 自豪, traditional: 自豪}
+- {english: conscious; be aware of; self-motivated, learned: false, pinyin: zìjué,
+  pinyin-numbered: zi4jue2, simplified: 自觉, traditional: 自覺}
+- {english: selfish, learned: false, pinyin: zìsī, pinyin-numbered: zi4si1, simplified: 自私,
+  traditional: 自私}
+- {english: freedom; free; liberty, learned: false, pinyin: zìyóu, pinyin-numbered: zi4you2,
+  simplified: 自由, traditional: 自由}
+- {english: voluntary, learned: false, pinyin: zìyuàn, pinyin-numbered: zi4yuan4,
+  simplified: 自愿, traditional: 自願}
+- {english: letter (of the alphabet), learned: false, pinyin: zìmǔ, pinyin-numbered: zi4mu3,
+  simplified: 字母, traditional: 字母}
+- {english: subtitles; captions, learned: false, pinyin: zìmù, pinyin-numbered: zi4mu4,
+  simplified: 字幕, traditional: 字幕}
+- {english: synthesized; composite; summarize, learned: false, pinyin: zōnghé, pinyin-numbered: zong1he2,
+  simplified: 综合, traditional: 綜合}
+- {english: director-general; president, learned: false, pinyin: zǒngcái, pinyin-numbered: zong3cai2,
+  simplified: 总裁, traditional: 總裁}
+- {english: altogether; in sum; in all; in total, learned: false, pinyin: zǒnggòng,
+  pinyin-numbered: zong3gong4, simplified: 总共, traditional: 總共}
+- {english: premier; prime minister, learned: false, pinyin: zǒnglǐ, pinyin-numbered: zong3li3,
+  simplified: 总理, traditional: 總理}
+- {english: at long last; finally; on the whole, learned: false, pinyin: zǒngsuàn,
+  pinyin-numbered: zong3suan4, simplified: 总算, traditional: 總算}
+- {english: president (of a country), learned: false, pinyin: zǒngtǒng, pinyin-numbered: zong3tong3,
+  simplified: 总统, traditional: 總統}
+- {english: in a word; in short; in brief / anyway; anyhow, learned: false, pinyin: zǒngzhī,
+  pinyin-numbered: zong3zhi1, simplified: 总之, traditional: 總之}
+- {english: prevent; to block, learned: false, pinyin: zǔzhǐ, pinyin-numbered: zu3zhi3,
+  simplified: 阻止, traditional: 阻止}
+- {english: compose; team up; group, learned: false, pinyin: zǔ, pinyin-numbered: zu3,
+  simplified: 组, traditional: 組}
+- {english: to form; part; element; constitute, learned: false, pinyin: zǔchéng, pinyin-numbered: zu3cheng2,
+  simplified: 组成, traditional: 組成}
+- {english: assemble; combination, learned: false, pinyin: zǔhé, pinyin-numbered: zu3he2,
+  simplified: 组合, traditional: 組合}
+- {english: organize; organization, learned: false, pinyin: zǔzhī, pinyin-numbered: zu3zhi1,
+  simplified: 组织, traditional: 組織}
+- {english: first; primary; initial, learned: false, pinyin: zuìchū, pinyin-numbered: zui4chu1,
+  simplified: 最初, traditional: 最初}
+- {english: intoxicated; become drunk, learned: false, pinyin: zuì, pinyin-numbered: zui4,
+  simplified: 醉, traditional: 醉}
+- {english: respect; revere, learned: false, pinyin: zūnjìng, pinyin-numbered: zun1jing4,
+  simplified: 尊敬, traditional: 尊敬}
+- {english: observe; abide by; comply with; keep (commandments); to respect (an agreement),
+  learned: false, pinyin: zūnshǒu, pinyin-numbered: zun1shou3, simplified: 遵守, traditional: 遵守}
+- {english: works (of literature and art), learned: false, pinyin: zuòpǐn, pinyin-numbered: zuo4pin3,
+  simplified: 作品, traditional: 作品}
+- {english: regard as; act as; action; deed, learned: false, pinyin: zuòwéi, pinyin-numbered: zuo4wei2,
+  simplified: 作为, traditional: 作爲}
+- {english: write an essay; essay, learned: false, pinyin: zuò wén, pinyin-numbered: zuo4
+    wen2, simplified: 作文, traditional: 作文}

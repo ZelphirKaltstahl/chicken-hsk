@@ -1,0 +1,85 @@
+.content-container {
+    padding: 2.4em;
+}
+
+.words-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.word-table-container {
+    background-color: #F0F0F0;
+
+    border-width: 1px;
+    border-color: #CECECE;
+    border-style: solid;
+    border-radius: 3px;
+
+    padding: 0.2em;
+    /*flex-grow: 1; *//* all equal size */
+    margin: 0.2em;
+}
+
+.word-table {
+    border: none;
+}
+
+.word-table td {
+    border-width: 1px;
+    border-color: #A0A0A0;
+    vertical-align: middle;
+}
+
+.word-table p {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+.word-table td.hanzi-cell div {
+}
+
+.word-table td.hanzi-cell div p {
+    margin: auto;
+    font-family: WenQuanYi Micro Hei;
+    font-size: 3em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.word-table td.latinletters-cell div {
+    font-size: 1em;
+    margin: 0.4em 0.4em 0.4em 0.4em;
+    text-align: center;
+}
+
+.word-table div.hanzi-container:first-child {
+    float: left;
+    border: 1px solid #909090;
+    width: 4em;
+    height: 4em;
+    vertical-align: middle;
+    border-radius: 3px;
+    margin: 0.1em 0.1em 0.1em 0em;
+}
+
+.word-table div.hanzi-container {
+    float: left;
+    border: 1px solid #909090;
+    width: 4em;
+    height: 4em;
+    vertical-align: middle;
+    border-radius: 3px;
+    margin: 0.1em 0.1em 0.1em 0.1em;
+}
+
+.word-table div.hanzi-container:last-child {
+    float: left;
+    border: 1px solid #909090;
+    width: 4em;
+    height: 4em;
+    vertical-align: middle;
+    border-radius: 3px;
+    margin: 0.1em 0em 0.1em 0.1em;
+}
