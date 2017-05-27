@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
 }
 
 .word-table-container {
@@ -26,6 +26,13 @@
     border: none;
 }
 
+.hanzi-container {
+    background-image: url(../../image/background.svg);
+    background-color: #FAFAFA;
+    background-size: contain;
+    line-height: 4em;
+}
+
 .word-table td {
     border-width: 1px;
     border-color: #A0A0A0;
@@ -37,13 +44,14 @@
     margin-bottom: 0.2em;
 }
 
-.word-table td.hanzi-cell div {
+.word-table td.hanci-cell {
+    text-align: right;
 }
 
-.word-table td.hanzi-cell div p {
+.word-table td.hanci-cell .hanzi-container p {
     margin: auto;
     font-family: WenQuanYi Micro Hei;
-    font-size: 3em;
+    font-size: 3.6em;
     text-align: center;
     vertical-align: middle;
 }
@@ -54,6 +62,10 @@
     text-align: center;
 }
 
+.latinletters-cell p {
+    max-width: 10em;
+}
+
 .word-table div.hanzi-container:first-child {
     float: left;
     border: 1px solid #909090;
@@ -62,6 +74,7 @@
     vertical-align: middle;
     border-radius: 3px;
     margin: 0.1em 0.1em 0.1em 0em;
+    margin-right: 0px;
 }
 
 .word-table div.hanzi-container {
@@ -74,7 +87,7 @@
     margin: 0.1em 0.1em 0.1em 0.1em;
 }
 
-.word-table div.hanzi-container:last-child {
+.word-table .hanzi-container:last-child {
     float: left;
     border: 1px solid #909090;
     width: 4em;

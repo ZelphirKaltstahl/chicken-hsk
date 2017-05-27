@@ -1,0 +1,7 @@
+.hiding-cell .hanzi-container p {
+    visibility: hidden;
+}
+
+.hiding-cell:hover .hanzi-container p {
+    visibility: visible;
+}

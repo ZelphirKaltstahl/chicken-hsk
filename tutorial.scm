@@ -143,7 +143,7 @@
                        (div (p (@ (class "word-attribute-label"))
                                ,"English:")
                             (p ,(english a-word))))
-                   (td (@ (class "hanzi-cell") (rowspan 3))
+                   (td (@ (class "hiding-cell hanci-cell") (rowspan 3))
                        ,(render-hanci (simplified a-word))))
                (tr)
                (tr (td (@ (class "latinletters-cell") (rowspan 2))
@@ -151,10 +151,11 @@
                                ,"Pīnyīn:")
                             (p ,(pinyin a-word)))))
 
-               (tr (td (@ (class "hanzi-cell") (rowspan 3))
+               (tr (td (@ (class "hiding-cell hanci-cell") (rowspan 3))
                        ,(render-hanci (traditional a-word))))
                (tr (td (@ (class "latinletters-cell") (rowspan 2))
-                       (div (p (@ (class "word-attribute-label")) ,"Pīnyīn #:")
+                       (div (p (@ (class "hiding-cell word-attribute-label"))
+                               ,"Pīnyīn #:")
                             (p ,(pinyin-numbered a-word)))))
                (tr))))
 
@@ -163,9 +164,13 @@
 ;; ====== ;;
 (ajax-library "https://code.jquery.com/jquery-3.2.1.min.js")
 (ajax-namespace "ajax")  ; default
-(page-css (list #;"static/CSS/Skeleton/normalize.css"
-                #;"static/CSS/Skeleton/skeleton.css"
-                "static/CSS/custom/general.css"))
+(page-css
+ (list
+  #;"static/CSS/Skeleton/normalize.css"
+  #;"static/CSS/Skeleton/skeleton.css"
+  "static/CSS/custom/general.css"
+  "static/CSS/custom/hiding.css"
+  #;"static/CSS/custom/crossed.css"))
 
 (define-page (main-page-path)
   (lambda ()
